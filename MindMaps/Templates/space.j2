@@ -1,0 +1,60 @@
+# Space
+## International Space Station
+### Timestamp: {{ location.timestamp }}
+### Location
+#### Latitude: {{ location.iss_position.latitude }}
+#### Longitude: {{ location.iss_position.longitude }}
+## People In Space
+### Craft
+#### International Space Station
+{%- for craft in people.people if craft.craft == "ISS"%}
+##### {{ craft.name }}
+{%- endfor %}
+#### Shenzhou 13
+{%- for craft in people.people if craft.craft == "Shenzhou 13" %}
+##### {{ craft.name }}
+{%- endfor %}
+### Total Number: {{ people.number }}
+## Weather On Mars
+### Sol {{ sol }}
+#### Atmosphere
+##### Atmospheric Temperature
+###### AV: {{ solDetails.AT.av }}
+###### CT: {{ solDetails.AT.ct }}
+###### MN: {{ solDetails.AT.mn }}
+###### MX: {{ solDetails.AT.mx }}
+##### Atmospheric Pressure
+###### AV: {{ solDetails.PRE.av }}
+###### CT: {{ solDetails.PRE.ct }}
+###### MN: {{ solDetails.PRE.mn }}
+###### MX: {{ solDetails.PRE.mx }}
+#### Wind
+##### Horizontal Wind Speed
+###### AV: {{ solDetails.HWS.av }}
+###### CT: {{ solDetails.HWS.ct }}
+###### MN: {{ solDetails.HWS.mn }}
+###### MX: {{ solDetails.HWS.mx }}
+{%- for compass in solDetails.WD %}
+##### Wind Direction Sensor {{ compass }}
+###### Compass Degrees: {{ compass.compass_degrees }}
+###### Compass Point: {{ compass.compass_point }}
+###### Compass Right: {{ compass.compass_right }}
+###### Compass Up: {{ compass.compass_up }}
+###### CT: {{ compass.ct }}
+###### CT: {{ compass.ct }}
+{%- endfor %}
+#### UTC
+##### First UTC: {{ solDetails.First_UTC }}
+##### First UTC: {{ solDetails.Last_UTC }}
+#### Month Ordinal: {{ solDetails.Month_ordinal }}
+#### Seasons
+##### Season {{ solDetails.Season }}
+##### Northern Season {{ solDetails.Northern_season }}
+##### Southern Season {{ solDetails.Southern_season }}
+{%- for sol in solChecks.sols_checked %}
+#### Validity Checks for Sol {{ sol }}
+##### AT
+###### Hours With Data: {{ solChecks[sol].AT.sol_hours_with_data }}
+###### Valid: {{ solChecks[sol].AT.sol_hours_with_data }}
+{%- endfor %}
+###### Sol Hours Required: {{ solChecks.sol_hours_required }}
