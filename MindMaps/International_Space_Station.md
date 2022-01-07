@@ -1,31 +1,21 @@
 # Space
 ## International Space Station
-### Timestamp: 1641521455
+### Timestamp: 1641523159
 ### Location
-#### Latitude: -45.9054
-#### Longitude: -139.8263
+#### Latitude: 32.9014
+#### Longitude: -61.4089
 ## People In Space
 ### Craft
-#### ISS
+#### International Space Station
 ##### Mark Vande Hei
 ##### Pyotr Dubrov
 ##### Anton Shkaplerov
-##### Zhai Zhigang
-##### Wang Yaping
-##### Ye Guangfu
 ##### Raja Chari
 ##### Tom Marshburn
 ##### Kayla Barron
 ##### Matthias Maurer
 #### Shenzhou 13
-##### Mark Vande Hei
-##### Pyotr Dubrov
-##### Anton Shkaplerov
 ##### Zhai Zhigang
 ##### Wang Yaping
 ##### Ye Guangfu
-##### Raja Chari
-##### Tom Marshburn
-##### Kayla Barron
-##### Matthias Maurer
 ### Total Number: 10
