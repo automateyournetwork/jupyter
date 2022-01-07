@@ -1,0 +1,15 @@
+# Space
+## International Space Station
+### Timestamp: {{ location.timestamp }}
+### Location
+#### Latitude: {{ location.iss_position.latitude }}
+#### Longitude: {{ location.iss_position.longitude }}
+## People In Space
+### Craft
+{%- for craft in people.people |map(attribute='craft')|unique|list %}
+#### {{ craft }}
+{%-     for name in people.people |map(attribute='name')|unique|list %}
+##### {{ name }}
+{%-     endfor %}
+{%- endfor %}
+### Total Number: {{ people.number }}
