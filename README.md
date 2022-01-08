@@ -67,3 +67,6 @@ Open the markdown file and click the "Open as markmap"
 The following files are created from the various APIs. The Space.md file contains <b>all</b> APIs. 
 
 ![List](/images/API_List.png)
+
+Original background photo credit 
+[Photo](https://www.nasa.gov/audience/forstudents/k-4/dictionary/Solar_System.html)
