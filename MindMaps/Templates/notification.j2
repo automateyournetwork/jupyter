@@ -1,0 +1,7 @@
+# Notifications
+{%- for notification in notifications %}
+## {{ notification.messageID }}
+### Message Type: {{ notification.messageType }}
+### [Message_URL]({{ notification.messageURL }})
+### Issued: {{ notification.messageIssueTime }}
+{%- endfor %}

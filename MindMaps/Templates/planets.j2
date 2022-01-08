@@ -1,0 +1,46 @@
+# Planets
+{%- for planet in planets %}
+## {{ planet.name }}
+### Names
+#### {{ planet.name }}
+#### English: {{ planet.englishName }}
+#### Alternative: {{ planet.alternativeName }}
+### Semi Major Axis: {{ planet.semimajorAxis }}
+### Perihelion: {{ planet.perihelion }}
+### Aphelion: {{ planet.aphelion }}
+### Eccentricity: {{ planet.eccentricity }}
+### Inclination: {{ planet.inclination }}
+### Mass
+#### Value: {{ planet.mass.massValue }}
+#### Exponent: {{ planet.mass.massExponent }}
+### Volume
+#### Value: {{ planet.vol.volValue }}
+#### Exponent: {{ planet.vol.volExponent }}
+### Density: {{ planet.density }}
+### Gravity: {{ planet.escape }}
+### Radius
+#### Mean: {{ planet.meanRadius }}
+#### Equater: {{ planet.equaRadius }}
+#### Polar: {{ planet.polarRadius }}
+### Flattening: {{ planet.flattening }}
+### Dimension: {{ planet.dimension }}
+### Sideral
+#### Orbit: {{ planet.sideralOrbit }}
+#### Rotation: {{ planet.sideralRotation }}
+### Around Planet: {{ planet.aroundPlanet }}
+### Discovered
+#### By: {{ planet.discoveredBy }}
+#### Date: {{ planet.discoveryDate }}
+### Axial Tilt: {{ planet.axialTilt }}
+### Average Temperature: {{ planet.avgTemp }}
+### Main Anomaly: {{ planet.mainAnomaly }}
+### Periapsis: {{ planet.argPeriapsis }}
+### Long Asc Node: {{ planet.longAscNode }}
+{%-     if planet.moons %}
+### Moons
+{%-         for moon in planet.moons %}
+#### {{ moon.moon }}
+##### [Details]({{ moon.rel }})
+{%-         endfor %}
+{%-     endif %}
+{%- endfor %}

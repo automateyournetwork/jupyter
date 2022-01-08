@@ -1,0 +1,25 @@
+# Natural Events
+{%- for event in events.events %}
+## {{ event.id }}
+### Title: {{ event.title }}
+### Description: {{ event.description }}
+### [Link]({{ event.link }})
+### Categories
+{%-     for category in event.categories %}
+#### ID: {{ category.id }}
+#### Title: {{ category.title }}
+{%-     endfor %}
+### Sources
+{%-     for source in event.sources %}
+#### ID: {{ source.id }}
+#### [Link]({{ source.url }})
+{%-     endfor %}
+### Geometries
+{%-     for geo in event.geometries %}
+#### Date: {{ geo.date }}
+#### Type: {{ geo.type }})
+#### Coordinates
+##### Latitude: {{ geo.coordinates[0] }}
+##### Longitude: {{ geo.coordinates[1] }}
+{%-     endfor %}
+{%- endfor %}

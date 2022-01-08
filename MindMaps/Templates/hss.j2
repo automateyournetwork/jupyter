@@ -1,0 +1,15 @@
+# High Speed Streams
+{%- for stream in hss %}
+## {{ stream.hssID }}
+### Event Time: {{ stream.eventTime }}
+### Instruments:
+{%-     for instrument in stream.instruments %}
+#### {{ instrument.displayName }}
+{%-     endfor %}
+{%-     if stream.linkedEvents %}
+{%-         for event in stream.linkedEvents %}
+#### {{ event.activityID }}
+{%-         endfor %}
+{%-     endif %}
+### [Link]({{ stream.link }})
+{%- endfor %}

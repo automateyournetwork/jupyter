@@ -1,0 +1,15 @@
+# Solar Energetic Particles
+{%- for sep in sep %}
+## {{ sep.sepID }}
+### Event Time: {{ sep.eventTime }}
+### Instruments:
+{%-     for instrument in sep.instruments %}
+#### {{ instrument.displayName }}
+{%-     endfor %}
+{%-     if sep.linkedEvents %}
+{%-         for event in sep.linkedEvents %}
+#### {{ event.activityID }}
+{%-         endfor %}
+{%-     endif %}
+### [Link]({{ sep.link }})
+{%- endfor %}

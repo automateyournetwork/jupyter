@@ -1,0 +1,27 @@
+# Coronal Mass Ejections
+{%- for ejection in cme %}
+## Activity ID: {{ ejection.activityID }}
+### Catalog: {{ ejection.catalog }}
+### Start Time: {{ ejection.startTime }}
+### Source Location: {{ ejection.sourceLocation }}
+### Active Region Number: {{ ejection.activeRegionNum }}
+### [Link]({{ ejection.link }})
+### Note: {{ ejection.note }}
+### Instruments
+{%-     for instrument in ejection.instruments %}
+#### {{ instrument.displayName }}
+{%-     endfor %}
+### Analysis
+{%-     for item in ejection.cmeAnalyses %}
+#### Time: {{ item.time21_5 }}
+#### Latitude: {{ item.latitude }}
+#### Longitude: {{ item.longitude }}
+#### Half Angle: {{ item.halfAngle }}
+#### Speed: {{ item.speed }}
+#### Type: {{ item.type }}
+#### Most Accurate: {{ item.isMostAccurate }}
+#### Level of Data: {{ item.levelOfData }}
+#### [Link]({{ item.link }})
+#### Note: {{ item.note }}
+{%-     endfor %}
+{%- endfor %}
