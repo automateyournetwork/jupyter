@@ -1,9 +1,9 @@
 # Space
 ## International Space Station
-### Timestamp: 1641600751
+### Timestamp: 1647712672
 ### Location
-#### Latitude: 13.9143
-#### Longitude: -49.5481
+#### Latitude: 0.1748
+#### Longitude: -27.0503
 ## People In Space
 ### Craft
 #### International Space Station
@@ -14,1809 +14,1780 @@
 ##### Tom Marshburn
 ##### Kayla Barron
 ##### Matthias Maurer
+##### Oleg Artemyev
+##### Denis Matveev
+##### Sergey Korsakov.
 #### Shenzhou 13
 ##### Zhai Zhigang
 ##### Wang Yaping
 ##### Ye Guangfu
-### Total Number: 10
+### Total Number: 13
 ## Astronomy Photo of the Day
-### Title: Ecstatic Solar Eclipse
-#### Date: 2022-01-07
-#### Explaination: A male Adelie penguin performed this Ecstatic Vocalization in silhouette during the December 4 solar eclipse, the final eclipse of 2021. Of course his Ecstatic Vocalization is a special display that male penguins use to claim their territory and advertise their condition. This penguin's territory, at Cape Crozier Antarctica, is located in one of the largest Adelie penguin colonies. The colony has been studied by researchers for over 25 years. From there, last December's eclipse was about 80 percent total when seen at its maximum phase as the Moon's shadow crossed planet Earth's southernmost continent.   Status Updates: Deploying the James Webb Space Telescope
+### Title: 2MASS J17554042+6551277
+#### Date: 2022-03-19
+#### Explaination: 2MASS J17554042+6551277 doesn't exactly roll off the tongue but that's the name, a coordinate-based catalog designation, of the star centered in this sharp field of view. Fans of the distant universe should get used to its spiky appearance though. The diffraction pattern is created by the 18 hexagonal mirror segments of the James Webb Space Telescope. After unfolding, the segments have now been adjusted to achieve a diffraction limited alignment at infrared wavelengths while operating in concert as a single 6.5 meter diameter primary mirror. The resulting image taken by Webb's NIRcam demonstrates their precise alignment is the best physics will allow. 2MASS J17554042+6551277 is about 2,000 light-years away and well within our own galaxy. But the galaxies scattered across the background of the Webb telescope alignment evaluation image are likely billions of light-years distant, far beyond the Milky Way.
 #### URLs 
-##### [Hi Definition](https://apod.nasa.gov/apod/image/2201/eclipse_EV.jpg)
-##### [Regular Definiton ](https://apod.nasa.gov/apod/image/2201/eclipse_EV.jpg)
-#### Copyright Point Blue Conservation Science
+##### [Hi Definition](https://apod.nasa.gov/apod/image/2203/telescope_alignment_evaluation_image_labeled.jpg)
+##### [Regular Definiton ](https://apod.nasa.gov/apod/image/2203/telescope_alignment_evaluation_image_labeled.jpg)
+#### Copyright 
 ## Near Earth Objects
-### Total Number: 11
-#### Date: 2022-01-08
-##### Name: 306523 (1999 XR35)
-###### ID: 2306523
-###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2306523)
+### Total Number: 93
+#### Date: 2022-03-19
+##### Name: 307161 (2002 DY3)
+###### ID: 2307161
+###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2307161)
 ###### Sentry Object: False
 ##### Size
-###### Absolute Magnitude(h): 17.9
-###### Estimated Maximum Diameter(kilometers): 1.5632915441
-###### Estimated Minumum Diameter(kilometers): 0.6991252322
-###### Estimated Maximum Diameter(meters): 1563.2915440869
-###### Estimated Minumum Diameter(meters): 699.1252322458
-###### Estimated Maximum Diameter(miles): 0.97138403
-###### Estimated Minumum Diameter(miles): 0.4344161447
-###### Estimated Maximum Diameter(feet): 5128.9094295021
-###### Estimated Minumum Diameter(feet): 2293.7180269613
+###### Absolute Magnitude(h): 18.36
+###### Estimated Maximum Diameter(kilometers): 1.2648527775
+###### Estimated Minumum Diameter(kilometers): 0.5656593584
+###### Estimated Maximum Diameter(meters): 1264.852777541
+###### Estimated Minumum Diameter(meters): 565.6593584222
+###### Estimated Maximum Diameter(miles): 0.7859428352
+###### Estimated Minumum Diameter(miles): 0.3514843212
+###### Estimated Maximum Diameter(feet): 4149.7795866675
+###### Estimated Minumum Diameter(feet): 1855.8378494859
 ##### Potentially Hazardous: False
-##### Close Date Approach 2022-Jan-08 06:44
-###### Relative Velocity Kilometers Per Second: 9.6512237212
-###### Relative Velocity Kilometers Per Hour: 34744.405396358
-###### Relative Velocity Miles Per Hour: 21588.8223419759
-###### Miss Distance Astronomical : 0.3540665869
-###### Miss Distance Lunar: 137.7319023041
-###### Miss Distance Kilometers: 52967607.238409903
-###### Miss Distance Miles: 32912544.9629585414
+##### Close Date Approach 2022-Mar-19 15:08
+###### Relative Velocity Kilometers Per Second: 19.9549974075
+###### Relative Velocity Kilometers Per Hour: 71837.9906670536
+###### Relative Velocity Miles Per Hour: 44637.3337008701
+###### Miss Distance Astronomical : 0.4749063128
+###### Miss Distance Lunar: 184.7385556792
+###### Miss Distance Kilometers: 71044972.844433736
+###### Miss Distance Miles: 44145299.0808121168
 ##### Orbiting Body: Earth
-#### Date: 2022-01-09
-##### Name: (2002 RR25)
-###### ID: 3134264
-###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3134264)
+#### Date: 2022-03-24
+##### Name: 277810 (2006 FV35)
+###### ID: 2277810
+###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2277810)
 ###### Sentry Object: False
 ##### Size
-###### Absolute Magnitude(h): 21.1
-###### Estimated Maximum Diameter(kilometers): 0.358129403
-###### Estimated Minumum Diameter(kilometers): 0.160160338
-###### Estimated Maximum Diameter(meters): 358.1294030194
-###### Estimated Minumum Diameter(meters): 160.1603379786
-###### Estimated Maximum Diameter(miles): 0.2225312253
-###### Estimated Minumum Diameter(miles): 0.0995189894
-###### Estimated Maximum Diameter(feet): 1174.9652706022
-###### Estimated Minumum Diameter(feet): 525.4604432536
+###### Absolute Magnitude(h): 21.74
+###### Estimated Maximum Diameter(kilometers): 0.2667104172
+###### Estimated Minumum Diameter(kilometers): 0.1192765246
+###### Estimated Maximum Diameter(meters): 266.7104172244
+###### Estimated Minumum Diameter(meters): 119.2765246442
+###### Estimated Maximum Diameter(miles): 0.1657261187
+###### Estimated Minumum Diameter(miles): 0.0741149734
+###### Estimated Maximum Diameter(feet): 875.0342052466
+###### Estimated Minumum Diameter(feet): 391.3271931138
 ##### Potentially Hazardous: False
-##### Close Date Approach 2022-Jan-09 06:30
-###### Relative Velocity Kilometers Per Second: 11.15120305
-###### Relative Velocity Kilometers Per Hour: 40144.3309798366
-###### Relative Velocity Miles Per Hour: 24944.1261024434
-###### Miss Distance Astronomical : 0.3300124859
-###### Miss Distance Lunar: 128.3748570151
-###### Miss Distance Kilometers: 49369164.964045033
-###### Miss Distance Miles: 30676576.6168981354
+##### Close Date Approach 2022-Mar-24 05:17
+###### Relative Velocity Kilometers Per Second: 10.2055373406
+###### Relative Velocity Kilometers Per Hour: 36739.9344262594
+###### Relative Velocity Miles Per Hour: 22828.7664772499
+###### Miss Distance Astronomical : 0.3734863468
+###### Miss Distance Lunar: 145.2861889052
+###### Miss Distance Kilometers: 55872761.955361316
+###### Miss Distance Miles: 34717724.3967895208
 ##### Orbiting Body: Earth
-#### Date: 2022-01-14
-##### Name: 162149 (1998 YQ11)
-###### ID: 2162149
-###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2162149)
+#### Date: 2022-03-23
+##### Name: 434313 (2004 GP)
+###### ID: 2434313
+###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2434313)
 ###### Sentry Object: False
 ##### Size
-###### Absolute Magnitude(h): 17.34
-###### Estimated Maximum Diameter(kilometers): 2.0232054153
-###### Estimated Minumum Diameter(kilometers): 0.9048049682
-###### Estimated Maximum Diameter(meters): 2023.2054153312
-###### Estimated Minumum Diameter(meters): 904.8049682253
-###### Estimated Maximum Diameter(miles): 1.2571611721
-###### Estimated Minumum Diameter(miles): 0.5622195679
-###### Estimated Maximum Diameter(feet): 6637.8132548353
-###### Estimated Minumum Diameter(feet): 2968.5203319522
+###### Absolute Magnitude(h): 19.4
+###### Estimated Maximum Diameter(kilometers): 0.7835017643
+###### Estimated Minumum Diameter(kilometers): 0.3503926411
+###### Estimated Maximum Diameter(meters): 783.5017643338
+###### Estimated Minumum Diameter(meters): 350.3926411083
+###### Estimated Maximum Diameter(miles): 0.4868452748
+###### Estimated Minumum Diameter(miles): 0.2177238258
+###### Estimated Maximum Diameter(feet): 2570.543928497
+###### Estimated Minumum Diameter(feet): 1149.5821926537
 ##### Potentially Hazardous: False
-##### Close Date Approach 2022-Jan-14 03:21
-###### Relative Velocity Kilometers Per Second: 5.7050481024
-###### Relative Velocity Kilometers Per Hour: 20538.1731684694
-###### Relative Velocity Miles Per Hour: 12761.6221001525
-###### Miss Distance Astronomical : 0.2653917898
-###### Miss Distance Lunar: 103.2374062322
-###### Miss Distance Kilometers: 39702046.469567726
-###### Miss Distance Miles: 24669707.7266415788
+##### Close Date Approach 2022-Mar-23 09:12
+###### Relative Velocity Kilometers Per Second: 11.6340212968
+###### Relative Velocity Kilometers Per Hour: 41882.47666862
+###### Relative Velocity Miles Per Hour: 26024.1422388989
+###### Miss Distance Astronomical : 0.2385911039
+###### Miss Distance Lunar: 92.8119394171
+###### Miss Distance Kilometers: 35692720.944388693
+###### Miss Distance Miles: 22178428.3674542434
 ##### Orbiting Body: Earth
-#### Date: 2022-01-10
-##### Name: 348314 (2005 BC)
-###### ID: 2348314
-###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2348314)
+#### Date: 2022-03-26
+##### Name: (1999 FJ21)
+###### ID: 3020897
+###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3020897)
 ###### Sentry Object: False
 ##### Size
-###### Absolute Magnitude(h): 17.91
-###### Estimated Maximum Diameter(kilometers): 1.5561088719
-###### Estimated Minumum Diameter(kilometers): 0.6959130436
-###### Estimated Maximum Diameter(meters): 1556.108871884
-###### Estimated Minumum Diameter(meters): 695.9130435846
-###### Estimated Maximum Diameter(miles): 0.9669209258
-###### Estimated Minumum Diameter(miles): 0.4324201838
-###### Estimated Maximum Diameter(feet): 5105.3442312318
-###### Estimated Minumum Diameter(feet): 2283.1793499141
+###### Absolute Magnitude(h): 20.21
+###### Estimated Maximum Diameter(kilometers): 0.5395602892
+###### Estimated Minumum Diameter(kilometers): 0.2412986969
+###### Estimated Maximum Diameter(meters): 539.5602891983
+###### Estimated Minumum Diameter(meters): 241.2986969214
+###### Estimated Maximum Diameter(miles): 0.3352671165
+###### Estimated Minumum Diameter(miles): 0.1499360126
+###### Estimated Maximum Diameter(feet): 1770.2109792133
+###### Estimated Minumum Diameter(feet): 791.6624168075
+##### Potentially Hazardous: False
+##### Close Date Approach 2022-Mar-26 11:51
+###### Relative Velocity Kilometers Per Second: 11.709642264
+###### Relative Velocity Kilometers Per Hour: 42154.712150287
+###### Relative Velocity Miles Per Hour: 26193.2987802714
+###### Miss Distance Astronomical : 0.2856251464
+###### Miss Distance Lunar: 111.1081819496
+###### Miss Distance Kilometers: 42728913.519878168
+###### Miss Distance Miles: 26550515.6974799984
+##### Orbiting Body: Earth
+#### Date: 2022-03-25
+##### Name: (2008 GA4)
+###### ID: 3408592
+###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3408592)
+###### Sentry Object: False
+##### Size
+###### Absolute Magnitude(h): 19.1
+###### Estimated Maximum Diameter(kilometers): 0.8995803882
+###### Estimated Minumum Diameter(kilometers): 0.4023045798
+###### Estimated Maximum Diameter(meters): 899.5803881691
+###### Estimated Minumum Diameter(meters): 402.3045798343
+###### Estimated Maximum Diameter(miles): 0.5589731654
+###### Estimated Minumum Diameter(miles): 0.2499803991
+###### Estimated Maximum Diameter(feet): 2951.3793207207
+###### Estimated Minumum Diameter(feet): 1319.8969577037
+##### Potentially Hazardous: False
+##### Close Date Approach 2022-Mar-25 22:23
+###### Relative Velocity Kilometers Per Second: 25.2886601242
+###### Relative Velocity Kilometers Per Hour: 91039.1764472903
+###### Relative Velocity Miles Per Hour: 56568.2038319288
+###### Miss Distance Astronomical : 0.2169733388
+###### Miss Distance Lunar: 84.4026287932
+###### Miss Distance Kilometers: 32458749.331268356
+###### Miss Distance Miles: 20168931.5886650728
+##### Orbiting Body: Earth
+#### Date: 2022-03-20
+##### Name: 405762 (2005 YO180)
+###### ID: 2405762
+###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2405762)
+###### Sentry Object: False
+##### Size
+###### Absolute Magnitude(h): 20.28
+###### Estimated Maximum Diameter(kilometers): 0.5224442801
+###### Estimated Minumum Diameter(kilometers): 0.233644185
+###### Estimated Maximum Diameter(meters): 522.4442801486
+###### Estimated Minumum Diameter(meters): 233.6441849736
+###### Estimated Maximum Diameter(miles): 0.3246317248
+###### Estimated Minumum Diameter(miles): 0.1451797209
+###### Estimated Maximum Diameter(feet): 1714.0560920828
+###### Estimated Minumum Diameter(feet): 766.5491878289
 ##### Potentially Hazardous: True
-##### Close Date Approach 2022-Jan-10 16:47
-###### Relative Velocity Kilometers Per Second: 15.2076073777
-###### Relative Velocity Kilometers Per Hour: 54747.3865595659
-###### Relative Velocity Miles Per Hour: 34017.8969430814
-###### Miss Distance Astronomical : 0.3535611487
-###### Miss Distance Lunar: 137.5352868443
-###### Miss Distance Kilometers: 52891994.760273269
-###### Miss Distance Miles: 32865561.5476943522
+##### Close Date Approach 2022-Mar-20 06:04
+###### Relative Velocity Kilometers Per Second: 19.9392106001
+###### Relative Velocity Kilometers Per Hour: 71781.1581602704
+###### Relative Velocity Miles Per Hour: 44602.020191308
+###### Miss Distance Astronomical : 0.2939932195
+###### Miss Distance Lunar: 114.3633623855
+###### Miss Distance Kilometers: 43980759.431642465
+###### Miss Distance Miles: 27328376.677157417
 ##### Orbiting Body: Earth
-#### Date: 2022-01-11
-##### Name: (2000 AH205)
-###### ID: 3092248
-###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3092248)
+#### Date: 2022-03-22
+##### Name: 325102 (2008 EY5)
+###### ID: 2325102
+###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2325102)
 ###### Sentry Object: False
 ##### Size
-###### Absolute Magnitude(h): 22.6
-###### Estimated Maximum Diameter(kilometers): 0.1794898848
-###### Estimated Minumum Diameter(kilometers): 0.0802703167
-###### Estimated Maximum Diameter(meters): 179.4898847799
-###### Estimated Minumum Diameter(meters): 80.2703167283
-###### Estimated Maximum Diameter(miles): 0.1115298092
-###### Estimated Minumum Diameter(miles): 0.049877647
-###### Estimated Maximum Diameter(feet): 588.8775935812
-###### Estimated Minumum Diameter(feet): 263.3540659348
+###### Absolute Magnitude(h): 20.1
+###### Estimated Maximum Diameter(kilometers): 0.5675968529
+###### Estimated Minumum Diameter(kilometers): 0.2538370294
+###### Estimated Maximum Diameter(meters): 567.5968528656
+###### Estimated Minumum Diameter(meters): 253.8370293645
+###### Estimated Maximum Diameter(miles): 0.3526882241
+###### Estimated Minumum Diameter(miles): 0.1577269688
+###### Estimated Maximum Diameter(feet): 1862.1944587557
+###### Estimated Minumum Diameter(feet): 832.7986794202
 ##### Potentially Hazardous: False
-##### Close Date Approach 2022-Jan-11 19:19
-###### Relative Velocity Kilometers Per Second: 19.9727272709
-###### Relative Velocity Kilometers Per Hour: 71901.8181753167
-###### Relative Velocity Miles Per Hour: 44676.9936323239
-###### Miss Distance Astronomical : 0.2483455821
-###### Miss Distance Lunar: 96.6064314369
-###### Miss Distance Kilometers: 37151970.106070127
-###### Miss Distance Miles: 23085163.7506446726
+##### Close Date Approach 2022-Mar-22 16:17
+###### Relative Velocity Kilometers Per Second: 24.8159775084
+###### Relative Velocity Kilometers Per Hour: 89337.5190300899
+###### Relative Velocity Miles Per Hour: 55510.8600884467
+###### Miss Distance Astronomical : 0.329757013
+###### Miss Distance Lunar: 128.275478057
+###### Miss Distance Kilometers: 49330946.76236231
+###### Miss Distance Miles: 30652828.927567478
 ##### Orbiting Body: Earth
-#### Date: 2022-01-12
-##### Name: (2002 BF25)
-###### ID: 3102784
-###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3102784)
+#### Date: 2022-03-21
+##### Name: 465824 (2010 FR)
+###### ID: 2465824
+###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2465824)
 ###### Sentry Object: False
 ##### Size
-###### Absolute Magnitude(h): 22.42
-###### Estimated Maximum Diameter(kilometers): 0.19500241
-###### Estimated Minumum Diameter(kilometers): 0.0872077289
-###### Estimated Maximum Diameter(meters): 195.0024100049
-###### Estimated Minumum Diameter(meters): 87.2077289095
-###### Estimated Maximum Diameter(miles): 0.1211688425
-###### Estimated Minumum Diameter(miles): 0.0541883537
-###### Estimated Maximum Diameter(feet): 639.7717068406
-###### Estimated Minumum Diameter(feet): 286.1146053153
-##### Potentially Hazardous: False
-##### Close Date Approach 2022-Jan-12 18:32
-###### Relative Velocity Kilometers Per Second: 10.4832882255
-###### Relative Velocity Kilometers Per Hour: 37739.8376119724
-###### Relative Velocity Miles Per Hour: 23450.0674317281
-###### Miss Distance Astronomical : 0.1227003906
-###### Miss Distance Lunar: 47.7304519434
-###### Miss Distance Kilometers: 18355717.081928022
-###### Miss Distance Miles: 11405713.7047378236
-##### Orbiting Body: Earth
-#### Date: 2022-01-13
-##### Name: 68031 (2000 YK29)
-###### ID: 2068031
-###### [NASA JPL URL](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2068031)
-###### Sentry Object: False
-##### Size
-###### Absolute Magnitude(h): 18.07
-###### Estimated Maximum Diameter(kilometers): 1.4455728362
-###### Estimated Minumum Diameter(kilometers): 0.6464798256
-###### Estimated Maximum Diameter(meters): 1445.5728361502
-###### Estimated Minumum Diameter(meters): 646.4798256118
-###### Estimated Maximum Diameter(miles): 0.8982370388
-###### Estimated Minumum Diameter(miles): 0.4017038157
-###### Estimated Maximum Diameter(feet): 4742.6931837552
-###### Estimated Minumum Diameter(feet): 2120.9968710603
-##### Potentially Hazardous: False
-##### Close Date Approach 2022-Jan-13 07:23
-###### Relative Velocity Kilometers Per Second: 7.9295168977
-###### Relative Velocity Kilometers Per Hour: 28546.2608316264
-###### Relative Velocity Miles Per Hour: 17737.536348407
-###### Miss Distance Astronomical : 0.3063777652
-###### Miss Distance Lunar: 119.1809506628
-###### Miss Distance Kilometers: 45833461.089280124
-###### Miss Distance Miles: 28479592.1046447512
+###### Absolute Magnitude(h): 21.71
+###### Estimated Maximum Diameter(kilometers): 0.2704207287
+###### Estimated Minumum Diameter(kilometers): 0.1209358264
+###### Estimated Maximum Diameter(meters): 270.4207287184
+###### Estimated Minumum Diameter(meters): 120.9358263879
+###### Estimated Maximum Diameter(miles): 0.1680315986
+###### Estimated Minumum Diameter(miles): 0.0751460154
+###### Estimated Maximum Diameter(feet): 887.2071436085
+###### Estimated Minumum Diameter(feet): 396.7710966464
+##### Potentially Hazardous: True
+##### Close Date Approach 2022-Mar-21 15:00
+###### Relative Velocity Kilometers Per Second: 18.2835836985
+###### Relative Velocity Kilometers Per Hour: 65820.9013147372
+###### Relative Velocity Miles Per Hour: 40898.5483752599
+###### Miss Distance Astronomical : 0.2070065893
+###### Miss Distance Lunar: 80.5255632377
+###### Miss Distance Kilometers: 30967744.835244791
+###### Miss Distance Miles: 19242464.3556924758
 ##### Orbiting Body: Earth
 ## Weather On Mars
-### Sol 1098
-#### Atmosphere
-##### Atmospheric Temperature
-###### AV: -60.566
-###### CT: 179422
-###### MN: -93.398
-###### MX: -12.146
-##### Atmospheric Pressure
-###### AV: 619.839
-###### CT: 92416
-###### MN: 593.2676
-###### MX: 637.5315
-#### Wind
-##### Horizontal Wind Speed
-###### AV: 5.169
-###### CT: 85838
-###### MN: 0.284
-###### MX: 19.268
-##### Wind Direction Sensor 0
-###### Compass Degrees: 0.0
-###### Compass Point: N
-###### Compass Right: 0.0
-###### Compass Up: 1.0
-###### CT: 580
-##### Wind Direction Sensor 1
-###### Compass Degrees: 22.5
-###### Compass Point: NNE
-###### Compass Right: 0.382683432365
-###### Compass Up: 0.923879532511
-###### CT: 223
-##### Wind Direction Sensor 10
-###### Compass Degrees: 225.0
-###### Compass Point: SW
-###### Compass Right: -0.707106781187
-###### Compass Up: -0.707106781187
-###### CT: 5554
-##### Wind Direction Sensor 11
-###### Compass Degrees: 247.5
-###### Compass Point: WSW
-###### Compass Right: -0.923879532511
-###### Compass Up: -0.382683432365
-###### CT: 2967
-##### Wind Direction Sensor 12
-###### Compass Degrees: 270.0
-###### Compass Point: W
-###### Compass Right: -1.0
-###### Compass Up: -0.0
-###### CT: 16605
-##### Wind Direction Sensor 13
-###### Compass Degrees: 292.5
-###### Compass Point: WNW
-###### Compass Right: -0.923879532511
-###### Compass Up: 0.382683432365
-###### CT: 12014
-##### Wind Direction Sensor 14
-###### Compass Degrees: 315.0
-###### Compass Point: NW
-###### Compass Right: -0.707106781187
-###### Compass Up: 0.707106781187
-###### CT: 163
-##### Wind Direction Sensor 15
-###### Compass Degrees: 337.5
-###### Compass Point: NNW
-###### Compass Right: -0.382683432365
-###### Compass Up: 0.923879532511
-###### CT: 271
-##### Wind Direction Sensor 2
-###### Compass Degrees: 45.0
-###### Compass Point: NE
-###### Compass Right: 0.707106781187
-###### Compass Up: 0.707106781187
-###### CT: 766
-##### Wind Direction Sensor 3
-###### Compass Degrees: 67.5
-###### Compass Point: ENE
-###### Compass Right: 0.923879532511
-###### Compass Up: 0.382683432365
-###### CT: 4840
-##### Wind Direction Sensor 5
-###### Compass Degrees: 112.5
-###### Compass Point: ESE
-###### Compass Right: 0.923879532511
-###### Compass Up: -0.382683432365
-###### CT: 2275
-##### Wind Direction Sensor 6
-###### Compass Degrees: 135.0
-###### Compass Point: SE
-###### Compass Right: 0.707106781187
-###### Compass Up: -0.707106781187
-###### CT: 6393
-##### Wind Direction Sensor 7
-###### Compass Degrees: 157.5
-###### Compass Point: SSE
-###### Compass Right: 0.382683432365
-###### Compass Up: -0.923879532511
-###### CT: 11280
-##### Wind Direction Sensor 8
-###### Compass Degrees: 180.0
-###### Compass Point: S
-###### Compass Right: 0.0
-###### Compass Up: -1.0
-###### CT: 9933
-##### Wind Direction Sensor 9
-###### Compass Degrees: 202.5
-###### Compass Point: SSW
-###### Compass Right: -0.382683432365
-###### Compass Up: -0.923879532511
-###### CT: 11974
-##### Wind Direction Sensor most_common
-###### Compass Degrees: 270.0
-###### Compass Point: W
-###### Compass Right: -1.0
-###### Compass Up: -0.0
-###### CT: 16605
-#### UTC
-##### First UTC: 2021-12-28T09:37:49Z
-##### First UTC: 2021-12-29T10:17:23Z
-#### Month Ordinal: 5
-#### Seasons
-##### Season spring
-##### Northern Season mid summer
-##### Southern Season mid winter
-#### Validity Checks
-##### Sol: 1095
-###### AT Hours With Data: 21, 22, 23
-###### AT Valid: False
-###### HWS Hours With Data: 21, 22, 23
-###### HWS Valid: False
-###### PRE Hours With Data: 21, 22, 23
-###### PRE Valid: False
-###### WD Hours With Data: 21, 22, 23
-###### WD Valid: False
-##### Sol: 1096
-###### AT Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
-###### AT Valid: False
-###### HWS Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
-###### HWS Valid: False
-###### PRE Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
-###### PRE Valid: False
-###### WD Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
-###### WD Valid: False
-##### Sol: 1097
-###### AT Hours With Data: 19, 20, 21, 22, 23
-###### AT Valid: False
-###### HWS Hours With Data: 20, 21, 22, 23
-###### HWS Valid: False
-###### PRE Hours With Data: 19, 20, 21, 22, 23
-###### PRE Valid: False
-###### WD Hours With Data: 20, 21, 22, 23
-###### WD Valid: False
-##### Sol: 1098
-###### AT Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
-###### AT Valid: True
-###### HWS Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
-###### HWS Valid: True
-###### PRE Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
-###### PRE Valid: True
-###### WD Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
-###### WD Valid: True
-##### Sol: 1099
-###### AT Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
-###### AT Valid: False
-###### HWS Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
-###### HWS Valid: False
-###### PRE Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
-###### PRE Valid: False
-###### WD Hours With Data: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
-###### WD Valid: False
+### Validity Checks
+### AT Hours With Data: 12, 13, 14, 15, 16, 17, 18, 19, 20
+#### AT Valid: False
+#### HWS Hours With Data: 12, 13, 14, 15, 16, 17, 18, 19, 20
+#### HWS Valid: False
+#### PRE Hours With Data: 12, 13, 14, 15, 16, 17, 18, 19, 20
+#### PRE Valid: False
+#### WD Hours With Data: 12, 13, 14, 15, 16, 17, 18, 19, 20
+#### WD Valid: False
+### AT Hours With Data: 4, 5, 6, 7, 8, 9, 10, 11, 12
+#### AT Valid: False
+#### HWS Hours With Data: 4, 5, 6, 7, 8, 9, 10, 11, 12
+#### HWS Valid: False
+#### PRE Hours With Data: 4, 5, 6, 7, 8, 9, 10, 11, 12
+#### PRE Valid: False
+#### WD Hours With Data: 4, 5, 6, 7, 8, 9, 10, 11, 12
+#### WD Valid: False
+### AT Hours With Data: 15, 16, 17, 18, 19, 20, 21, 22
+#### AT Valid: False
+#### HWS Hours With Data: 15, 16, 17, 18, 19, 20, 21, 22
+#### HWS Valid: False
+#### PRE Hours With Data: 15, 16, 17, 18, 19, 20, 21, 22
+#### PRE Valid: False
+#### WD Hours With Data: 15, 16, 17, 18, 19, 20, 21, 22
+#### WD Valid: False
+### AT Hours With Data: 6, 7, 8, 9, 10, 11
+#### AT Valid: False
+#### HWS Hours With Data: 7, 8, 9, 10, 11
+#### HWS Valid: False
+#### PRE Hours With Data: 6, 7, 8, 9, 10, 11
+#### PRE Valid: False
+#### WD Hours With Data: 7, 8, 9, 10, 11
+#### WD Valid: False
 ###### Sol Hours Required: 18
 ## Coronal Mass Ejections
-### Activity ID: 2021-12-09T02:12:00-CME-001
+### Activity ID: 2022-02-17T21:24:00-CME-001
 #### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-09T02:12Z
+#### Start Time: 2022-02-17T21:24Z
 #### Source Location: 
 #### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18496/-1)
-#### Note: This CME is visible in the east of SOHO LASCO C2/C3 and STEREO A COR2. The source is an eruption from an active region beyond the east limb of STA EUVI 195 around 00:55Z.
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19216/-1)
+#### Note: This CME is a partial halo to the NW in SOHO LASCO C2/C3 and to the NE in STEREO A COR2. The potential source of this CME is visible along the NW limb in SDO/AIA 193 and 171 as moving/opening field lines and an EUV wave.
 #### Instruments
 ##### SOHO: LASCO/C2
 ##### SOHO: LASCO/C3
 ##### STEREO A: SECCHI/COR2
 #### Analysis
-##### Time: 2021-12-09T11:45Z
-##### Latitude: -4.0
-##### Longitude: -149.0
-##### Half Angle: 11.0
-##### Speed: 361.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18497/-1)
-##### Note: The longitude is approximated from the source seen on the east limb from STEREO A EUVI 195 imagery. As a result, the longitude may be off by about +/- 10 degrees from this measurement.
-### Activity ID: 2021-12-09T05:00:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-09T05:00Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18499/-1)
-#### Note: This CME is visible in the east of SOHO LASCO C2, C3, and STEREO A COR2. It is faint in STEREO A COR2 white light imagery because it is obscured by the streamer. The potential source is opening field line movement on or beyond the east limb around 01:00Z in SDO AIA 171. A corresponding eruption was not located in STEREO A EUVI 195. There was a data gap in this imagery from 2021-12-08T20:55Z to 2021-12-09T00:53Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-09T10:48Z
-##### Latitude: 14.0
-##### Longitude: -105.0
-##### Half Angle: 11.0
-##### Speed: 630.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18500/-1)
-##### Note: The longitude was obtained using the source location beyond the limb and the best fit between SOHO LASCO C2/C3 and STEREO A COR2 in SWPC_CAT. The longitude made differ by +/- 10 degrees from this measurement.
-### Activity ID: 2021-12-09T17:36:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-09T17:36Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18504/-1)
-#### Note: This CME is seen in the NE of SOHO LASCO C2/C3 and STEREO A COR2. The CME is faint in STEREO A COR2 and is near the streamer in the coronagraph. The source is rapidly opening field lines seen on the NE limb in STEREO A EUVI 195 around 2021-12-09T16:35Z. It is also faintly visible beyond the limb in SDO AIA 171 and 193.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-10T02:47Z
-##### Latitude: 27.0
-##### Longitude: -125.0
-##### Half Angle: 14.0
-##### Speed: 394.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18506/-1)
-##### Note: This measurement assumes the source location as the eruption on the limb of STEREO A EUVI 195.
-##### Time: 2021-12-10T06:19Z
-##### Latitude: 27.0
-##### Longitude: -121.0
-##### Half Angle: 13.0
-##### Speed: 289.0
-##### Type: S
-##### Most Accurate: False
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18505/-1)
-##### Note: 
-### Activity ID: 2021-12-09T23:24:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-09T23:24Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18507/-1)
-#### Note: This CME can be seen to the east in SOHO LASCO C2 and C3. The source is rapidly opening field lines and post-eruptive arcades seen on or beyond the limb in SDO AIA imagery around 2021-12-19T22:51Z. It is best seen in SDO AIA 193 and 171. This eruption is also seen on the east limb in STEREO A EUVI 195.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-10T04:10Z
-##### Latitude: -6.0
-##### Longitude: -121.0
-##### Half Angle: 16.0
-##### Speed: 697.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18510/-1)
-##### Note: This CME was measured using the source location on the east limb in STEREO A EUVI 195 imagery as well as the best fit between STEREO A COR2 and SOHO LASCO C2/C3 imagery in SWPC_CAT.
-##### Time: 2021-12-10T05:39Z
-##### Latitude: -7.0
-##### Longitude: None
-##### Half Angle: 16.0
-##### Speed: 550.0
-##### Type: C
-##### Most Accurate: False
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18508/-1)
-##### Note: This is a plane of sky measurement using SOHO LASCO C2 and C3 imagery in SWPC_CAT.
-### Activity ID: 2021-12-10T11:36:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-10T11:36Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18511/-1)
-#### Note: This CME is visible in the southeast of SOHO LASCO C2/C3 and STEREO A COR2. The source is an eruption with opening field lines and post eruption arcades from an active region on the southeast limb in STEREO A EUVI 195. It begins around 11:00Z. It can also be seen beyond the southeast limb in SDO AIA 171/193/305.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-10T20:51Z
-##### Latitude: -13.0
-##### Longitude: -120.0
-##### Half Angle: 10.0
-##### Speed: 347.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18517/-1)
-##### Note: This CME was measured with limited SOHO LASCO C2 imagery due to its faintness and narrowness. This measurement was made assuming that the source is the eruption seen on the east limb in STEREO A EUVI 195.
-##### Time: 2021-12-10T21:26Z
-##### Latitude: -12.0
-##### Longitude: None
-##### Half Angle: 10.0
-##### Speed: 367.0
-##### Type: S
-##### Most Accurate: False
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18512/-1)
-##### Note: This is a plane of sky measurement using limited SOHO LASCO C2 imagery. Due to the faintness of the CME, it was not measured using SOHO LASCO C3. It was not measured using STEREO A COR2 due to a data gap at the time of this measurement.
-### Activity ID: 2021-12-13T11:48:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-13T11:48Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18522/-1)
-#### Note: The CME is first visible to the E/SE in SOHO LASCO C2 with a potential source of the unnumbered active region near S25E90. Moving field lines are visible starting around 2021-12-13T11:20Z in SDO/AIA 171.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-13T18:11Z
-##### Latitude: -9.0
-##### Longitude: -90.0
-##### Half Angle: 15.0
-##### Speed: 557.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18523/-1)
-##### Note: These parameters are based on the potential source location of S25E90. There currently is no STEREO A data available for this event.
-### Activity ID: 2021-12-14T13:25:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-14T13:25Z
-#### Source Location: S40E50
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18527/-1)
-#### Note: This narrow CME is associated with the movement of field lines near S40E50 as seen in SDO AIA 193 starting around 2021-12-14T12:55Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-14T21:34Z
-##### Latitude: -43.0
-##### Longitude: -63.0
-##### Half Angle: 10.0
-##### Speed: 421.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18528/-1)
-##### Note: This SWPC_CAT measurement tracks the faint leading edge of the CME using both SOHO LASCO C2 and STEREO A COR2 difference imagery to approximate the longitude. StereoCAT suggests the half-width is less than 10 degrees (closer to 5 degrees). However, SWPC_CAT does not enable a smaller half-width to be used when deriving CME parameters.
-### Activity ID: 2021-12-14T17:38:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-14T17:38Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18544/-1)
-#### Note: This CME event is associated with a filament eruption from center of the Earth-facing disk as seen in SDO AIA 304 starting around 2021-12-14T11:14Z. The filament is estimated to be about 30 degrees wide; centered near N27W08.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-##### SOHO: LASCO/C2
-#### Analysis
-##### Time: 2021-12-15T00:13Z
-##### Latitude: 9.0
-##### Longitude: 8.0
-##### Half Angle: 18.0
-##### Speed: 305.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18545/-1)
-##### Note: This SWPC_CAT analysis tracks the faint leading edge of the CME in both STEREO A COR2 and SOHO LASCO C2 difference imagery.
-### Activity ID: 2021-12-15T05:00:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-15T05:00Z
-#### Source Location: S25E45
-#### Active Region Number: 12907
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18534/-1)
-#### Note: This CME is associated with an eruption near AR 12907 (near S25E45) which exhibits dimming and a small EUV wave visible in SDO AIA 193 beginning 2021-12-15T01:30Z.  Northward deflection of source is apparent in SDO's field-of-view.
-#### Instruments
-##### SOHO: LASCO/C2
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-15T11:33Z
-##### Latitude: 2.0
-##### Longitude: -42.0
-##### Half Angle: 24.0
-##### Speed: 680.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18535/-1)
-##### Note: This SWPC_CAT measurement approximates the longitude of the CME using the visible source signature in SDO AIA 193 and also by pairing the leading edge in SOHO LASCO C3 difference imagery with the faint outline of a halo CME observed in STEREO A COR2 difference imagery.
-### Activity ID: 2021-12-15T07:12:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-15T07:12Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18537/-1)
-#### Note: This CME event is associated with a filament eruption over the SW limb (near S50), visible in SDO AIA 171/193/304 beginning around 2021-12-15T04:15Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-15T14:37Z
-##### Latitude: -19.0
-##### Longitude: 94.0
-##### Half Angle: 13.0
-##### Speed: 483.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18539/-1)
-##### Note: This SWPC_CAT measurement pairs the leading edge of the CME seen in SOHO LASCO C2/C3 and STEREO A COR2 difference imagery. This measurement technique suggests that the longitude has an uncertainty of +/- 10 degrees based on multiple measurements made.
-### Activity ID: 2021-12-15T09:48:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-15T09:48Z
-#### Source Location: S21E44
-#### Active Region Number: 12907
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18541/-1)
-#### Note: This jet CME is associated with an eruption from AR 12907 (S21E44), visible in SDO AIA 171/193/304 beginning 2021-12-15T08:53Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-15T16:25Z
-##### Latitude: -14.0
-##### Longitude: -44.0
-##### Half Angle: 10.0
-##### Speed: 528.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18542/-1)
-##### Note: This SWPC_CAT measurement approximated the longitude based on the source signature observed in SDO AIA imagery.
-### Activity ID: 2021-12-15T14:53:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-15T14:53Z
-#### Source Location: S26W83
-#### Active Region Number: 12904
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18549/-1)
-#### Note: Faint relatively narrow CME with a possible source of opening/rising field lines faintly visible in SDO AIA 171/193 beginning around 2021-12-15T11:00Z and filament seen erupting in AIA 304
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-16T04:36Z
-##### Latitude: -14.0
-##### Longitude: 78.0
-##### Half Angle: 15.0
-##### Speed: 293.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18550/-1)
-##### Note: 
-### Activity ID: 2021-12-15T15:05:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-15T15:05Z
-#### Source Location: S17E18
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18565/-1)
-#### Note: Visible in the east in SOHO LASCO C2/C3 and west in STEREO A COR2.  Very faint event that overlaps with earlier CME in STEREO A and overlaps with eastern streamer in SOHO which obscures the southern part of the CME.  There's a clear slowing of the CME in the C2 FOV.  May possibly be associated with a small eruption in the middle of the AR 2905-2906-2907 triangle, near S17E18, faintly visible in SDO AIA 131/171/193/304 beginning 2021-12-15T13:06Z.  It's small, but there's an EUV wave and post-eruptive arcade with AR 2905 visible in 171/193.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-15T21:26Z
-##### Latitude: -3.0
-##### Longitude: -14.0
-##### Half Angle: 10.0
-##### Speed: 273.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18566/-1)
-##### Note: Faster during early development (around 480 km/s in the first few frames), but slows markedly within the C2 FOV.
-### Activity ID: 2021-12-16T00:53:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-16T00:53Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18551/-1)
-#### Note: Faint CME with potential source a small filament eruption, visible over the SW limb in SDO AIA 304, with rising field lines also visible in 171/193 beginning 2021-12-15T21:30Z.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-##### SOHO: LASCO/C2
-#### Analysis
-##### Time: 2021-12-16T07:57Z
-##### Latitude: -5.0
-##### Longitude: 58.0
-##### Half Angle: 10.0
-##### Speed: 446.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18552/-1)
-##### Note: 
-### Activity ID: 2021-12-16T04:24:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-16T04:24Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18554/-1)
-#### Note: CME is partially obscured by a streamer, not seen in COR2A b/c of a data gap from 2021-12-16T03:38Z to 11:38Z. A potential source is C1.3 flare from AR 12909.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-16T12:33Z
-##### Latitude: -6.0
-##### Longitude: -68.0
-##### Half Angle: 30.0
-##### Speed: 423.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18555/-1)
-##### Note: One coronagraph (LASCO) analysis based on possible source location identified.
-### Activity ID: 2021-12-16T06:24:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-16T06:24Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18556/-1)
-#### Note: A faint CME partially obscured by a streamer. Potential source: Eruption near S35E80 seen as rising field lines visible in SDO AIA 171/193 beginning around 2021-12-16T05:00Z
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-16T14:39Z
-##### Latitude: -2.0
-##### Longitude: -80.0
-##### Half Angle: 25.0
-##### Speed: 427.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18557/-1)
-##### Note: One coronagraph analysis (LASCO) based on possible source location identified.
-### Activity ID: 2021-12-16T11:00:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-16T11:00Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18558/-1)
-#### Note: CME is partially obscured by a streamer; source not clear.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-16T20:22Z
-##### Latitude: -4.0
-##### Longitude: -93.0
-##### Half Angle: 21.0
-##### Speed: 367.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18559/-1)
-##### Note: Two -coronagraph analysis of the CME; no clear source to confirm the longitude.
-### Activity ID: 2021-12-17T20:12:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-17T20:12Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18567/-1)
-#### Note: This CME is visible in the northeast of STEREO A COR2 and is visible as a partial halo in SOHO LASCO C3. The CME is associated with opening field lines beyond the northeast limb as seen in STEREO A EUVI 195 around 19:00Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-18T02:55Z
-##### Latitude: 16.0
-##### Longitude: -166.0
-##### Half Angle: 28.0
-##### Speed: 465.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18568/-1)
-##### Note: The longitude is based on the opening field lines visible on the limb in STEREO A EUVI 195 and the best fit in SWPC_CAT between SOHO LASCO C2/C3 and STEREO A COR2.
-### Activity ID: 2021-12-18T18:12:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-18T18:12Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18575/-1)
-#### Note: This CME is associated with a C6.3 flare peaking at 2021-12-18T18:01Z from around S19E89. This is accompanied by an eruption on the east limb. It is seen with moving/opening field lines, and post eruption arcades in SDO AIA 193/171. The material can also be seen erupting off the east limb in SDO AIA 304.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-18T23:40Z
-##### Latitude: -6.0
-##### Longitude: -90.0
-##### Half Angle: 35.0
-##### Speed: 650.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18576/-1)
-##### Note: This CME was measured using SOHO LASCO C2/C3. The longitude is based off of the source location of the flare and eruption. Due to the proximity to the limb, the location may be off by +/- 10 degrees. STEREO A COR2 data was not available for measurement due to an outage.
-### Activity ID: 2021-12-19T19:24:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-19T19:24Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18589/-1)
-#### Note: This CME is visible in the east of SOHO LASCO C2/C3. No STEREO A EUVI 195 for COR2 data was available at this time. The source is unknown.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-20T02:34Z
-##### Latitude: 8.0
-##### Longitude: None
-##### Half Angle: 11.0
-##### Speed: 466.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18590/-1)
-##### Note: 
-### Activity ID: 2021-12-19T20:36:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-19T20:36Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18598/-1)
-#### Note: This CME is visible faintly in the east of SOHO LASCO C2/C3. The source is undetermined.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-20T01:47Z
-##### Latitude: 12.0
-##### Longitude: None
-##### Half Angle: 15.0
-##### Speed: 698.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18599/-1)
-##### Note: 
-### Activity ID: 2021-12-20T05:48:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-20T05:48Z
-#### Source Location: S19E11
-#### Active Region Number: 12909
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18584/-1)
-#### Note: This CME is visible in the east of SOHO LASCO C2 and C3. STEREO A COR2 data is not available. It is associated with a C4.4 flare from AR 12909 (S19E11) which peaked at 2021-12-20T03:21Z. This was followed by an eruption with dimming, an EUV wave, and post eruptive arcades in SDO AIA 193 and 171 beginning at 2021-12-20T03:15Z. The material is also seen leaving the disk in SDO AIA 304. The source signature is seen as opening field lines in SDO AIA 171.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-20T14:35Z
-##### Latitude: -1.0
-##### Longitude: -13.0
-##### Half Angle: 31.0
-##### Speed: 357.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18595/-1)
-##### Note: This measurement is using SOHO LASCO C2 in SWPC_CAT. The CME is faint in C2 and is not seen in either LASCO C3 or COR2A (Stereo imagery is available). The measurement is based off of the source location of the flare and associated eruption identified in SDO AIA imagery.
-##### Time: 2021-12-20T14:31Z
-##### Latitude: -1.0
-##### Longitude: -13.0
-##### Half Angle: 31.0
-##### Speed: 357.0
-##### Type: S
-##### Most Accurate: False
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18585/-1)
-##### Note: This measurement is using SOHO LASCO C2 in SWPC_CAT. The CME is faint in C2 and is not seen in either LASCO C3 or COR2A (Stereo imagery is available). The measurement is based off of the source location of the flare and associated eruption identified in SDO AIA imagery.
-### Activity ID: 2021-12-20T12:36:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-20T12:36Z
-#### Source Location: S20W00
-#### Active Region Number: 12908
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18587/-1)
-#### Note: This CME is associated with an M1.8 from AR12908 (S20W00). It is visible in the south of SOHO LASCO C2/C3 and in the west of STEROE A COR. This CME has a dimpled front. The eruption is characterized by an EUV wave, dimming, and post eruption arcades.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-20T18:33Z
-##### Latitude: -26.0
-##### Longitude: -2.0
-##### Half Angle: 21.0
-##### Speed: 572.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18607/-1)
-##### Note: 
-##### Time: 2021-12-20T18:39Z
-##### Latitude: -23.0
-##### Longitude: -2.0
-##### Half Angle: 25.0
-##### Speed: 565.0
-##### Type: C
-##### Most Accurate: False
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18588/-1)
-##### Note: This CME measurement was done in SWPC_CAT and used the source location as well as the best fit between SOHO LASCO C2/C3 and STEREO A COR2 for the parameters.
-##### Time: 2021-12-20T18:26Z
-##### Latitude: -13.0
-##### Longitude: -7.0
-##### Half Angle: 35.0
-##### Speed: 546.0
-##### Type: C
-##### Most Accurate: False
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18593/-1)
-##### Note: This CME measurement was done in SWPC_CAT was based on the best fit between SOHO LASCO C2, C3 and STEREO A COR2 imagery for the parameters and shows some Eastern deflection from the source location of the flare/eruption.
-### Activity ID: 2021-12-20T15:38:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-20T15:38Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18608/-1)
-#### Note: 
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-20T23:50Z
-##### Latitude: -15.0
-##### Longitude: -19.0
-##### Half Angle: 38.0
-##### Speed: 303.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18609/-1)
-##### Note: 
-### Activity ID: 2021-12-21T13:25:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-21T13:25Z
-#### Source Location: N14W71
-#### Active Region Number: 12910
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18622/-1)
-#### Note: Observed to W in SOHO LASCO C2; not seen in STEREO A COR2 during real-time analysis (very faintly visible after downlink).  May be associated with an eruption from AR 12910, opening field lines visible in SDO AIA 171 beginning 2021-12-21T09:00Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-21T23:37Z
-##### Latitude: 2.0
-##### Longitude: 71.0
-##### Half Angle: 41.0
-##### Speed: 341.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18623/-1)
-##### Note: 
-### Activity ID: 2021-12-21T19:00:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-21T19:00Z
-#### Source Location: S18E23
-#### Active Region Number: 12914
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18613/-1)
-#### Note: Narrow feature visible in the SE in SOHO LASCO C2, SW in STEREO A COR2 (overlaps with 2021-12-21T20:23Z in COR2A, overlaps with streamer in C2).  Associated with an eruption from AR 12914, visible in SDO AIA 171/193/304 beginning 2021-12-21T17:00Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-22T00:33Z
-##### Latitude: -10.0
-##### Longitude: -15.0
-##### Half Angle: 10.0
-##### Speed: 539.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18614/-1)
-##### Note: Very narrow feature, SWPC_CAT minimum is 10 degrees but actual half-width is around 5 degrees.
-### Activity ID: 2021-12-21T20:23:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-21T20:23Z
-#### Source Location: S21W06
-#### Active Region Number: 12909
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18611/-1)
-#### Note: Visible in SW of STEREO A COR2, later as a partial halo in SOHO LASCO C2. Associated with significant eruption/opening field lines with associated dimming/EUV wave observed in SDO AIA 193 starting around 2021-12-21T19:00Z.  A filament feature is also observed in SDO AIA 304.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-##### SOHO: LASCO/C2
-#### Analysis
-##### Time: 2021-12-22T07:11Z
-##### Latitude: -24.0
-##### Longitude: 5.0
-##### Half Angle: 33.0
-##### Speed: 300.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18612/-1)
-##### Note: Multiple measurements indicate half-width between 26 and 33 degrees and speed between 290 and 340 km/s, but leading edge and sides are very faint.
-### Activity ID: 2021-12-22T11:09:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-22T11:09Z
-#### Source Location: S21W25
-#### Active Region Number: 12908
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18616/-1)
-#### Note: SW in STEREO A COR2, SOHO LASCO C2/C3 (earlier, but starts during data gaps).  Associated with an eruption from AR 12908, visible in SDO AIA 171/193/304 beginning 2021-12-22T07:00Z and in STEREO A EUVI 195 beginning 2021-12-22T07:05Z.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-22T23:21Z
-##### Latitude: -26.0
-##### Longitude: 37.0
-##### Half Angle: 10.0
-##### Speed: 243.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18617/-1)
-##### Note: 
-### Activity ID: 2021-12-22T13:36:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-22T13:36Z
-#### Source Location: S21W44
-#### Active Region Number: 12907
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18625/-1)
-#### Note: Visible in the SW in SOHO LASCO C2 and STEREO A COR2.  Very narrow CME that overlaps with 2021-12-22T11:09Z CME.  May be associated with an eruption from AR 12907, opening field lines visible in SDO AIA 193 and STEREO A EUVI 195 beginning around 2021-12-22T09:30Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-22T19:43Z
-##### Latitude: -34.0
-##### Longitude: 44.0
-##### Half Angle: 10.0
-##### Speed: 569.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18626/-1)
-##### Note: CME is much narrower than the SWPC_CAT minimum (only about 2-3 degrees half-width).
-### Activity ID: 2021-12-22T20:24:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-22T20:24Z
-#### Source Location: S09E28
-#### Active Region Number: 12913
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18629/-1)
-#### Note: This CME is visible to the southeast in SOHO LASCO C2 and southwest in STEREO A COR2. The source of this CME is an eruption from Active Region 12913 starting around 2021-12-22T18:00Z. The eruption is visible in SDO/AIA 193 and STEREO A EUVI 195 as brightening in the area of the Active Region with dimming following it towards the south of the main eruption area. In SDO/AIA 304 the eruption is visible showing associated ejecta material going southward from the Active Region.
-#### Instruments
-##### SOHO: LASCO/C2
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-23T03:22Z
-##### Latitude: -9.0
-##### Longitude: -14.0
-##### Half Angle: 10.0
-##### Speed: 538.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18630/-1)
-##### Note: This CME was difficult to analyze due to a data gap in STEREO A during the SOHO LASCO C2 frames where the feature was most visible. This analysis is based off of the best lat/lon between older frames in STEREO A COR2 and earlier frames in SOHO LASCO C2, however only C2 was used to measure the speed of the CME. The half-width of the CME may be closer to 5 degrees or less.
-### Activity ID: 2021-12-23T02:23:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-23T02:23Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18631/-1)
-#### Note: The start time of this CME is when it is first visible to the East after a data gap in STEREO A. It is not visible in SOHO LASCO coronagraph imagery. The source of this CME is unclear due to the data gap. A potential source is the unnumbered active region on the Eastern limb of the STEREO A facing disk near the equator.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-23T09:44Z
-##### Latitude: -9.0
-##### Longitude: -123.0
-##### Half Angle: 7.0
-##### Speed: 375.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18632/-1)
-##### Note: These measurements are based off of the potential source location of the unnumbered active region on the Eastern limb near the equator as seen in STEREO A EUVI 195.
-### Activity ID: 2021-12-23T22:36:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-23T22:36Z
-#### Source Location: S31W89
-#### Active Region Number: 12906
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18636/-1)
-#### Note: The source of this CME is an eruption and associated flare from Active Region 12906 (S31W89). The eruption is best seen in SDO/AIA 304 as filamentary material ejecting from the Active Region along with rising loops and opening field lines in SDO/AIA 171. The associate flare is a C1.2 flare peaking at 2021-12-23T22:03Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-24T02:30Z
-##### Latitude: -38.0
-##### Longitude: 89.0
-##### Half Angle: 12.0
-##### Speed: 855.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18637/-1)
-##### Note: Depending on the feature tracked, speeds for this CME ranged between 600 km/s and 1000 km/s. The higher speeds coincide with the shock front while the lower speeds coincide with the leading edge. A measurement made closer to the leading edge was used for this entry.
-### Activity ID: 2021-12-24T12:24:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-24T12:24Z
-#### Source Location: S22W70
-#### Active Region Number: 12907
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18641/-1)
-#### Note: The source of this CME is an eruption most notably visible in STEREO A EUVI 195 starting around 2021-12-24ZT11:35Z with opening field lines. The eruption is also visible in SDO/AIA 304 with material ejecta around 2021-12-24T10:15Z. This is followed by visible field line movement and dimming in SDO/AIA 193 starting around 11:15Z, but more notable dimming is visible up until the shock front of the CME is visible in SOHO LASCO C2. This eruption may also be associated with a C4.2 class flare from AR12907.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-24T19:19Z
-##### Latitude: -22.0
-##### Longitude: 70.0
-##### Half Angle: 19.0
-##### Speed: 515.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18642/-1)
-##### Note: These parameters are based off of the source location and best fit between the SOHO LASCO coronagraphs and STEREO A coronagraph.
-### Activity ID: 2021-12-24T17:09:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-24T17:09Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18651/-1)
-#### Note: Faintly visible as a partial halo SSW in STEREO A COR2 and as a partial halo SSE in SOHO LASCO C2/C3.  May possibly be associated with a filament eruption visible in SDO AIA 304 beginning around 2021-12-24T10:30Z, with rising field lines faintly visible in SDO AIA 171 around the same time, and coronal change across the data gap in STEREO A EUVI 195 between 2021-12-23T21:15Z and 2021-12-24T10:55Z.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-25T01:34Z
-##### Latitude: -36.0
-##### Longitude: -14.0
-##### Half Angle: 38.0
-##### Speed: 443.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18652/-1)
-##### Note: 
-### Activity ID: 2021-12-24T20:56:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-24T20:56Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18644/-1)
-#### Note: Faintly emerging from NE in SOHO LASCO C2 (only a few frames initially available, but full C2/C3 imagery available following downlink); very brightly seen in NE of STEREO A COR2.  Associated with a filament eruption seen in SDO/AIA 304 to the NW beyond the limb. There is associated field line movement and rising loops seen in SDO/AIA 171. Also seen in STA EUVI 304.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-25T10:38Z
-##### Latitude: 8.0
-##### Longitude: -142.0
-##### Half Angle: 26.0
-##### Speed: 320.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18645/-1)
-##### Note: 
-### Activity ID: 2021-12-25T03:09:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-25T03:09Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18646/-1)
-#### Note: Faint/narrow CME visible in the SW in STEREO A COR2, SOHO LASCO C2/C3.  Associated with an eruption on SW limb (near latitude S37), visible in SDO AIA 171/193/304 beginning 01:42Z.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-25T09:44Z
-##### Latitude: -39.0
-##### Longitude: 92.0
-##### Half Angle: 10.0
-##### Speed: 446.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18647/-1)
-##### Note: Very narrow (perhaps 8 degrees half-width) with a faint leading edge that is difficult to track.  Other measurements yield speeds 360-465 km/s.
-### Activity ID: 2021-12-25T10:23:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-25T10:23Z
-#### Source Location: S21W58
-#### Active Region Number: 12909
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18649/-1)
-#### Note: 
-#### Instruments
-##### SOHO: LASCO/C2
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-26T00:27Z
-##### Latitude: -19.0
-##### Longitude: 58.0
-##### Half Angle: 14.0
-##### Speed: 249.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18667/-1)
-##### Note: 
-##### Time: 2021-12-26T00:27Z
-##### Latitude: 58.0
-##### Longitude: -19.0
-##### Half Angle: 14.0
-##### Speed: 249.0
-##### Type: S
-##### Most Accurate: False
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18650/-1)
-##### Note: 
-### Activity ID: 2021-12-25T20:36:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-25T20:36Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18655/-1)
-#### Note: Visible in the SW in SOHO LASCO C2/C3, not seen in STEREO A COR2 during real-time analysis due to data gap.  Narrow CME with a very faint leading edge.  May possibly be associated with a filament eruption near SW limb (lat S40) visible in SDO AIA 304 beginning 2021-12-25T19:27Z.  Opening field lines faintly visible in SDO AIA 171 beginning 2021-12-25T18:51Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-26T07:35Z
-##### Latitude: -30.0
-##### Longitude: None
-##### Half Angle: 5.0
-##### Speed: 314.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18656/-1)
-##### Note: Limited imagery available during real-time analysis.  No STEREO A coronagraph data, and only a few frames in C3.
-### Activity ID: 2021-12-26T05:00:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-26T05:00Z
-#### Source Location: S35W55
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18659/-1)
-#### Note: The source is most possibly a medium-size filament eruption in the SW quadrant seen in AIA 403 and 193 after 2021-12-26T02:30Z. The erupting filament is also seen on/close to the SW limb in EUVI A 195 where it's eruption is followed by opening of field lines around 2021-12-26T03:05Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-26T15:42Z
-##### Latitude: -20.0
-##### Longitude: 61.0
-##### Half Angle: 22.0
-##### Speed: 328.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18660/-1)
-##### Note: COR2A imagery fit is very imperfect b/c of a faint front
-### Activity ID: 2021-12-26T20:53:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-26T20:53Z
-#### Source Location: S17W40
-#### Active Region Number: 12914
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18665/-1)
-#### Note: Faint CME not seen in C3 (only in COR2A and C2). Source: eruption in AR 2914 starting after 2012-12-26T20:24Z seen in AIA 304/193 and the associated filament eruption to the north of the AR centered approximately at S10W35.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-##### SOHO: LASCO/C2
-#### Analysis
-##### Time: 2021-12-27T08:28Z
-##### Latitude: -18.0
-##### Longitude: 50.0
-##### Half Angle: 25.0
-##### Speed: 322.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18671/-1)
-##### Note: 
-##### Time: 2021-12-27T11:04Z
-##### Latitude: 1.0
-##### Longitude: 40.0
-##### Half Angle: 31.0
-##### Speed: 255.0
-##### Type: S
-##### Most Accurate: False
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18666/-1)
-##### Note: 
-### Activity ID: 2021-12-27T07:12:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-27T07:12Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18663/-1)
-#### Note: This CME is visible in the east of SOHO LASCO C2/C3 and STEREO A COR2. The source is an eruption near the east limb as seen in SDO AIA imagery. It is best seen as opening field lines starting around 06:18Z in SDO AIA 193. The eruption can also be seen in SDO AIA 304.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-27T20:37Z
-##### Latitude: -5.0
-##### Longitude: 67.0
-##### Half Angle: 21.0
-##### Speed: 284.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18664/-1)
-##### Note: 
-### Activity ID: 2021-12-27T12:24:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-27T12:24Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18676/-1)
-#### Note: This CME is very faint and relatively slow, visible to the south in SOHO LASCO C2 & C3 and to the SW in STEREO A COR2. There is no clear source for this CME, but a few filaments are visible on the southern limb of the Earth-facing disk as seen in SDO/AIA 304.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-28T05:49Z
-##### Latitude: -54.0
-##### Longitude: -3.0
-##### Half Angle: 22.0
-##### Speed: 289.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18677/-1)
-##### Note: These measurements are based on the very faint features in SOHO LASCO C3 and STEREO A COR2.
-### Activity ID: 2021-12-27T23:00:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-27T23:00Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18674/-1)
-#### Note: Visible to the E/NE in STEREO A COR2 and to the NE in SOHO LASCO C2 & C3, this CME is faint and relatively wide. The source of this CME appears to be an eruption beyond the Eastern limb of STEREO A EUVI 195 with post-eruptive arcade loops barely visible starting around 00:25Z.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-28T12:43Z
-##### Latitude: 16.0
-##### Longitude: -140.0
-##### Half Angle: 29.0
-##### Speed: 305.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18675/-1)
-##### Note: These parameters are based off of the direct white light imagery of this CME. Speeds for this CME ranged from 270km/s to 340km/s depending on the feature tracked and the measurement technique used. The half-width also ranged from 16 degrees to 30 degrees. The wider widths are based off of the CME further out in the fields of view in each coronagraph.
-### Activity ID: 2021-12-27T23:24:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-27T23:24Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18679/-1)
-#### Note: This CME is very faint. It is visible to the SE in SOHO LASCO C2 & C3 and to the South in STEREO A COR2. There is no clear source for this CME, a few small eruptions are visible on the Earth-facing disk in the SE quadrant of SDO/AIA 193.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-28T13:59Z
-##### Latitude: -30.0
-##### Longitude: -24.0
-##### Half Angle: 21.0
-##### Speed: 240.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18680/-1)
-##### Note: These parameters are based on a best fit between the SOHO LASCO coronagraphs and the STEREO A COR2 coronagraph. The speeds depending on the measurement technique used range from 200-350km/s. The faintness of this CME made it very difficult to measure.
-### Activity ID: 2021-12-28T05:00:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-28T05:00Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18689/-1)
-#### Note: The source of this CME is uncertain, but could be from the AR12918 associated with a M1.8 class flare that peaked at 2021-12-28T04:01Z, or from AR12921, or from the Active Regions that have rotated off the Earth-facing disk and are slightly visible along the NW limb.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-28T11:36Z
-##### Latitude: 31.0
-##### Longitude: None
-##### Half Angle: 18.0
-##### Speed: 667.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18690/-1)
-##### Note: These parameters are very preliminary based off of a plane-of-sky measurement made in SWPC_CAT. The features tracked are very faint which may effect the type assignment of this CME along with the lat/lon parameters. Measurements were made using the potential source of the M1.8 class flare and provided speeds between 600 km/s to 1200 km/s.
-### Activity ID: 2021-12-28T10:00:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-28T10:00Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18685/-1)
-#### Note: This CME is first visible to the NE in SOHO LASCO C2, C3, and STEREO A COR2. The front of this CME may be more of a diagonal which could effect the type assignment. The source of this CME appears to be beyond the limb of STEREO A EUVI 195.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-29T00:14Z
-##### Latitude: 6.0
-##### Longitude: -134.0
-##### Half Angle: 16.0
-##### Speed: 254.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18686/-1)
-##### Note: These parameters are based on the best fit between the features seen in SOHO LASCO C2, C3, and STEREO A COR2.
-### Activity ID: 2021-12-29T03:12:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-29T03:12Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18693/-1)
-#### Note: This CME is first visible to the SW in SOHO LASCO C2. The potential source of this CME is seen as moving/opening field lines visible along the SW limb of SDO/AIA 193 and 171 starting around 2021-12-29T02:07Z. There also appears to be a filament material lift off around 2021-12-29T02:42Z in SDO/AIA 304 on the SW limb that could be associated with this CME.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-29T09:40Z
-##### Latitude: -30.0
-##### Longitude: 122.0
-##### Half Angle: 27.0
-##### Speed: 546.0
-##### Type: C
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18694/-1)
-##### Note: These parameters are based off of features seen in the difference imagery between SOHO LASCO coronagraphs and the STEREO A coronagraph. The shock front was measured for these parameters, the more prominent features in the difference imagery yielded speeds closer to 300 km/s.
-### Activity ID: 2021-12-29T03:24:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-29T03:24Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18695/-1)
-#### Note: This CME is faintly seen to the W/SW in SOHO LASCO C2 & C3. The source of this CME is seen as opening field lines in SDO/AIA 171 along the SW limb. This CME partially overlaps and occurs just north of the CME first seen in SOHO LASCO C2 at 2021-12-29T03:12Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2021-12-29T17:52Z
-##### Latitude: -2.0
-##### Longitude: 95.0
-##### Half Angle: 27.0
-##### Speed: 249.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18696/-1)
-##### Note: These parameters are based off of the best fit between SOHO LASCO and STEREO A coronagraphs. The features are more easily detected in difference imagery than they are in white light imagery for STEREO A COR2. Measurements ranged from around 237-249 km/s, with longitudes between 95 to 105.
-### Activity ID: 2021-12-29T18:00:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-29T18:00Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18698/-1)
-#### Note: The source of this CME is not visible on the Earth-facing disk. It is likely beyond the western limb. The CME appears along the streamer to the NW in SOHO LASCO C2 before a data gap and then later in SOHO LASCO C3 and COR2A.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-30T08:13Z
-##### Latitude: 29.0
-##### Longitude: None
-##### Half Angle: 39.0
-##### Speed: 277.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18699/-1)
-##### Note: These parameters are based off of a plane-of-sky measurement using SOHO LASCO C2 & C3. It is unclear if the features seen further out after the data gaps in SOHO LASCO and STEREO A coronagraphs is the same feature. Speeds including that feature were closer to 500 km/s, however they have a higher level of uncertainty.
-### Activity ID: 2021-12-31T07:12:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-31T07:12Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18701/-1)
-#### Note: This CME may be associated with an eruption/field line movement visible off the SW limb of the Earth-facing disk as seen in SDO AIA 171 starting around 2021-12-31T01:30Z or an eruption behind the western limb of the Earth-facing disk not visible in the available EUV imagery from SDO AIA.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2021-12-31T19:58Z
-##### Latitude: -19.0
-##### Longitude: 100.0
-##### Half Angle: 24.0
-##### Speed: 306.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18702/-1)
-##### Note: This SWPC_CAT measurement matches the leading edge of the CME observed between SOHO LASCO C2 and STEREO A COR2 difference imagery. The orientation of the CME in the coronagraphs suggests the event has a longitude greater than 90 degrees.
-### Activity ID: 2021-12-31T12:38:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-31T12:38Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18710/-1)
-#### Note: This CME is likely associated with the broad filament eruption observed towards the SW of the Earth-facing disk as seen in SDO AIA 171/193/304 starting around 2021-12-31T06:00Z. This filament eruption is also visible towards the SW in STEREO A EUVI 195/304 around the same time.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2022-01-01T02:54Z
-##### Latitude: -34.0
-##### Longitude: 24.0
-##### Half Angle: 23.0
-##### Speed: 344.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18711/-1)
-##### Note: This SWPC_CAT measurement matches the brightest feature of the CME visible in SOHO LASCO C2/C3 and STEREO A COR2 difference imagery to approximate the longitude and suggests an eastward deflection from the associated filament eruption observed toward the SW limb of the Earth-facing disk as seen in SDO AIA EUV imagery.
-### Activity ID: 2021-12-31T13:38:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2021-12-31T13:38Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18704/-1)
-#### Note: The source signature for this CME is unclear but may be associated with a faint eruption observed to the east in STEREO A EUVI 195 seen around 2021-12-31T13:45Z. The CME may also correspond to field line movement off the NE limb of the Earth-facing disk visible in SDO AIA 171 around the same time.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2022-01-01T00:24Z
-##### Latitude: 8.0
-##### Longitude: -101.0
-##### Half Angle: 12.0
-##### Speed: 336.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18709/-1)
-##### Note: This SWPC_CAT measurement uses backfilled SOHO LASCO imagery to approximate the direction of the CME. Based on matching the leading edge visible in SOHO LASCO and STEREO A COR2 difference imagery, the CME likely has a longitude between -100 and -110 degrees.
-##### Time: 2022-01-01T00:21Z
+##### Time: 2022-02-18T02:09Z
 ##### Latitude: 7.0
-##### Longitude: None
-##### Half Angle: 12.0
-##### Speed: 349.0
-##### Type: S
-##### Most Accurate: False
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18705/-1)
-##### Note: This is a plane-of-sky measurement made with SWPC_CAT based on available STEREO A COR2 imagery. The event may have a longitude near -125 deg based on the possible faint source observed in STEREO A EUVI 195 noted in the CME entry. However, this cannot be confirmed without available SOHO LASCO imagery.
-### Activity ID: 2022-01-01T17:36:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2022-01-01T17:36Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18714/-1)
-#### Note: Faint CME best seen in C2 (but seen faintly in COR2A and in C3). Possible source: very faint minor opening field lines behind behind the SW limb in AIA 193/171 after 2021-01-01T15:00Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2022-01-02T03:33Z
-##### Latitude: -19.0
-##### Longitude: 104.0
-##### Half Angle: 17.0
-##### Speed: 347.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18715/-1)
-##### Note: Imperfect fit/uncertain longitude b/c of the faintness of the CME front in COR2A.
-### Activity ID: 2022-01-01T17:48:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2022-01-01T17:48Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18717/-1)
-#### Note: Associated with eruption observed beyond NW limb in SDO AIA 171/193 starting around 2022-01-01T17:00Z
-#### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2022-01-01T22:51Z
-##### Latitude: 34.0
-##### Longitude: 107.0
-##### Half Angle: 27.0
-##### Speed: 626.0
+##### Longitude: 151.0
+##### Half Angle: 45.0
+##### Speed: 702.0
 ##### Type: C
 ##### Most Accurate: True
-##### Level of Data: 1
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18718/-1)
-##### Note: Analysis based on fit in SWPC_CAT (since source is far behind the NW limb). The CME is complex (seemingly consists of two almost simultaneous eruptions moving with the same speed) so the fit is tentative and the  estimated longitude is approximate.
-### Activity ID: 2022-01-02T11:12:00-CME-001
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19217/-1)
+##### Note: These parameters are based off of the best fit between SOHO LASCO C3 and STEREO A COR2 difference images. Based off of measurements, the longitude could range between 151 degrees and 157 degrees depending on the fit. The latitude may also range between 5 and 15 degrees depending on the fit. Speeds of this CME 600km/s to 760km/s.
+### Activity ID: 2022-02-17T21:53:00-CME-001
 #### Catalog: M2M_CATALOG
-#### Start Time: 2022-01-02T11:12Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18719/-1)
-#### Note: Initially a very slow CME first seen in SW in C2/C3 and later seen in COR2A. Front is a bit fuzzy.
+#### Start Time: 2022-02-17T21:53Z
+#### Source Location: N19E34
+#### Active Region Number: 12950
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19234/-1)
+#### Note: Visible as a partial halo in the NW in STEREO A COR2, faintly visible later in the NW in SOHO LASCO C2 (obscured by stronger halo).  May be associated with an eruption with EUV wave from AR 12950 (N19E34), visible in SDO AIA 193 starting around 2022-02-17T20:49Z.
 #### Instruments
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
 ##### STEREO A: SECCHI/COR2
+##### SOHO: LASCO/C2
 #### Analysis
-##### Time: 2022-01-03T04:07Z
-##### Latitude: -17.0
-##### Longitude: 119.0
-##### Half Angle: 29.0
-##### Speed: 459.0
+##### Time: 2022-02-18T06:02Z
+##### Latitude: 16.0
+##### Longitude: -54.0
+##### Half Angle: 31.0
+##### Speed: 373.0
 ##### Type: S
 ##### Most Accurate: True
 ##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18720/-1)
-##### Note: The parameters are based on the best fit in SWPC CAT between two coronagraphs, C3 and COR2A. The front of the CME is fuzzy and so the exact fit is hard to find.
-### Activity ID: 2022-01-02T18:38:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2022-01-02T18:38Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18721/-1)
-#### Note: Source not found: it is possibly backsided. The CME seems similar to 2022-01-01T18:09Z CME.
-#### Instruments
-##### SOHO: LASCO/C2
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2022-01-03T02:10Z
-##### Latitude: 37.0
-##### Longitude: 118.0
-##### Half Angle: 13.0
-##### Speed: 389.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18722/-1)
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19235/-1)
 ##### Note: 
-### Activity ID: 2022-01-03T02:24:00-CME-001
+### Activity ID: 2022-02-18T03:12:00-CME-001
 #### Catalog: M2M_CATALOG
-#### Start Time: 2022-01-03T02:24Z
+#### Start Time: 2022-02-18T03:12Z
 #### Source Location: 
 #### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18723/-1)
-#### Note: Faint and narrow CME, a bit brighter in COR2A. Source has not been found.
-#### Instruments
-##### SOHO: LASCO/C2
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2022-01-03T11:30Z
-##### Latitude: -41.0
-##### Longitude: -139.0
-##### Half Angle: 18.0
-##### Speed: 331.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18724/-1)
-##### Note: 
-### Activity ID: 2022-01-03T23:12:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2022-01-03T23:12Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18730/-1)
-#### Note: This CME is visible in the northeast of STEREO A COR2 and SOHO LASCO C2/C3. The source is unclear, possibly due in part to a data gap in STEREO A data. It may be beyond the east limb in STEREO A EUVI 195. The start time can not be seen in STEREO A COR2 due to this data gap from 2022-01-03T03:53Z to 2022-01-04T03:53Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2022-01-04T12:23Z
-##### Latitude: 28.0
-##### Longitude: -158.0
-##### Half Angle: 14.0
-##### Speed: 265.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18731/-1)
-##### Note: The longitude was obtained using the best fit between SOHO LASCO C2 and STEREO A COR2 imagery in SWPC_CAT as well as knowledge of the source location. This longitude could vary by as much as +/- 10 degrees.
-### Activity ID: 2022-01-03T23:24:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2022-01-03T23:24Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18732/-1)
-#### Note: This CME is faintly visible in the southwest of SOHO LASCO C2 and C3. It is not visible in STEREO A COR2. The potential source is rising loops and moving/opening field lines around 20:00Z on the southwest limb in SDO AIA 171, so possibly a backsided event.
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19231/-1)
+#### Note: Visible in the W of SOHO LASCO C2/C3, not visible in STEREO A COR2.  May possibly be associated with opening field lines faintly visible over the W limb in SDO AIA 193 beginning around 2022-02-18T01:30Z.
 #### Instruments
 ##### SOHO: LASCO/C2
 ##### SOHO: LASCO/C3
 #### Analysis
-##### Time: 2022-01-04T14:52Z
-##### Latitude: -57.0
+##### Time: 2022-02-18T18:26Z
+##### Latitude: 15.0
 ##### Longitude: None
-##### Half Angle: 39.0
+##### Half Angle: 20.0
 ##### Speed: 248.0
 ##### Type: S
 ##### Most Accurate: True
 ##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18733/-1)
-##### Note: 
-### Activity ID: 2022-01-04T11:09:00-CME-001
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19232/-1)
+##### Note: Source uncertain over W limb (lon +90), not seen in COR2A.
+### Activity ID: 2022-02-18T16:00:00-CME-001
 #### Catalog: M2M_CATALOG
-#### Start Time: 2022-01-04T11:09Z
+#### Start Time: 2022-02-18T16:00Z
 #### Source Location: 
 #### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18736/-1)
-#### Note: A very slow CME mostly SW in COR2A/C2/C3. Source: not found.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-#### Analysis
-##### Time: 2022-01-05T05:27Z
-##### Latitude: -18.0
-##### Longitude: 43.0
-##### Half Angle: 35.0
-##### Speed: 201.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18737/-1)
-##### Note: Faint event with uneven front and no known source. Analysis based solely on the fit in two coronagraphs in SWPC_CAT so parameters are not definitive
-### Activity ID: 2022-01-05T23:12:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2022-01-05T23:12Z
-#### Source Location: 
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18743/-1)
-#### Note: Visible in the west in SOHO LASCO C2/C3 and STEREO A COR2.  May be associated with a filament eruption visible in SW of SDO AIA 304 beginning 2022-01-05T20:42Z, followed by field line opening faintly visible in SDO AIA 171.  The southern portion is very faint in STEREO A COR2.
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19229/-1)
+#### Note: Appears as a narrow jet NW in SOHO LASCO C2, fades before entering C3 FOV, not seen in STEREO A COR2.  May be associated with an eruption over the NW limb (near latitude N20), faintly visible in SDO AIA 171/193/304 beginning 2022-02-18T13:51Z.  It overlaps with the NW streamer enough that it is hard to distinguish in direct imagery; better seen in C2 difference imagery.
 #### Instruments
 ##### SOHO: LASCO/C2
-##### SOHO: LASCO/C3
-##### STEREO A: SECCHI/COR2
 #### Analysis
-##### Time: 2022-01-06T07:04Z
-##### Latitude: -19.0
-##### Longitude: 105.0
-##### Half Angle: 37.0
-##### Speed: 465.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18744/-1)
-##### Note: 
-### Activity ID: 2022-01-06T06:48:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2022-01-06T06:48Z
-#### Source Location: S20E125
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18745/-1)
-#### Note: Visible in the east in SOHO LASCO C2 and STEREO A COR2.  May be associated with an eruption from the unnumbered Active Region on eastern limb of STEREO A (lat near S20, so near S20E125), opening field lines visible in STEREO A EUVI 195 and SDO AIA 171/193 beginning 2022-01-06T05:57Z.
-#### Instruments
-##### SOHO: LASCO/C2
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2022-01-06T17:49Z
-##### Latitude: -5.0
-##### Longitude: -131.0
-##### Half Angle: 31.0
-##### Speed: 308.0
-##### Type: S
-##### Most Accurate: True
-##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18746/-1)
-##### Note: 
-### Activity ID: 2022-01-07T18:23:00-CME-001
-#### Catalog: M2M_CATALOG
-#### Start Time: 2022-01-07T18:23Z
-#### Source Location: N30E95
-#### Active Region Number: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/18752/-1)
-#### Note: Visible in the NE in STEREO A COR2.  May be associated with an eruption from the unnumbered AR near N30E95 (over the SDO limb, near STEREO A limb), faintly visible in STEREO A EUVI 195 beginning 2022-01-07T17:25Z.
-#### Instruments
-##### STEREO A: SECCHI/COR2
-#### Analysis
-##### Time: 2022-01-07T23:38Z
-##### Latitude: 34.0
-##### Longitude: -95.0
+##### Time: 2022-02-19T01:12Z
+##### Latitude: 19.0
+##### Longitude: None
 ##### Half Angle: 10.0
-##### Speed: 637.0
+##### Speed: 386.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19230/-1)
+##### Note: Source uncertain over W limb (lon +90), not seen in COR2A, and fades before exiting C2 FOV.
+### Activity ID: 2022-02-18T18:12:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-18T18:12Z
+#### Source Location: N21E24
+#### Active Region Number: 12950
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19226/-1)
+#### Note: Super-faint event, faintly visible in the NE in SOHO LASCO C2 (in which it overlaps with the NE streamer) and as a partial halo N in STEREO A COR2.  Associated with an eruption from AR 12950 (N21E24) after 2022-02-18T16:30Z, associated with a B8.4 class flare and significant area dimming mostly to the south and west of the AR.
+#### Instruments
+##### SOHO: LASCO/C2
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-02-19T00:28Z
+##### Latitude: 27.0
+##### Longitude: -39.0
+##### Half Angle: 25.0
+##### Speed: 562.0
 ##### Type: C
 ##### Most Accurate: True
 ##### Level of Data: 0
-##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/18753/-1)
-##### Note: Only 3 frames of STEREO A COR2 difference imagery available during real-time analysis. 
- This CME should be remeasured following subsequent downlink.  Longitude approximated from source location.
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19227/-1)
+##### Note: 
+### Activity ID: 2022-02-18T19:48:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-18T19:48Z
+#### Source Location: N25W107
+#### Active Region Number: 12941
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19222/-1)
+#### Note: Visible in the NW of SOHO LASCO C2/C3 and STEREO A COR2, but the front disappears before leaving the COR2 FOV.  May be associated with a prominence eruption over NW limb, visible in SDO AIA 171/193/304 beginning 2022-02-18T19:12Z, possibly from AR 12941 (near N25W107).
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-02-19T04:50Z
+##### Latitude: 19.0
+##### Longitude: 104.0
+##### Half Angle: 31.0
+##### Speed: 384.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19223/-1)
+##### Note: 
+##### Time: 2022-02-19T04:54Z
+##### Latitude: 19.0
+##### Longitude: 104.0
+##### Half Angle: 31.0
+##### Speed: 384.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19268/-1)
+##### Note: 
+### Activity ID: 2022-02-18T23:48:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-18T23:48Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19224/-1)
+#### Note: Visible in the NE in SOHO LASCO C2/C3 and STEREO A COR2 (following STEREO A data gap).  May be associated with a prominence eruption over NE limb, visible in SDO AIA 171/193/304 and in STEREO A EUVI 195 beginning 2022-02-18T22:30Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-02-19T05:25Z
+##### Latitude: 36.0
+##### Longitude: -114.0
+##### Half Angle: 21.0
+##### Speed: 551.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19225/-1)
+##### Note: 
+### Activity ID: 2022-02-19T07:00:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-19T07:00Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19236/-1)
+#### Note: Faintly visible in the SE in SOHO LASCO C2; not visible in STEREO A COR2 due to data gap.  Source inconclusive, but may be associated with opening field lines faintly visible over SE limb (near latitude S35) in SDO AIA 171 beginning around 2022-02-19T05:20Z.
+#### Instruments
+##### SOHO: LASCO/C2
+#### Analysis
+##### Time: 2022-02-19T13:18Z
+##### Latitude: -27.0
+##### Longitude: None
+##### Half Angle: 10.0
+##### Speed: 571.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19237/-1)
+##### Note: 
+### Activity ID: 2022-02-19T10:23:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-19T10:23Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19238/-1)
+#### Note: Visible as a partial halo N in STEREO A COR2, visible in NE of SOHO LASCO C2/C3.  Source inconclusive, but possibly associated with some dimming/brightening in STEREO A EUVI 195 between 2022-02-19T05:45Z and 2022-02-19T08:55Z (data gap) and in SDO AIA 193 beginning around 2022-02-19T06:15Z.
+#### Instruments
+##### STEREO A: SECCHI/COR2
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+#### Analysis
+##### Time: 2022-02-19T16:08Z
+##### Latitude: 20.0
+##### Longitude: -33.0
+##### Half Angle: 45.0
+##### Speed: 445.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19239/-1)
+##### Note: This measurement approximates the source location and fits both northern features seen in COR2A at the time, but the fit in C3 is uncertain due to overlap with the streamer and the previous CME in that location.
+### Activity ID: 2022-02-19T17:48:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-19T17:48Z
+#### Source Location: S24E45
+#### Active Region Number: 12952
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19240/-1)
+#### Note: Narrow event, visible in the SE of SOHO LASCO C2.  Associated with an eruption from AR 12952 (S24E45) visible in SDO AIA 171/193/304 beginning 2022-02-19T16:25Z.
+#### Instruments
+##### SOHO: LASCO/C2
+#### Analysis
+##### Time: 2022-02-20T04:37Z
+##### Latitude: -18.0
+##### Longitude: -32.0
+##### Half Angle: 30.0
+##### Speed: 338.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19243/-1)
+##### Note: Remeasured following later downlink of C3/COR2A imagery.
+##### Time: 2022-02-19T22:16Z
+##### Latitude: -35.0
+##### Longitude: -45.0
+##### Half Angle: 16.0
+##### Speed: 684.0
+##### Type: C
+##### Most Accurate: False
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19241/-1)
+##### Note: Longitude approximated from source location.
+### Activity ID: 2022-02-20T01:25:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-20T01:25Z
+#### Source Location: 
+#### Active Region Number: 12954
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19245/-1)
+#### Note: Visible in the E in SOHO LASCO C2/C3; faint in C2, more visible in C3, overlaps with previous CME.  May possibly be associated with an eruption from the unnumbered AR over the E limb (near N20E110), visible in STEREO A EUVI 195 and flare visible in SDO AIA 304 beginning 2022-02-19T21:05Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+#### Analysis
+##### Time: 2022-02-20T08:10Z
+##### Latitude: 31.0
+##### Longitude: -110.0
+##### Half Angle: 19.0
+##### Speed: 555.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19246/-1)
+##### Note: Longitude approximated from source location.
+### Activity ID: 2022-02-20T04:24:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-20T04:24Z
+#### Source Location: N20E95
+#### Active Region Number: 12954
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19248/-1)
+#### Note: Visible in the E in SOHO LASCO C2/C3, later visible in NE in STEREO A COR2 (after data gap).  May be associated with an eruption from the unnumbered AR over the E limb (near N20E95), visible in SDO AIA 131/171/193/304 beginning 2022-02-20T03:45Z.  Associated with long-duration C5.1 flare peaking 2022-02-20T04:07Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-02-20T11:01Z
+##### Latitude: 30.0
+##### Longitude: -93.0
+##### Half Angle: 25.0
+##### Speed: 575.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19249/-1)
+##### Note: 
+### Activity ID: 2022-02-20T05:24:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-20T05:24Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19252/-1)
+#### Note: Visible in the SW in SOHO LASCO C2/C3 and as a partial halo S in STEREO A COR2.  No definitive source, and from the orientation of the CME in coronagraph imagery this appears to be a backsided event.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-02-20T15:45Z
+##### Latitude: -34.0
+##### Longitude: 139.0
+##### Half Angle: 27.0
+##### Speed: 481.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19253/-1)
+##### Note: 
+### Activity ID: 2022-02-20T10:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-20T10:36Z
+#### Source Location: S08W48
+#### Active Region Number: 12946
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19254/-1)
+#### Note: Narrow and faint CME visible in the W in SOHO LASCO C2, fades before leaving FOV.  Not visible at all in STEREO A COR2.  May be associated with an eruption from AR 12946 (S08W48), visible in SDO AIA 171/193/304 and STEREO A EUVI 195 beginning around 2022-02-20T10:13Z.
+#### Instruments
+##### SOHO: LASCO/C2
+#### Analysis
+##### Time: 2022-02-20T18:47Z
+##### Latitude: 4.0
+##### Longitude: 48.0
+##### Half Angle: 10.0
+##### Speed: 424.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19255/-1)
+##### Note: Longitude approximated from source location.  CME is very narrow (only about 8 degrees half-width) and very faint (fades before leaving C2 FOV).
+### Activity ID: 2022-02-20T17:09:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-20T17:09Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19256/-1)
+#### Note: Faintly visible in the NW in STEREO A COR2 and in SOHO LASCO C2.  May possibly be associated with rising field lines visible over NW limb in SDO AIA 171 (near latitide N45) beginning 2022-02-20T15:42Z.
+#### Instruments
+##### STEREO A: SECCHI/COR2
+##### SOHO: LASCO/C2
+#### Analysis
+##### Time: 2022-02-21T05:13Z
+##### Latitude: 37.0
+##### Longitude: 95.0
+##### Half Angle: 31.0
+##### Speed: 266.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19257/-1)
+##### Note: 
+### Activity ID: 2022-02-20T21:48:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-20T21:48Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19259/-1)
+#### Note: Narrow, faint visible in the NW in SOHO LASCO C2 and STEREO A COR2; there is some overlap with the NW streamer in both, and it is obscured by the occulter support strut in C3.  No definitive source region, but may possibly be associated with a small prominence eruption visible over the NW limb in SDO AIA 304 beginning around 2022-02-20T20:09Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-02-21T08:19Z
+##### Latitude: 45.0
+##### Longitude: 53.0
+##### Half Angle: 10.0
+##### Speed: 322.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19260/-1)
+##### Note: Only a few frames of coronagraph imagery available before the second, more prominent feature from this eruption.
+### Activity ID: 2022-02-20T22:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-20T22:36Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19261/-1)
+#### Note: Visible in the NW in STEREO A COR2 and SOHO LASCO C2.  No definitive source region, but may possibly be associated with a small prominence eruption visible over the NW limb in SDO AIA 304 with rising field lines visible in SDO AIA 193 beginning around 2022-02-20T21:26Z.  This appears to be the second ejection from this eruption.
+#### Instruments
+##### STEREO A: SECCHI/COR2
+##### SOHO: LASCO/C2
+#### Analysis
+##### Time: 2022-02-21T07:48Z
+##### Latitude: 45.0
+##### Longitude: 71.0
+##### Half Angle: 28.0
+##### Speed: 350.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19262/-1)
+##### Note: 
+### Activity ID: 2022-02-21T04:48:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-21T04:48Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19263/-1)
+#### Note: Visible in the NE in STEREO A COR2, later visible in SOHO LASCO C2/C3 following SOHO data gap.  May be associated with a filament eruption visible over the E limb of STEREO A EUVI 304 between 2022-02-21T02:15Z and 04:15Z, rising field lines faintly visible over NW limb of SDO AIA 171 beginning 2022-02-21T02:57Z.
+#### Instruments
+##### STEREO A: SECCHI/COR2
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+#### Analysis
+##### Time: 2022-02-21T13:35Z
+##### Latitude: 28.0
+##### Longitude: -102.0
+##### Half Angle: 30.0
+##### Speed: 339.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19264/-1)
+##### Note: 
+### Activity ID: 2022-02-22T14:00:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-22T14:00Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19270/-1)
+#### Note: This CME is associated with a prominence eruption/opening field lines observed the off NW limb in SDO AIA 193/304 starting around 2022-02-22T12:30Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-02-22T22:45Z
+##### Latitude: 37.0
+##### Longitude: 105.0
+##### Half Angle: 19.0
+##### Speed: 409.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19271/-1)
+##### Note: This SWPC_CAT measurement approximates the longitude of the CME by matching the leading edge seen in both STEREO A COR2 and SOHO LASCO difference imagery while also accounting for the location of the source signature on the NW limb of the Earth-facing disk.
+### Activity ID: 2022-02-24T16:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-24T16:36Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19283/-1)
+#### Note: Very faint CME NE in LASCO, best seen in C3. Uneven front
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+#### Analysis
+##### Time: 2022-02-25T12:48Z
+##### Latitude: 34.0
+##### Longitude: None
+##### Half Angle: 25.0
+##### Speed: 350.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19284/-1)
+##### Note: 
+### Activity ID: 2022-02-24T22:12:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-24T22:12Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19279/-1)
+#### Note: 
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-02-25T14:21Z
+##### Latitude: 34.0
+##### Longitude: 140.0
+##### Half Angle: 28.0
+##### Speed: 274.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19282/-1)
+##### Note: 
+##### Time: 2022-02-25T14:58Z
+##### Latitude: 33.0
+##### Longitude: 139.0
+##### Half Angle: 28.0
+##### Speed: 251.0
+##### Type: S
+##### Most Accurate: False
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19280/-1)
+##### Note: 
+### Activity ID: 2022-02-28T05:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-28T05:36Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19300/-1)
+#### Note: The source of this CME appears to be beyond the SW limb of SDO/AIA 171 and 304 based off of moving/opening field lines (visible in SDO/AIA 171/193/211) and some filament material (visible in SDO/AIA 304) starting around 04:20Z. The CME is relatively faint in STEREO A COR2 imagery, but more noticeable in SOHO LASCO C2 & C3.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-02-28T12:10Z
+##### Latitude: -18.0
+##### Longitude: 111.0
+##### Half Angle: 17.0
+##### Speed: 516.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19301/-1)
+##### Note: These parameters are based off of the best fit between SOHO LASCO C2, C3, and STEREO A COR2 difference imagery. The longitude could vary by +/- 10 degrees.
+### Activity ID: 2022-02-28T08:48:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-28T08:48Z
+#### Source Location: S25E65
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19294/-1)
+#### Note: The source of this CME appears to be triggered by two flares from an unnumbered region just SE of the Active Region 12957. The eruption begins around 08:00Z with a filament eruption being triggered by the first flare (best seen in SDO/AIA 304 and 94), followed by more ejecta material and opening field lines which are best seen in SDO/AIA 171 and 193. This eruption is also visible in STEREO A EUVI 195 after a very brief data gap around 08:45Z with dimming seen stretched from roughly -60 to -80 degrees longitude. This dimming as well as the coronal hole to the West of the source location may account for the partial deflection in the field of view based off of measurements.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-02-28T17:37Z
+##### Latitude: -12.0
+##### Longitude: -83.0
+##### Half Angle: 44.0
+##### Speed: 423.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19295/-1)
+##### Note: These parameters are based off of the best fit between SOHO LASCO C3 and STEREO A COR2 difference imagery. The leading edge of this CME has a portion towards the south that is further ahead than the rest of the CME, this portion of the front was excluded in order to measure with the most accuracy the bulk portion of the leading edge of the CME.
+### Activity ID: 2022-02-28T16:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-02-28T16:36Z
+#### Source Location: N25E04
+#### Active Region Number: 12956
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19324/-1)
+#### Note: Very faint/narrow event seen to NW in SOHO C2/COR2A but not in C3.
+#### Instruments
+##### SOHO: LASCO/C2
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-01T06:02Z
+##### Latitude: 31.0
+##### Longitude: 22.0
+##### Half Angle: 15.0
+##### Speed: 258.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19325/-1)
+##### Note: Longitude does not correspond to the longitude of the possible source but was inferred from the best fit in SWPC CAT analysis so parameters are uncertain.
+### Activity ID: 2022-03-01T00:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-01T00:36Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19304/-1)
+#### Note: This CME is clearly visible to the SW in SOHO LASCO and STEREO A COR2 white light coronagraph imagery. The eruption signature for this CME could not be found in the available EUV imagery, suggesting it likely originated from the far-side of the Sun.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-01T13:37Z
+##### Latitude: -16.0
+##### Longitude: 117.0
+##### Half Angle: 31.0
+##### Speed: 358.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19305/-1)
+##### Note: This SWPC_CAT measurement approximates the longitude of the CME by matching the leading edge of the event observed in SOHO LASCO C3 and STEREO A COR2 difference imagery. The CME exhibits an asymmetric shape in STEREO A COR2, suggesting it is oriented away from STEREO A.
+### Activity ID: 2022-03-01T04:12:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-01T04:12Z
+#### Source Location: N25E04
+#### Active Region Number: 12956
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19306/-1)
+#### Note: This CME is likely associated with a notable dimming starting around 2022-03-01T03:00Z from the vicinity of Active Region 12956 observed on the Earth-facing disk best seen in SDO AIA 211 imagery.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-01T14:13Z
+##### Latitude: 20.0
+##### Longitude: 15.0
+##### Half Angle: 17.0
+##### Speed: 355.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19307/-1)
+##### Note: The leading edge becomes diffuse in running difference imagery farther from the occulting disk and thus difficult to measure.
+### Activity ID: 2022-03-01T11:48:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-01T11:48Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19309/-1)
+#### Note: This faint CME is observed to the east in SOHO LASCO and STEREO A COR2 white light coronagraph imagery. It is likely associated with field line movement observed off the NE limb as seen in SDO AIA 211 and STEREO A EUVI 195 starting around 2022-03-01T10:00Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-01T22:14Z
+##### Latitude: 0.0
+##### Longitude: -99.0
+##### Half Angle: 27.0
+##### Speed: 340.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19310/-1)
+##### Note: This SWPC_CAT measurement matches the leading edge of the CME visible in SOHO LASCO C2/C3 and STEREO A COR2 difference imagery. It accounts for the likely associated eruption signature seen off the NE limb of the Earth-facing disk when approximating the longitude.
+### Activity ID: 2022-03-02T12:12:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-02T12:12Z
+#### Source Location: N4E90
+#### Active Region Number: 12860
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19330/-1)
+#### Note: This possible source seems to be very minor dimming in the Active Region 12860 around 2022-03-02T11:45Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-02T18:10Z
+##### Latitude: 4.0
+##### Longitude: None
+##### Half Angle: 30.0
+##### Speed: 577.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19331/-1)
+##### Note: POS measurement has been done since the CME is very faint and is mostly seen in SOHO LASCO C3 running difference imagery. We might be able to see its extremely faint front in Stereo Ahead COR2A (it is not seen in white light imagery in COR2A).
+### Activity ID: 2022-03-02T12:24:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-02T12:24Z
+#### Source Location: S16E31
+#### Active Region Number: 12957
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19319/-1)
+#### Note: CME associated with a significant eruption in AR 2957 (S16E31) seen starting around 2022-03002T09:10Z in AIA 193 and EUVI A 195 and associated with a C3.0 class flare peaking at 2022-03-02T09:42Z. The eruption was mostly to the east of AR 2957 and the dimming stretches as far as -50-55 deg longitude
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-02T21:34Z
+##### Latitude: -6.0
+##### Longitude: -52.0
+##### Half Angle: 25.0
+##### Speed: 392.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19333/-1)
+##### Note: Updated parameters with additional imagery in STEREO A COR2.
+##### Time: 2022-03-02T20:44Z
+##### Latitude: -8.0
+##### Longitude: -47.0
+##### Half Angle: 29.0
+##### Speed: 441.0
+##### Type: S
+##### Most Accurate: False
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19320/-1)
+##### Note: Very approximate measurement since there seems to be a second front a bit earlier than the measured brighter front. The front is very uneven and not clear.
+### Activity ID: 2022-03-02T15:48:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-02T15:48Z
+#### Source Location: N22W22
+#### Active Region Number: 12956
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19315/-1)
+#### Note: The CME is likely associated with an eruption and dimming from the vicinity of AR2956 starting around 2022-03-02T14:45Z visible in SDO AIA 193 imagery.
+#### Instruments
+##### SOHO: LASCO/C2
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-02T22:56Z
+##### Latitude: 23.0
+##### Longitude: 22.0
+##### Half Angle: 21.0
+##### Speed: 458.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19334/-1)
+##### Note: New parameters based off of further out, more faint front (likely shock front) in difference imagery.
+##### Time: 2022-03-02T23:07Z
+##### Latitude: 21.0
+##### Longitude: 22.0
+##### Half Angle: 27.0
+##### Speed: 472.0
+##### Type: S
+##### Most Accurate: False
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19316/-1)
+##### Note: This relatively faint CME became more diffuse in later timestamps in both coronagraphs and thus is difficult to measure farther from the occulting disk and a frame or two of Stereo A coronagraph data was missing during the measurement. (Half-width could be 5-6 degree lower than in this analysis).
+### Activity ID: 2022-03-02T18:24:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-02T18:24Z
+#### Source Location: N18E27
+#### Active Region Number: 12958
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19327/-1)
+#### Note: Coronal signatures of this CME are the associated flare and the darkening around AR 2958 and to the NE from it and an EUV wave seen in EUVI A 195 and AIA 193, mostly spreading NE from AR 2958.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-03T04:05Z
+##### Latitude: 0.0
+##### Longitude: -39.0
+##### Half Angle: 28.0
+##### Speed: 442.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19339/-1)
+##### Note: This measurement is a wider measurement which takes into account a secondary southern feature appearing later which overtook the first.
+##### Time: 2022-03-03T05:02Z
+##### Latitude: 4.0
+##### Longitude: -41.0
+##### Half Angle: 23.0
+##### Speed: 336.0
+##### Type: S
+##### Most Accurate: False
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19328/-1)
+##### Note: The longitude is a higher negative longitude than the source location (location of the associated flare and Active Region).
+##### Time: 2022-03-03T04:12Z
+##### Latitude: 6.0
+##### Longitude: -40.0
+##### Half Angle: 19.0
+##### Speed: 396.0
+##### Type: S
+##### Most Accurate: False
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19335/-1)
+##### Note: This measurement includes the northern halo feature seen in Stereo A COR2A and the more narrow shock front observed to the northeast in SOHO C3 coronagraph imagery.
+### Activity ID: 2022-03-04T18:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-04T18:36Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19343/-1)
+#### Note: This CME is first visible to the SW in SOHO LASCO C2. It has a messy front due to the source's filament structure. The source is a filament eruption first seen to the SW along SDO/AIA 304 beyond the limb and in SDO/AIA 171 as moving field lines starting around 17:09Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-05T06:11Z
+##### Latitude: -28.0
+##### Longitude: 123.0
+##### Half Angle: 27.0
+##### Speed: 351.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19344/-1)
+##### Note: The faint front was tracked for multiple measurements in StereoCAT. These parameters are the average of all of those measurements.
+### Activity ID: 2022-03-04T20:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-04T20:36Z
+#### Source Location: S21E56
+#### Active Region Number: 12960
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19346/-1)
+#### Note: This CME is first visible to the E/SE in SOHO LASCO C2 and later in SOHO LASCO C3. It is not clearly visible in STEREO A COR2 imagery. The source of this CME appears to be a flare with a resulting eruption from AR12960 that produces some filament ejecta material. The eruption begins around 19:30Z and is most easily seen in SDO/AIA 304.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+#### Analysis
+##### Time: 2022-03-05T04:41Z
+##### Latitude: -17.0
+##### Longitude: -56.0
+##### Half Angle: 28.0
+##### Speed: 415.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19347/-1)
+##### Note: These parameters are based off of the trackable features in the SOHO LASCO C2 and C3 difference imagery. There are no STEREO A COR2 images to confirm the longitude used for these measurements, therefore these are very preliminary. The longitude is based off of the apparent source location.
+### Activity ID: 2022-03-04T23:00:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-04T23:00Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19360/-1)
+#### Note: Two overlapping similar CMEs seen NE in COR2A only (the second CME follows 5 hours later, first seen at 2022-03-05T04:00Z. The front(s) are very faint in LASCO imagery and are not seen in difference imagery at all. The only possible source was a high latitude very faint  dimming seen in AIA 193 and EUVI A 195 centered around E15N50.
+#### Instruments
+##### STEREO A: SECCHI/COR2
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+#### Analysis
+##### Time: 2022-03-06T03:01Z
+##### Latitude: 22.0
+##### Longitude: None
+##### Half Angle: 38.0
+##### Speed: 135.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19362/-1)
+##### Note: The features of this CME are not clearly visible in SOHO LASCO C2/C3. Low confidence on analysis of this feature. There is a potential that this CME may have an Earth-directed component.
+### Activity ID: 2022-03-05T17:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-05T17:36Z
+#### Source Location: N18W95
+#### Active Region Number: 12955
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19351/-1)
+#### Note: The source of this CME appears to be an eruption from AR12955 (~N18W95) starting after 16:30Z. This eruption is best seen in SDO/AIA 193 and EUVI 195 as opening field lines along the NW limb and in SDO/AIA 304 as a filament eruption just beyond the NW limb.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-06T02:14Z
+##### Latitude: 21.0
+##### Longitude: 92.0
+##### Half Angle: 37.0
+##### Speed: 423.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19352/-1)
+##### Note: These parameters are based off of the best fit between the SOHO LASCO and STEREO A coronagraphs. The longitude may vary by +/- 5 degrees.
+### Activity ID: 2022-03-05T22:00:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-05T22:00Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19353/-1)
+#### Note: The source of this CME is unclear. The CME appears as a "puff-like" feature to the East in SOHO LASCO C2/C3 and STEREO A COR2.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+#### Analysis
+##### Time: 2022-03-06T10:49Z
+##### Latitude: -9.0
+##### Longitude: -111.0
+##### Half Angle: 28.0
+##### Speed: 274.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19354/-1)
+##### Note: These parameters are based off of the best fit between SOHO LASCO and STEREO A coronagraphs. It is possible the longitude would vary by +/- 10 degrees since there is no clear source region.
+### Activity ID: 2022-03-06T01:23:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-06T01:23Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19359/-1)
+#### Note: This CME has an odd shape with a hook-like feature being the most prominent feature to track in white-light imagery. The source of this CME is unclear. The feature is only visible in STEREO A COR2 imagery. It is visible to the West in STEREO A COR2.
+#### Instruments
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-06T08:19Z
+##### Latitude: 10.0
+##### Longitude: None
+##### Half Angle: 33.0
+##### Speed: 426.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19361/-1)
+##### Note: These parameters are based off of a plane-of-sky measurement (longitude ~55 degrees) using STEREO A COR2 difference imagery.
+### Activity ID: 2022-03-06T01:25:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-06T01:25Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19355/-1)
+#### Note: This CME is seen faintly as a "puff-like" feature to the East in SOHO LASCO C2/C3 and STEREO A COR2. This CME follows the same path as the 2022-03-05T22:00Z CME. The source of this CME is unclear.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-06T15:42Z
+##### Latitude: -8.0
+##### Longitude: -121.0
+##### Half Angle: 28.0
+##### Speed: 248.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19356/-1)
+##### Note: These parameters are based off of the best fit between SOHO LASCO C2 and STEREO A COR2 coronagraphs. The features are fairly faint and may impact the parameters. The longitude could be anywhere between -110 degrees and -125 degrees based off of measurements.
+### Activity ID: 2022-03-06T04:48:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-06T04:48Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19357/-1)
+#### Note: This CME is the third of a trio of CMEs seen to the East in SOHO LASCO C2/C3 and STEREO A COR2. (The other two CMEs were first seen to the East in C2 at 2022-03-05T22:00Z and 2022-03-06T01:25Z). The source is unclear for this CME.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-06T18:37Z
+##### Latitude: -4.0
+##### Longitude: -121.0
+##### Half Angle: 28.0
+##### Speed: 252.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19358/-1)
+##### Note: These parameters are based off of the best fit between SOHO LASCO C2/C3 and STEREO A COR2 coronagraphs. The longitude may vary between -110 degrees and -125 degrees depending on fit and alignment of features between the coronagraphs.
+### Activity ID: 2022-03-07T00:12:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-07T00:12Z
+#### Source Location: N17W28
+#### Active Region Number: 12958
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19367/-1)
+#### Note: This CME is first seen as a faint partial halo to the NW in SOHO LASCO C2 (later in C3) and followed by a more bright and slightly more narrow shape to the W/NW in STEREO A COR2. The source of this CME is an eruption to the E/SE of AR12958 (N17W28) stretching across multiple longitudes from ~W20 to ~W45 based off of the dimming signature seen in SDO/AIA 193. The eruption is best seen in the SDO/AIA 193, 211, 94, 335, and STEREO A EUVI 195 wavelengths. From STEREO A's point of view, the eruption appears as opening field lines along the Eastern limb, while in SDO/AIA's point of view, the eruption is more clear with dimming, a post-eruptive arcade, and a brief EUV wave (seen best in SDO/AIA 211).
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-07T08:05Z
+##### Latitude: 6.0
+##### Longitude: 21.0
+##### Half Angle: 31.0
+##### Speed: 479.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19370/-1)
+##### Note: These parameters are based off of the best fit between the SOHO LASCO C2/C3 and STEREO A COR2 coronagraphs. The longitude may vary between 17 and 27 degrees depending on the fit. Measured speeds were between 380 km/s and 580 km/s depending on the feature tracked.
+### Activity ID: 2022-03-07T14:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-07T14:36Z
+#### Source Location: S22E94
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19373/-1)
+#### Note: The source appears to be a filament eruption to the southeast best seen in SDO/AIA 304 starting around 2022-03-07T13:00Z and also visible in SDO/AIA 193, 171, and STA EUVI 195.
+#### Instruments
+##### SOHO: LASCO/C2
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-08T00:05Z
+##### Latitude: -22.0
+##### Longitude: -96.0
+##### Half Angle: 27.0
+##### Speed: 392.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19381/-1)
+##### Note: This measurement was made following the preliminary measurement using additional available coronagraph imagery.
+##### Time: 2022-03-08T00:58Z
+##### Latitude: -22.0
+##### Longitude: -94.0
+##### Half Angle: 26.0
+##### Speed: 354.0
+##### Type: S
+##### Most Accurate: False
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19374/-1)
+##### Note: This is a preliminary measurement taken while waiting for further downlinked images.
+### Activity ID: 2022-03-08T01:53:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-08T01:53Z
+#### Source Location: N18E173
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19382/-1)
+#### Note: This event is likely backsided and a source region could not be observed with available imagery.
+#### Instruments
+##### SOHO: LASCO/C2
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-08T08:36Z
+##### Latitude: 18.0
+##### Longitude: 173.0
+##### Half Angle: 26.0
+##### Speed: 469.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19383/-1)
+##### Note: Two faint fronts were observed from the same eruption in SOHO white light imagery, but the secondary front was not visible in running difference imagery. The source region is approximate because the event was likely back-sided and it was not visible in available EUV imagery.
+### Activity ID: 2022-03-08T04:24:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-08T04:24Z
+#### Source Location: N17W44
+#### Active Region Number: 12958
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19377/-1)
+#### Note: The likely source is an eruption from the vicinity of Active Region 2958. Dimming and opening magnetic field lines as well as an EUV wave are observed in SDO AIA 193 A starting around 2022-03-08T03:24Z, while in SDO 304 A, longitudinal brightening occurs along the active region with ejecta and bright post eruptive loops.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-08T10:20Z
+##### Latitude: 10.0
+##### Longitude: 43.0
+##### Half Angle: 34.0
+##### Speed: 616.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19378/-1)
+##### Note: The front was asymmetrically shaped with the northern flank extending farther from the occulting disk but frames were available for all coronagraphs.
+### Activity ID: 2022-03-08T09:12:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-08T09:12Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19384/-1)
+#### Note: A potential source candidate for this CME is possible outflow and field line movement from an unnumbered active region in the NE as seen from SDO AIA 171 around 2022-03-08T08:51Z, but this is uncertain. This CME is visible in the east of SOHO LASCO C2/C3 and STEREO A COR2.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-08T22:13Z
+##### Latitude: 0.0
+##### Longitude: None
+##### Half Angle: 35.0
+##### Speed: 305.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19385/-1)
+##### Note: This is a plane of sky measurement using SOHO LASCO C2 in SWPC_CAT.
+### Activity ID: 2022-03-10T00:12:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-10T00:12Z
+#### Source Location: S40E50
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19392/-1)
+#### Note: Visible in the SE in SOHO LASCO C2/C3 and as a southward halo in STEREO A COR2.  Associated with a filament eruption centered near S40E50, visible in SDO AIA 131/171/193/304 and STEREO A EUVI 195/304 beginning 2022-03-09T21:30Z.  First of a 2-CME eruption from this filament.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-10T10:15Z
+##### Latitude: -14.0
+##### Longitude: -34.0
+##### Half Angle: 29.0
+##### Speed: 452.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19396/-1)
+##### Note: Remeasured as part of a 2-CME eruption from the filament.
+##### Time: 2022-03-10T11:51Z
+##### Latitude: -16.0
+##### Longitude: -40.0
+##### Half Angle: 36.0
+##### Speed: 388.0
+##### Type: S
+##### Most Accurate: False
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19393/-1)
+##### Note: 
+### Activity ID: 2022-03-10T02:00:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-10T02:00Z
+#### Source Location: S40E50
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19397/-1)
+#### Note: Visible in the SE in SOHO LASCO C2/C3 and as a southward halo in STEREO A COR2. Associated with a filament eruption centered near S40E50, visible in SDO AIA 131/171/193/304 and STEREO A EUVI 195/304 beginning 2022-03-09T21:30Z.  Second of a 2-CME eruption from this filament.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-10T12:10Z
+##### Latitude: -21.0
+##### Longitude: -53.0
+##### Half Angle: 34.0
+##### Speed: 551.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19398/-1)
+##### Note: 
+### Activity ID: 2022-03-10T15:12:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-10T15:12Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19401/-1)
+#### Note: Fast jet visible in the ENE in SOHO LASCO C2/C3 and STEREO A COR2.  No definitive source, but may be associated with a jet eruption near the E limb (near latitude N15) visible in SDO AIA 304 beginning 2022-03-10T14:16Z.  Appears faster in the C2 FOV and slower in the C3 FOV.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-10T19:44Z
+##### Latitude: 12.0
+##### Longitude: -93.0
+##### Half Angle: 12.0
+##### Speed: 775.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19402/-1)
+##### Note: 
+### Activity ID: 2022-03-10T19:23:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-10T19:23Z
+#### Source Location: N12W12
+#### Active Region Number: 12962
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19406/-1)
+#### Note: Visible in the NW of STEREO A COR2 and as a halo in SOHO LASCO C2/C3.  Associated with an eruption, dimming, and EUV wave SE of AR2962 (N12W12), best seen in SDO AIA 171/193 starting around 2022-03-10T18:42Z.  Associated with below-threshold increase in greater than 10 MeV proton flux at GOES-P beginning 2022-03-10T23:15Z and below-threshold increase in 13-100 MeV proton flux at STEREO A IMPACT beginning 2022-03-11T01:00Z.
+#### Instruments
+##### STEREO A: SECCHI/COR2
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+#### Analysis
+##### Time: 2022-03-11T01:06Z
+##### Latitude: 16.0
+##### Longitude: 10.0
+##### Half Angle: 61.0
+##### Speed: 677.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19407/-1)
+##### Note: Half-width guided from shock front in STEREO A COR2 imagery.
+### Activity ID: 2022-03-11T00:00:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-11T00:00Z
+#### Source Location: N15E90
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19408/-1)
+#### Note: Narrow CME visible in the W of SOHO LASCO C2/C3; not seen in STEREO A COR2.  May possibly be associated with jet eruption over E limb in SDO AIA 304 starting 2022-03-10T23:36Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+#### Analysis
+##### Time: 2022-03-11T06:20Z
+##### Latitude: 15.0
+##### Longitude: -90.0
+##### Half Angle: 15.0
+##### Speed: 539.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19409/-1)
+##### Note: Longitude approximated from source location.
+### Activity ID: 2022-03-11T23:12:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-11T23:12Z
+#### Source Location: S28W66
+#### Active Region Number: 12964
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19418/-1)
+#### Note: Visible in the southwest as seen from SOHO LASCO C2/C3 and STEREO A COR2. The source is an M2.2 flare and an associated eruption with dimming and an EUV wave seen in SDO AIA 193.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-12T07:44Z
+##### Latitude: -23.0
+##### Longitude: 65.0
+##### Half Angle: 33.0
+##### Speed: 544.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19419/-1)
+##### Note: 
+### Activity ID: 2022-03-12T09:48:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-12T09:48Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19421/-1)
+#### Note: This CME is faintly visible in SOHO LASCO C2/C3 and STEREO A COR2. The source is uncertain, but a potential source is a slow eruption around S35W50. It is characterized by dimming in SDO AIA 193 starting around 2022-03-12T03:47Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-12T18:34Z
+##### Latitude: -32.0
+##### Longitude: 67.0
+##### Half Angle: 28.0
+##### Speed: 394.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19422/-1)
+##### Note: These parameters were obtained using the best fit in SWPC_CAT and knowledge of the potential source location.  For these reasons, the longitude may vary by +/- 10 degrees.
+### Activity ID: 2022-03-12T18:23:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-12T18:23Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19430/-1)
+#### Note: This CME is best visible in the southwest STEREO A COR2 and faintly visible in SOHO LASCO C2/C3. The source location could not be determined.
+#### Instruments
+##### STEREO A: SECCHI/COR2
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+#### Analysis
+##### Time: 2022-03-13T07:51Z
+##### Latitude: -30.0
+##### Longitude: None
+##### Half Angle: 25.0
+##### Speed: 258.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19431/-1)
+##### Note: These preliminary parameters were obtained using the plane of sky measurement technique with STEREO A COR2 in SWPC_CAT.
+### Activity ID: 2022-03-12T21:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-12T21:36Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19436/-1)
+#### Note: The CME is narrow and visible in the NNE of SOHO LASCO C2/C3 and COR2A. It does not have a clearly defined leading edge. The source is a filament eruption starting around 20:00Z. The eruption is centered around N50W60.  It is visible in SDO AIA 171/193/304 and STEREO A EUVI 195.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-13T05:58Z
+##### Latitude: 37.0
+##### Longitude: -52.0
+##### Half Angle: 10.0
+##### Speed: 394.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19437/-1)
+##### Note: These parameters were obtained using direct imagery in StereoCat.
+### Activity ID: 2022-03-13T05:53:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-13T05:53Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19434/-1)
+#### Note: This CME is visible in the west of SOHO LASCO C2/C3 and STEREO A COR2. The potential source is opening field lines on or beyond the west limb as seen in SDO AIA 193/171.
+#### Instruments
+##### STEREO A: SECCHI/COR2
+##### SOHO: LASCO/C2
+#### Analysis
+##### Time: 2022-03-13T18:43Z
+##### Latitude: -7.0
+##### Longitude: 93.0
+##### Half Angle: 19.0
+##### Speed: 256.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19435/-1)
+##### Note: These parameters were obtained using the best fit between SOHO LASCO C2/C3 and STEREO A COR2 in SWPC_CAT and knowledge of the source location. Because the source location is near the west limb of SDO imagery and partially obscured, the longitude may vary by about 10 degrees.
+### Activity ID: 2022-03-13T12:00:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-13T12:00Z
+#### Source Location: S60W20
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19432/-1)
+#### Note: This CME is visible in the SSW in SOHO LASCO C2/C3 and the SW of STEREO A COR2. The CME source is a filament eruption starting around 2022-03-13T10:00Z characterized by filament liftoff and dimming around S60W20. It is best seen in SDO AIA 193 and 304. It is also visible near the southwest limb of STEREO A EUVI imagery.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-13T21:13Z
+##### Latitude: -34.0
+##### Longitude: 11.0
+##### Half Angle: 19.0
+##### Speed: 363.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19443/-1)
+##### Note: This measurement includes more available coronagraph imagery and attempts to fit the slower, narrower leading edge of the coronal mass ejection rather than the faster outer shock.
+##### Time: 2022-03-13T21:10Z
+##### Latitude: -32.0
+##### Longitude: 7.0
+##### Half Angle: 17.0
+##### Speed: 345.0
+##### Type: S
+##### Most Accurate: False
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19433/-1)
+##### Note: This is a preliminary measurement using limited SOHO LASCO C2/C3 and STEREO A COR2 imagery in SWPC_CAT.
+### Activity ID: 2022-03-14T00:24:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-14T00:24Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19445/-1)
+#### Note: This CME is visible in the east of SOHO LASCO C2/C3 and is faintly visible in the east of STEREO A COR2. The potential source location is visible as opening field lines beyond the SW limb and is best seen in SDO AIA 171 around 2022-03-13T23:45Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-14T15:07Z
+##### Latitude: -6.0
+##### Longitude: 92.0
+##### Half Angle: 18.0
+##### Speed: 245.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19446/-1)
+##### Note: These parameters were obtained using knowledge of the source location and the best fit between SOHO LASCO C2/C3 and STEREO A COR2 in SWPC_CAT.
+### Activity ID: 2022-03-14T17:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-14T17:36Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19448/-1)
+#### Note: This CME is visible in the southwest of SOHO LASCO C2/C3 and STEREO A COR2. The source is a large eruption characterized by rapidly opening field lines on the west limb best seen in SDO AIA 171/193. The eruption starts around 2022-03-14T17:28Z, where the eruption can be seen taking off in SDO AIA 304 before the field line movement. Several ARs have rotated off of the Earth-facing disk since around 2022-03-12 and may be near the source location of this CME.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-14T22:16Z
+##### Latitude: -19.0
+##### Longitude: 102.0
+##### Half Angle: 37.0
+##### Speed: 748.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19449/-1)
+##### Note: The parameters of this preliminary measurement were obtained using knowledge of the source location as well as the best fit between SOHO LASCO C2/C3 and STEREO A COR2 imagery in SWPC_CAT. Later measurements after all available imagery backfilled were found to be consistent with this preliminary measurement.
+### Activity ID: 2022-03-14T21:48:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-14T21:48Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19454/-1)
+#### Note: This CME emerges to the south in SOHO LASCO C2/C3 and to the SE in STEREO A COR2. No signature could be found in the available EUV imagery and its orientation in both coronagraphs suggests the event originates from the farside.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-15T05:20Z
+##### Latitude: -36.0
+##### Longitude: -160.0
+##### Half Angle: 45.0
+##### Speed: 554.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 1
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19455/-1)
+##### Note: This SWPC_CAT measurement approximates the longitude of the CME by matching the shock front of the CME in both STEREO A COR2 and SOHO LASCO C3 difference imagery.
+### Activity ID: 2022-03-16T13:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-16T13:36Z
+#### Source Location: N30E20
+#### Active Region Number: 12967
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19461/-1)
+#### Note: Filament eruption begins around 2022-03-16T12:35Z and is seen well in SDO AIA 131, 171, 193, 304 and STEREO A EUVI 195 in the NE quadrant. Following this, brightening and an associated EUV wave are visible in STEREO A EUVI 195 and SDO AIA 193. Post eruptive arcades are then visible in SDO AIA 171 and 193 at 13:24Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-16T20:38Z
+##### Latitude: 1.0
+##### Longitude: -25.0
+##### Half Angle: 50.0
+##### Speed: 511.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19462/-1)
+##### Note: It was difficult to match the CME boundary between SOHO LASCO C3 and STEREO A COR2 coronagraphs since it was seen as a halo in STEREO A. It is possible the half-width was overestimated to account for this halo, resulting in a slightly lower speed.
+### Activity ID: 2022-03-16T15:16:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-16T15:16Z
+#### Source Location: N38E75
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19463/-1)
+#### Note: Filament eruption is best seen in SDO AIA 193 starting around 2022-03-16T13:52Z, while visible in SDO AIA 304, it is partially obscured by an ongoing eruption that occurred just before it. The eruption is easily separated from an ongoing one using running difference imagery.
+#### Instruments
+##### SOHO: LASCO/C2
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-17T02:23Z
+##### Latitude: 19.0
+##### Longitude: -78.0
+##### Half Angle: 27.0
+##### Speed: 320.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19464/-1)
+##### Note: Partially overlaps with a previous CME (Activity ID 2022-03-16T13:36:00-CME-001) but is able to be discerned through running difference imagery.
+### Activity ID: 2022-03-16T17:00:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-16T17:00Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19470/-1)
+#### Note: Faint rising loops are seen in SDO/AIA 171 off the SW limb. There is a clear EUV wave in the coronal material along the SW limb of SDO/AIA 171, prior to the start of this CME being seen in SOHO LASCO C2, which starts around 16:00Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-17T00:34Z
+##### Latitude: -7.0
+##### Longitude: 124.0
+##### Half Angle: 28.0
+##### Speed: 482.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19471/-1)
+##### Note: The source location was off the limb so the longitude was estimated based on the best fit between SOHO LASCO C3 and STEREO A COR2 coronagraphs. However, all measurements produced longitudes around 110-130.
+### Activity ID: 2022-03-17T17:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-17T17:36Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19476/-1)
+#### Note: Faint opening field lines are observed moving along the SW limb best observed in SDO/AIA 171.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-18T07:55Z
+##### Latitude: -16.0
+##### Longitude: 119.0
+##### Half Angle: 27.0
+##### Speed: 263.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19477/-1)
+##### Note: The CME has a faint front in Stereo Ahead imagery and is likely the first of two seperate CMEs to exit from the same vicinity. A source location was not able to be discerned due to it likely being back-sided with respect to the Earth-facing solar disk.
+### Activity ID: 2022-03-17T21:12:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-17T21:12Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19474/-1)
+#### Note: Somewhat faint CME seen to the SW in SOHO LASCO C2/C3 and S/SW in STEREO A COR2. There is no clear identifiable source for this CME. It partially overlaps and surpasses the 2022-03-17T17:36Z CME.
+#### Instruments
+##### SOHO: LASCO/C2
+##### SOHO: LASCO/C3
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-18T06:31Z
+##### Latitude: -25.0
+##### Longitude: 120.0
+##### Half Angle: 15.0
+##### Speed: 358.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19475/-1)
+##### Note: These parameters are based off of the best fit between SOHO LASCO C3 and STEREO A COR2 coronagraph imagery. The leading edge is the most prominent to track while there is a faint diffuse front that may be further out ahead of the tracked leading edge feature in this measurement. Speeds in measurements ranged from 300 km/s to 400 km/s.
+### Activity ID: 2022-03-19T06:00:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-19T06:00Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19479/-1)
+#### Note: Visible in the E in SOHO LASCO C2 and STEREO A COR2.  No definitive source region, but may possibly be associated with ongoing eruptions from unnumbered AR over W limb in STEREO A (near S20E124), visible in STEREO A EUVI 195/304 during period 2022-03-19T02:15Z-06:15Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-19T16:27Z
+##### Latitude: 12.0
+##### Longitude: -117.0
+##### Half Angle: 33.0
+##### Speed: 361.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19480/-1)
+##### Note: 
+### Activity ID: 2022-03-19T06:35:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-19T06:35Z
+#### Source Location: 
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19481/-1)
+#### Note: Visible in SW in SOHO LASCO C2 and STEREO A COR2.  No definitive source, but may possibly be associated with opening field lines faintly visible over SW limb in SDO AIA 171 (near latitude S45) beginning around 2022-03-19T05:50Z.
+#### Instruments
+##### SOHO: LASCO/C2
+##### STEREO A: SECCHI/COR2
+#### Analysis
+##### Time: 2022-03-19T18:20Z
+##### Latitude: -22.0
+##### Longitude: 100.0
+##### Half Angle: 37.0
+##### Speed: 297.0
+##### Type: S
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19482/-1)
+##### Note: 
+### Activity ID: 2022-03-19T14:36:00-CME-001
+#### Catalog: M2M_CATALOG
+#### Start Time: 2022-03-19T14:36Z
+#### Source Location: S30E25
+#### Active Region Number: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/19484/-1)
+#### Note: Visible in the SW in SOHO LASCO C2; not yet seen in STEREO A COR2.  May possibly be associated with a filament eruption near S30E25, visible in SDO AIA 171/193/304 and STEREO A EUVI 195 beginning around 2022-03-19T09:30Z. Associated with eruption just N of newly-formed AR near S30E25.
+#### Instruments
+##### SOHO: LASCO/C2
+#### Analysis
+##### Time: 2022-03-19T21:12Z
+##### Latitude: -23.0
+##### Longitude: -25.0
+##### Half Angle: 12.0
+##### Speed: 554.0
+##### Type: C
+##### Most Accurate: True
+##### Level of Data: 0
+##### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/19485/-1)
+##### Note: Preliminary analysis with early C2 frames and nothing in COR2A; longitude estimated from source location.
 ## Geomagnetic Storms
 ### 2021-03-01T03:00:00-GST-001
 #### Start Time: 2021-03-01T03:00Z
@@ -1883,273 +1854,334 @@
 ##### 2021-11-03T19:23:00-IPS-001
 ##### 2021-11-03T21:29:00-MPC-001
 #### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/GST/18198/-1)
+### 2022-01-14T21:00:00-GST-001
+#### Start Time: 2022-01-14T21:00Z
+#### Observed Time: 2022-01-15T00:00Z
+#### KP Index: 6
+#### Source: NOAA
+#### Linked Events
+##### 2022-01-14T21:39:00-HSS-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/GST/18841/-1)
+### 2022-01-19T00:00:00-GST-001
+#### Start Time: 2022-01-19T00:00Z
+#### Observed Time: 2022-01-19T03:00Z
+#### KP Index: 6
+#### Source: NOAA
+#### Linked Events
+##### 2022-01-15T16:12:00-CME-001
+##### 2022-01-16T20:48:00-CME-001
+##### 2022-01-18T23:04:00-IPS-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/GST/18884/-1)
+### 2022-03-13T12:00:00-GST-001
+#### Start Time: 2022-03-13T12:00Z
+#### Observed Time: 2022-03-13T15:00Z
+#### KP Index: 6
+#### Source: NOAA
+#### Observed Time: 2022-03-13T21:00Z
+#### KP Index: 6
+#### Source: NOAA
+#### Observed Time: 2022-03-14T00:00Z
+#### KP Index: 6
+#### Source: NOAA
+#### Observed Time: 2022-03-14T03:00Z
+#### KP Index: 6
+#### Source: NOAA
+#### Linked Events
+##### 2022-03-10T19:23:00-CME-001
+##### 2022-03-13T10:11:00-IPS-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/GST/19427/-1)
 ## Interplanetary Shock
-### 2021-12-10T11:00:00-IPS-001
+### 2022-02-17T12:01:00-IPS-001
 #### Catalog: M2M_CATALOG
 #### Location: STEREO A
-#### Event Time: 2021-12-10T11:00Z
+#### Event Time: 2022-02-17T12:01Z
 #### Instruments
 ##### STEREO A: IMPACT
 ##### STEREO A: PLASTIC
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/18516/-1)
-#### Event Time: 2021-12-10T11:00Z
-### 2021-12-10T13:27:00-IPS-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/19210/-1)
+#### Event Time: 2022-02-17T12:01Z
+### 2022-02-19T02:17:00-IPS-001
 #### Catalog: M2M_CATALOG
 #### Location: Earth
-#### Event Time: 2021-12-10T13:27Z
+#### Event Time: 2022-02-19T02:17Z
 #### Instruments
 ##### DSCOVR: PLASMAG
-##### ACE: SWEPAM
-##### ACE: MAG
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/18518/-1)
-#### Event Time: 2021-12-10T13:27Z
-### 2021-12-15T03:20:00-IPS-001
-#### Catalog: M2M_CATALOG
-#### Location: Earth
-#### Event Time: 2021-12-15T03:20Z
-#### Instruments
-##### DSCOVR: PLASMAG
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/18531/-1)
-#### Event Time: 2021-12-15T03:20Z
-### 2021-12-19T12:08:00-IPS-001
-#### Catalog: M2M_CATALOG
-#### Location: Earth
-#### Event Time: 2021-12-19T12:08Z
-#### Instruments
-##### DSCOVR: PLASMAG
-##### ACE: SWEPAM
-##### ACE: MAG
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/18572/-1)
-#### Event Time: 2021-12-19T12:08Z
-### 2021-12-19T18:28:00-IPS-001
-#### Catalog: M2M_CATALOG
-#### Location: Earth
-#### Event Time: 2021-12-19T18:28Z
-#### Instruments
-##### DSCOVR: PLASMAG
-##### ACE: SWEPAM
-##### ACE: MAG
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/18635/-1)
-#### Event Time: 2021-12-19T18:28Z
-### 2021-12-27T08:38:00-IPS-001
-#### Catalog: M2M_CATALOG
-#### Location: Earth
-#### Event Time: 2021-12-27T08:38Z
-#### Instruments
-##### DSCOVR: PLASMAG
-##### ACE: SWEPAM
-##### ACE: MAG
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/18661/-1)
-#### Event Time: 2021-12-27T08:38Z
-### 2021-12-29T19:31:00-IPS-001
-#### Catalog: M2M_CATALOG
-#### Location: Earth
-#### Event Time: 2021-12-29T19:31Z
-#### Instruments
-##### DSCOVR: PLASMAG
-##### ACE: SWEPAM
-##### ACE: MAG
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/18691/-1)
-#### Event Time: 2021-12-29T19:31Z
-### 2022-01-07T02:24:00-IPS-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/19251/-1)
+#### Event Time: 2022-02-19T02:17Z
+### 2022-02-22T10:00:00-IPS-001
 #### Catalog: M2M_CATALOG
 #### Location: STEREO A
-#### Event Time: 2022-01-07T02:24Z
+#### Event Time: 2022-02-22T10:00Z
+#### Instruments
+##### STEREO A: IMPACT
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/19274/-1)
+#### Event Time: 2022-02-22T10:00Z
+### 2022-02-22T18:00:00-IPS-001
+#### Catalog: M2M_CATALOG
+#### Location: STEREO A
+#### Event Time: 2022-02-22T18:00Z
 #### Instruments
 ##### STEREO A: IMPACT
 ##### STEREO A: PLASTIC
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/18751/-1)
-#### Event Time: 2022-01-07T02:24Z
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/19275/-1)
+#### Event Time: 2022-02-22T18:00Z
+### 2022-02-27T03:30:00-IPS-001
+#### Catalog: M2M_CATALOG
+#### Location: Earth
+#### Event Time: 2022-02-27T03:30Z
+#### Instruments
+##### DSCOVR: PLASMAG
+##### ACE: SWEPAM
+##### ACE: MAG
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/19290/-1)
+#### Event Time: 2022-02-27T03:30Z
+### 2022-03-05T05:44:00-IPS-001
+#### Catalog: M2M_CATALOG
+#### Location: Earth
+#### Event Time: 2022-03-05T05:44Z
+#### Instruments
+##### DSCOVR: PLASMAG
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/19340/-1)
+#### Event Time: 2022-03-05T05:44Z
+### 2022-03-10T18:37:00-IPS-001
+#### Catalog: M2M_CATALOG
+#### Location: Earth
+#### Event Time: 2022-03-10T18:37Z
+#### Instruments
+##### DSCOVR: PLASMAG
+##### ACE: SWEPAM
+##### ACE: MAG
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/19395/-1)
+#### Event Time: 2022-03-10T18:37Z
+### 2022-03-11T13:45:00-IPS-001
+#### Catalog: M2M_CATALOG
+#### Location: STEREO A
+#### Event Time: 2022-03-11T13:45Z
+#### Instruments
+##### STEREO A: IMPACT
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/19415/-1)
+#### Event Time: 2022-03-11T13:45Z
+### 2022-03-12T22:23:00-IPS-001
+#### Catalog: M2M_CATALOG
+#### Location: STEREO A
+#### Event Time: 2022-03-12T22:23Z
+#### Instruments
+##### STEREO A: IMPACT
+##### STEREO A: PLASTIC
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/19460/-1)
+#### Event Time: 2022-03-12T22:23Z
+### 2022-03-13T06:35:00-IPS-001
+#### Catalog: M2M_CATALOG
+#### Location: STEREO A
+#### Event Time: 2022-03-13T06:35Z
+#### Instruments
+##### STEREO A: IMPACT
+##### STEREO A: PLASTIC
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/19426/-1)
+#### Event Time: 2022-03-13T06:35Z
+### 2022-03-13T10:11:00-IPS-001
+#### Catalog: M2M_CATALOG
+#### Location: Earth
+#### Event Time: 2022-03-13T10:11Z
+#### Instruments
+##### DSCOVR: PLASMAG
+##### ACE: SWEPAM
+##### ACE: MAG
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/IPS/19424/-1)
+#### Event Time: 2022-03-13T10:11Z
 ## Solar Flares
-### 2021-12-15T01:36:00-FLR-001
+### 2022-02-17T20:40:00-FLR-001
 #### Times
-##### Begin Time 2021-12-15T01:36Z
-##### Peak Time 2021-12-15T01:46Z
-##### End Time 2021-12-15T01:55Z
-#### Class Type: C2.1
-#### Source Location: S21E49
-#### Active Region Number: 12907
+##### Begin Time 2022-02-17T20:40Z
+##### Peak Time 2022-02-17T20:51Z
+##### End Time 2022-02-17T21:10Z
+#### Class Type: C1.4
+#### Source Location: N19E34
+#### Active Region Number: 12950
 #### Instruments
 ##### GOES-P: EXIS 1.0-8.0
 #### Linked Events
-##### 2021-12-15T05:00:00-CME-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18536/-1)
-### 2021-12-16T03:44:00-FLR-001
+##### 2022-02-17T21:53:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19233/-1)
+### 2022-02-18T16:05:00-FLR-001
 #### Times
-##### Begin Time 2021-12-16T03:44Z
-##### Peak Time 0021-12-16T03:54Z
-##### End Time 2021-12-16T04:04Z
-#### Class Type: C1.3
-#### Source Location: S21E78
-#### Active Region Number: 12909
+##### Begin Time 2022-02-18T16:05Z
+##### Peak Time 2022-02-18T16:27Z
+##### End Time 2022-02-18T16:41Z
+#### Class Type: B8.4
+#### Source Location: N21E24
+#### Active Region Number: 12950
 #### Instruments
 ##### GOES-P: EXIS 1.0-8.0
 #### Linked Events
-##### 2021-12-16T04:24:00-CME-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18563/-1)
-### 2021-12-17T00:51:00-FLR-001
+##### 2022-02-18T18:12:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19228/-1)
+### 2022-02-19T21:13:00-FLR-001
 #### Times
-##### Begin Time 2021-12-17T00:51Z
-##### Peak Time 2021-12-17T00:39Z
-##### End Time 2021-12-17T00:56Z
-#### Class Type: M1.2
-#### Source Location: N19E70
-#### Active Region Number: 12911
+##### Begin Time 2022-02-19T21:13Z
+##### Peak Time 2022-02-19T21:26Z
+##### End Time 2022-02-19T21:31Z
+#### Class Type: B7.2
+#### Source Location: N20E110
+#### Active Region Number: 12954
 #### Instruments
 ##### GOES-P: EXIS 1.0-8.0
 #### Linked Events
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18562/-1)
-### 2021-12-18T17:27:00-FLR-001
+##### 2022-02-20T01:25:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19244/-1)
+### 2022-02-20T03:36:00-FLR-001
 #### Times
-##### Begin Time 2021-12-18T17:27Z
-##### Peak Time 2021-12-18T18:01Z
-##### End Time 2021-12-18T18:36Z
-#### Class Type: C6.3
-#### Source Location: S19E89
+##### Begin Time 2022-02-20T03:36Z
+##### Peak Time 2022-02-20T04:07Z
+##### End Time 2022-02-20T04:24Z
+#### Class Type: C5.1
+#### Source Location: N20E95
+#### Active Region Number: 12954
+#### Instruments
+##### GOES-P: EXIS 1.0-8.0
+#### Linked Events
+##### 2022-02-20T04:24:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19247/-1)
+### 2022-02-28T08:05:00-FLR-001
+#### Times
+##### Begin Time 2022-02-28T08:05Z
+##### Peak Time 2022-02-28T08:37Z
+##### End Time 2022-02-28T09:02Z
+#### Class Type: C1.2
+#### Source Location: S25E65
 #### Active Region Number: None
 #### Instruments
 ##### GOES-P: EXIS 1.0-8.0
 #### Linked Events
-##### 2021-12-18T18:12:00-CME-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18574/-1)
-### 2021-12-20T03:08:00-FLR-001
+##### 2022-02-28T08:48:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19296/-1)
+### 2022-02-28T09:02:00-FLR-001
 #### Times
-##### Begin Time 2021-12-20T03:08Z
-##### Peak Time 2021-12-20T03:21Z
-##### End Time 2021-12-20T03:27Z
-#### Class Type: C4.4
-#### Source Location: S19E11
-#### Active Region Number: 12909
+##### Begin Time 2022-02-28T09:02Z
+##### Peak Time 2022-02-28T09:17Z
+##### End Time 2022-02-28T09:30Z
+#### Class Type: C3.1
+#### Source Location: S25E65
+#### Active Region Number: None
 #### Instruments
 ##### GOES-P: EXIS 1.0-8.0
 #### Linked Events
-##### 2021-12-20T05:48:00-CME-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18586/-1)
-### 2021-12-20T11:12:00-FLR-001
+##### 2022-02-28T08:48:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19297/-1)
+### 2022-03-02T09:12:00-FLR-001
 #### Times
-##### Begin Time 2021-12-20T11:12Z
-##### Peak Time 2021-12-20T11:36Z
-##### End Time 2021-12-20T11:55Z
-#### Class Type: M1.8
-#### Source Location: S20W01
-#### Active Region Number: 12908
+##### Begin Time 2022-03-02T09:12Z
+##### Peak Time 2022-03-02T09:42Z
+##### End Time 2022-03-02T10:08Z
+#### Class Type: C3.0
+#### Source Location: S16E31
+#### Active Region Number: 12957
 #### Instruments
 ##### GOES-P: EXIS 1.0-8.0
 #### Linked Events
-##### 2021-12-20T12:36:00-CME-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18583/-1)
-### 2021-12-21T07:43:00-FLR-001
+##### 2022-03-02T12:24:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19326/-1)
+### 2022-03-02T17:31:00-FLR-001
 #### Times
-##### Begin Time 2021-12-21T07:43Z
-##### Peak Time 2021-12-21T07:50Z
-##### End Time 2021-12-21T07:57Z
-#### Class Type: M1.1
-#### Source Location: S17E89
-#### Active Region Number: 12916
+##### Begin Time 2022-03-02T17:31Z
+##### Peak Time 2022-03-02T17:39Z
+##### End Time 2022-03-02T17:47Z
+#### Class Type: M2.0
+#### Source Location: N16E27
+#### Active Region Number: 12958
 #### Instruments
 ##### GOES-P: EXIS 1.0-8.0
 #### Linked Events
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18602/-1)
-### 2021-12-21T11:31:00-FLR-001
+##### 2022-03-02T18:24:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19314/-1)
+### 2022-03-04T19:28:00-FLR-001
 #### Times
-##### Begin Time 2021-12-21T11:31Z
-##### Peak Time 2021-12-21T11:44Z
-##### End Time 2021-12-21T11:49Z
+##### Begin Time 2022-03-04T19:28Z
+##### Peak Time 2022-03-04T19:36Z
+##### End Time 2022-03-04T19:41Z
+#### Class Type: B7.5
+#### Source Location: S21E56
+#### Active Region Number: 12960
+#### Instruments
+##### GOES-P: EXIS 1.0-8.0
+#### Linked Events
+##### 2022-03-04T20:36:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19364/-1)
+### 2022-03-10T18:17:00-FLR-001
+#### Times
+##### Begin Time 2022-03-10T18:17Z
+##### Peak Time 2022-03-10T20:32Z
+##### End Time 2022-03-10T20:53Z
+#### Class Type: C2.8
+#### Source Location: N20W15
+#### Active Region Number: 12962
+#### Instruments
+##### GOES-P: EXIS 1.0-8.0
+#### Linked Events
+##### 2022-03-10T19:23:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19413/-1)
+### 2022-03-11T22:13:00-FLR-001
+#### Times
+##### Begin Time 2022-03-11T22:13Z
+##### Peak Time 2022-03-11T22:32Z
+##### End Time 2022-03-11T22:38Z
+#### Class Type: M2.2
+#### Source Location: S28W66
+#### Active Region Number: 12964
+#### Instruments
+##### GOES-P: EXIS 1.0-8.0
+#### Linked Events
+##### 2022-03-11T23:12:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19417/-1)
+### 2022-03-14T08:35:00-FLR-001
+#### Times
+##### Begin Time 2022-03-14T08:35Z
+##### Peak Time 2022-03-14T08:40Z
+##### End Time 2022-03-14T08:45Z
+#### Class Type: M2.0
+#### Source Location: N23E03
+#### Active Region Number: 12965
+#### Instruments
+##### GOES-P: EXIS 1.0-8.0
+#### Linked Events
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19439/-1)
+### 2022-03-14T17:13:00-FLR-001
+#### Times
+##### Begin Time 2022-03-14T17:13Z
+##### Peak Time 2022-03-14T17:32Z
+##### End Time 2022-03-14T17:43Z
+#### Class Type: B8.5
+#### Source Location: S26W102
+#### Active Region Number: 12964
+#### Instruments
+##### GOES-P: EXIS 1.0-8.0
+#### Linked Events
+##### 2022-03-14T17:36:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19452/-1)
+### 2022-03-15T12:33:00-FLR-001
+#### Times
+##### Begin Time 2022-03-15T12:33Z
+##### Peak Time 2022-03-15T12:39Z
+##### End Time 2022-03-15T12:44Z
 #### Class Type: M1.4
-#### Source Location: S17E89
-#### Active Region Number: 12916
+#### Source Location: N24W09
+#### Active Region Number: 12965
 #### Instruments
 ##### GOES-P: EXIS 1.0-8.0
 #### Linked Events
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18601/-1)
-### 2021-12-21T19:02:00-FLR-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19450/-1)
+### 2022-03-15T22:39:00-FLR-001
 #### Times
-##### Begin Time 2021-12-21T19:02Z
-##### Peak Time 2021-12-21T19:23Z
-##### End Time 2021-12-21T19:53Z
-#### Class Type: C4.9
-#### Source Location: S21W06
-#### Active Region Number: 12909
+##### Begin Time 2022-03-15T22:39Z
+##### Peak Time 2022-03-15T22:45Z
+##### End Time 2022-03-15T22:52Z
+#### Class Type: M1.5
+#### Source Location: N24W15
+#### Active Region Number: 12965
 #### Instruments
 ##### GOES-P: EXIS 1.0-8.0
 #### Linked Events
-##### 2021-12-21T20:23:00-CME-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18604/-1)
-### 2021-12-22T06:54:00-FLR-001
-#### Times
-##### Begin Time 2021-12-22T06:54Z
-##### Peak Time 2021-12-22T07:06Z
-##### End Time 2021-12-22T07:21Z
-#### Class Type: M1.3
-#### Source Location: S21W25
-#### Active Region Number: 12908
-#### Instruments
-##### GOES-P: EXIS 1.0-8.0
-#### Linked Events
-##### 2021-12-22T11:09:00-CME-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18615/-1)
-### 2021-12-23T21:55:00-FLR-001
-#### Times
-##### Begin Time 2021-12-23T21:55Z
-##### Peak Time 2021-12-23T22:03Z
-##### End Time None
-#### Class Type: C1.2
-#### Source Location: S31W89
-#### Active Region Number: 12906
-#### Instruments
-##### GOES-P: EXIS 1.0-8.0
-#### Linked Events
-##### 2021-12-23T22:36:00-CME-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18638/-1)
-### 2021-12-24T09:59:00-FLR-001
-#### Times
-##### Begin Time 2021-12-24T09:59Z
-##### Peak Time 2021-12-24T10:13Z
-##### End Time 2021-12-24T10:20Z
-#### Class Type: C4.2
-#### Source Location: S22W70
-#### Active Region Number: 12907
-#### Instruments
-##### GOES-P: EXIS 1.0-8.0
-#### Linked Events
-##### 2021-12-24T12:24:00-CME-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18643/-1)
-### 2021-12-28T03:50:00-FLR-001
-#### Times
-##### Begin Time 2021-12-28T03:50Z
-##### Peak Time 2021-12-28T04:01Z
-##### End Time 2021-12-28T04:10Z
-#### Class Type: M1.8
-#### Source Location: N20W20
-#### Active Region Number: 12918
-#### Instruments
-##### GOES-P: EXIS 1.0-8.0
-#### Linked Events
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18672/-1)
-### 2021-12-28T16:00:00-FLR-001
-#### Times
-##### Begin Time 2021-12-28T16:00Z
-##### Peak Time 2021-12-28T16:11Z
-##### End Time 2021-12-28T16:20Z
-#### Class Type: M1.6
-#### Source Location: N21W21
-#### Active Region Number: 12918
-#### Instruments
-##### GOES-P: EXIS 1.0-8.0
-#### Linked Events
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18673/-1)
-### 2022-01-01T07:07:00-FLR-001
-#### Times
-##### Begin Time 2022-01-01T07:07Z
-##### Peak Time 2022-01-01T07:30Z
-##### End Time 2022-01-01T07:42Z
-#### Class Type: M1.1
-#### Source Location: N22W76
-#### Active Region Number: 12918
-#### Instruments
-##### GOES-P: EXIS 1.0-8.0
-#### Linked Events
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/18707/-1)
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/19458/-1)
 ## Solar Energetic Particles
 ### 2021-05-29T03:00:00-SEP-001
 #### Event Time: 2021-05-29T03:00Z
@@ -2242,164 +2274,123 @@
 ##### 2021-11-01T21:36:00-CME-001
 ##### 2021-11-02T02:48:00-CME-001
 #### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/18191/-1)
+### 2022-01-20T07:20:00-SEP-001
+#### Event Time: 2022-01-20T07:20Z
+#### Instruments:
+##### GOES-P: SEISS >100 MeV
+##### 2022-01-20T05:41:00-FLR-001
+##### 2022-01-20T06:12:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/18899/-1)
+### 2022-01-20T08:00:00-SEP-001
+#### Event Time: 2022-01-20T08:00Z
+#### Instruments:
+##### GOES-P: SEISS >10 MeV
+##### 2022-01-20T05:41:00-FLR-001
+##### 2022-01-20T06:12:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/18901/-1)
+### 2022-01-20T08:07:00-SEP-001
+#### Event Time: 2022-01-20T08:07Z
+#### Instruments:
+##### SOHO: COSTEP 15.8-39.8 MeV
+##### 2022-01-20T05:41:00-FLR-001
+##### 2022-01-20T06:12:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/18905/-1)
+### 2022-01-20T08:10:00-SEP-001
+#### Event Time: 2022-01-20T08:10Z
+#### Instruments:
+##### SOHO: COSTEP 28.2-50.1 MeV
+##### 2022-01-20T05:41:00-FLR-001
+##### 2022-01-20T06:12:00-CME-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/18906/-1)
 ## Magnetopause Crossings
-### 2021-12-19T18:59:00-MPC-001
-#### Event Time: 2021-12-19T18:59Z
-#### Instruments:
-##### MODEL: SWMF
-##### 2021-12-14T17:38:00-CME-001
-##### 2021-12-15T05:00:00-CME-001
-##### 2021-12-19T12:08:00-IPS-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/MPC/18579/-1)
 ## Radiation Belt Enhancements
-### 2021-12-09T12:40:00-RBE-001
-#### Event Time: 2021-12-09T12:40Z
+### 2022-02-26T16:20:00-RBE-001
+#### Event Time: 2022-02-26T16:20Z
 #### Instruments:
 ##### GOES-P: SEISS >2MeV
-##### 2021-12-03T21:48:00-HSS-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/RBE/18493/-1)
-### 2021-12-22T15:10:00-RBE-001
-#### Event Time: 2021-12-22T15:10Z
+##### 2022-02-19T08:40:00-HSS-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/RBE/19286/-1)
+### 2022-03-06T12:50:00-RBE-001
+#### Event Time: 2022-03-06T12:50Z
 #### Instruments:
 ##### GOES-P: SEISS >2MeV
-##### 2021-12-19T18:00:00-HSS-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/RBE/18619/-1)
-### 2022-01-05T16:55:00-RBE-001
-#### Event Time: 2022-01-05T16:55Z
-#### Instruments:
-##### GOES-P: SEISS >2MeV
-##### 2022-01-01T01:43:00-HSS-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/RBE/18738/-1)
+##### 2022-03-03T14:00:00-HSS-001
+##### 2022-03-05T05:44:00-HSS-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/RBE/19348/-1)
 ## High Speed Streams
-### 2021-12-15T04:30:00-HSS-001
-#### Event Time: 2021-12-15T04:30Z
-#### Instruments:
-##### DSCOVR: PLASMAG
-##### ACE: SWEPAM
-##### ACE: MAG
-##### 2021-12-15T03:20:00-IPS-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18530/-1)
-### 2021-12-10T11:00:00-HSS-001
-#### Event Time: 2021-12-10T11:00Z
+### 2022-02-17T12:07:00-HSS-001
+#### Event Time: 2022-02-17T12:07Z
 #### Instruments:
 ##### STEREO A: IMPACT
 ##### STEREO A: PLASTIC
-##### 2021-12-10T11:00:00-IPS-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18540/-1)
-### 2021-12-15T16:00:00-HSS-001
-#### Event Time: 2021-12-15T16:00Z
-#### Instruments:
-##### STEREO A: IMPACT
-##### STEREO A: PLASTIC
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18561/-1)
-### 2021-12-19T18:00:00-HSS-001
-#### Event Time: 2021-12-19T18:00Z
+##### 2022-02-17T12:01:00-IPS-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/19211/-1)
+### 2022-02-27T06:28:00-HSS-001
+#### Event Time: 2022-02-27T06:28Z
 #### Instruments:
 ##### DSCOVR: PLASMAG
 ##### ACE: SWEPAM
 ##### ACE: MAG
-##### 2021-12-19T12:08:00-IPS-001
-##### 2021-12-22T15:10:00-RBE-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18591/-1)
-### 2021-12-27T14:40:00-HSS-001
-#### Event Time: 2021-12-27T14:40Z
+##### 2022-02-27T03:30:00-IPS-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/19291/-1)
+### 2022-02-19T08:40:00-HSS-001
+#### Event Time: 2022-02-19T08:40Z
 #### Instruments:
 ##### DSCOVR: PLASMAG
+##### 2022-02-19T02:17:00-IPS-001
+##### 2022-02-26T16:20:00-RBE-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/19250/-1)
+### 2022-03-03T14:00:00-HSS-001
+#### Event Time: 2022-03-03T14:00Z
+#### Instruments:
 ##### ACE: SWEPAM
 ##### ACE: MAG
-##### 2021-12-27T08:38:00-IPS-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18683/-1)
-### 2021-12-30T00:32:00-HSS-001
-#### Event Time: 2021-12-30T00:32Z
+##### 2022-03-05T05:44:00-IPS-001
+##### 2022-03-06T12:50:00-RBE-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/19336/-1)
+### 2022-03-05T05:44:00-HSS-001
+#### Event Time: 2022-03-05T05:44Z
 #### Instruments:
 ##### DSCOVR: PLASMAG
-##### ACE: SWEPAM
-##### ACE: MAG
-##### 2021-12-29T19:31:00-IPS-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18692/-1)
-### 2022-01-01T01:43:00-HSS-001
-#### Event Time: 2022-01-01T01:43Z
-#### Instruments:
-##### DSCOVR: PLASMAG
-##### ACE: SWEPAM
-##### ACE: MAG
-##### 2022-01-05T16:55:00-RBE-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18708/-1)
-### 2022-01-07T05:47:00-HSS-001
-#### Event Time: 2022-01-07T05:47Z
-#### Instruments:
-##### STEREO A: PLASTIC
-##### 2022-01-07T02:24:00-IPS-001
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18750/-1)
+##### 2022-03-05T05:44:00-IPS-001
+##### 2022-03-06T12:50:00-RBE-001
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/19341/-1)
 ## WSA Enlil Simulations
-### WSA-ENLIL/18712/1
-#### Model Completion Time: 2022-01-01T17:47Z
+### WSA-ENLIL/19420/1
+#### Model Completion Time: 2022-03-12T15:28Z
 #### AU: 2.0
 #### CME Inputs:
-##### 2021-12-31T12:38:00-CME-001
-###### Start Time: 2021-12-31T12:38Z
+##### 2022-03-11T23:12:00-CME-001
+###### Start Time: 2022-03-11T23:12Z
+###### Latitude: -23.0
+###### Longitude: 65.0
+###### Speed: 544.0
+###### Half Angle: 33.0
+###### Time: 2022-03-12T07:44Z
+###### Most Accurate: True
+###### Level of Data: 0
+#### Estimated Shock Arrival Time: None
+#### Estimated Duration: None
+#### RMIN RE: None
+#### KP
+##### 18: None
+##### 90: None
+##### 135: None
+##### 180: None
+#### Earth GB: False
+#### Impact List: [{'isGlancingBlow': True, 'location': 'Mars', 'arrivalTime': '2022-03-16T22:00Z'}, {'isGlancingBlow': True, 'location': 'OSIRIS-REx', 'arrivalTime': '2022-03-16T18:00Z'}, {'isGlancingBlow': True, 'location': 'STEREO B', 'arrivalTime': '2022-03-16T00:00Z'}]
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/19420/-1)
+### WSA-ENLIL/19444/1
+#### Model Completion Time: 2022-03-14T17:30Z
+#### AU: 2.0
+#### CME Inputs:
+##### 2022-03-13T12:00:00-CME-001
+###### Start Time: 2022-03-13T12:00Z
 ###### Latitude: -34.0
-###### Longitude: 24.0
-###### Speed: 344.0
-###### Half Angle: 23.0
-###### Time: 2022-01-01T02:54Z
-###### Most Accurate: True
-###### Level of Data: 1
-#### Estimated Shock Arrival Time: None
-#### Estimated Duration: None
-#### RMIN RE: None
-#### KP
-##### 18: None
-##### 90: None
-##### 135: None
-##### 180: None
-#### Earth GB: False
-#### Impact List: [{'isGlancingBlow': True, 'location': 'STEREO B', 'arrivalTime': '2022-01-05T00:00Z'}]
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/18712/-1)
-### WSA-ENLIL/18716/1
-#### Model Completion Time: 2022-01-02T16:54Z
-#### AU: 2.0
-#### CME Inputs:
-##### 2022-01-01T17:48:00-CME-001
-###### Start Time: 2022-01-01T17:48Z
-###### Latitude: 34.0
-###### Longitude: 107.0
-###### Speed: 626.0
-###### Half Angle: 27.0
-###### Time: 2022-01-01T22:51Z
-###### Most Accurate: True
-###### Level of Data: 1
-#### Estimated Shock Arrival Time: None
-#### Estimated Duration: None
-#### RMIN RE: None
-#### KP
-##### 18: None
-##### 90: None
-##### 135: None
-##### 180: None
-#### Earth GB: False
-#### Impact List: [{'isGlancingBlow': True, 'location': 'Mars', 'arrivalTime': '2022-01-07T19:00Z'}, {'isGlancingBlow': True, 'location': 'OSIRIS-REx', 'arrivalTime': '2022-01-07T00:00Z'}]
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/18716/-1)
-### WSA-ENLIL/18725/1
-#### Model Completion Time: 2022-01-03T16:50Z
-#### AU: 2.0
-#### CME Inputs:
-##### 2022-01-01T17:48:00-CME-001
-###### Start Time: 2022-01-01T17:48Z
-###### Latitude: 34.0
-###### Longitude: 107.0
-###### Speed: 626.0
-###### Half Angle: 27.0
-###### Time: 2022-01-01T22:51Z
-###### Most Accurate: True
-###### Level of Data: 1
-##### 2022-01-02T18:38:00-CME-001
-###### Start Time: 2022-01-02T18:38Z
-###### Latitude: 37.0
-###### Longitude: 118.0
-###### Speed: 389.0
-###### Half Angle: 13.0
-###### Time: 2022-01-03T02:10Z
+###### Longitude: 11.0
+###### Speed: 363.0
+###### Half Angle: 19.0
+###### Time: 2022-03-13T21:13Z
 ###### Most Accurate: True
 ###### Level of Data: 0
 #### Estimated Shock Arrival Time: None
@@ -2412,78 +2403,99 @@
 ##### 180: None
 #### Earth GB: False
 #### Impact List: None
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/18725/-1)
-### WSA-ENLIL/18728/1
-#### Model Completion Time: 2022-01-03T22:08Z
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/19444/-1)
+### WSA-ENLIL/19451/1
+#### Model Completion Time: 2022-03-15T13:19Z
 #### AU: 2.0
 #### CME Inputs:
-##### 2022-01-01T17:36:00-CME-001
-###### Start Time: 2022-01-01T17:36Z
+##### 2022-03-14T17:36:00-CME-001
+###### Start Time: 2022-03-14T17:36Z
 ###### Latitude: -19.0
-###### Longitude: 104.0
-###### Speed: 347.0
-###### Half Angle: 17.0
-###### Time: 2022-01-02T03:33Z
-###### Most Accurate: True
-###### Level of Data: 0
-##### 2022-01-02T11:12:00-CME-001
-###### Start Time: 2022-01-02T11:12Z
-###### Latitude: -17.0
-###### Longitude: 119.0
-###### Speed: 459.0
-###### Half Angle: 29.0
-###### Time: 2022-01-03T04:07Z
-###### Most Accurate: True
-###### Level of Data: 0
-#### Estimated Shock Arrival Time: None
-#### Estimated Duration: None
-#### RMIN RE: None
-#### KP
-##### 18: None
-##### 90: None
-##### 135: None
-##### 180: None
-#### Earth GB: False
-#### Impact List: [{'isGlancingBlow': False, 'location': 'Mars', 'arrivalTime': '2022-01-08T12:00Z'}, {'isGlancingBlow': False, 'location': 'OSIRIS-REx', 'arrivalTime': '2022-01-08T00:00Z'}]
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/18728/-1)
-### WSA-ENLIL/18729/1
-#### Model Completion Time: 2022-01-04T00:00Z
-#### AU: 2.0
-#### CME Inputs:
-##### 2022-01-01T17:48:00-CME-001
-###### Start Time: 2022-01-01T17:48Z
-###### Latitude: 34.0
-###### Longitude: 107.0
-###### Speed: 626.0
-###### Half Angle: 27.0
-###### Time: 2022-01-01T22:51Z
+###### Longitude: 102.0
+###### Speed: 748.0
+###### Half Angle: 37.0
+###### Time: 2022-03-14T22:16Z
 ###### Most Accurate: True
 ###### Level of Data: 1
-##### 2022-01-01T17:36:00-CME-001
-###### Start Time: 2022-01-01T17:36Z
-###### Latitude: -19.0
-###### Longitude: 104.0
-###### Speed: 347.0
-###### Half Angle: 17.0
-###### Time: 2022-01-02T03:33Z
+#### Estimated Shock Arrival Time: None
+#### Estimated Duration: None
+#### RMIN RE: None
+#### KP
+##### 18: None
+##### 90: None
+##### 135: None
+##### 180: None
+#### Earth GB: False
+#### Impact List: [{'isGlancingBlow': False, 'location': 'Mars', 'arrivalTime': '2022-03-19T00:17Z'}, {'isGlancingBlow': False, 'location': 'OSIRIS-REx', 'arrivalTime': '2022-03-18T09:29Z'}, {'isGlancingBlow': False, 'location': 'Parker Solar Probe', 'arrivalTime': '2022-03-16T03:48Z'}]
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/19451/-1)
+### WSA-ENLIL/19456/1
+#### Model Completion Time: 2022-03-15T17:20Z
+#### AU: 2.0
+#### CME Inputs:
+##### 2022-03-14T21:48:00-CME-001
+###### Start Time: 2022-03-14T21:48Z
+###### Latitude: -36.0
+###### Longitude: -160.0
+###### Speed: 554.0
+###### Half Angle: 45.0
+###### Time: 2022-03-15T05:20Z
+###### Most Accurate: True
+###### Level of Data: 1
+#### Estimated Shock Arrival Time: None
+#### Estimated Duration: None
+#### RMIN RE: None
+#### KP
+##### 18: None
+##### 90: None
+##### 135: None
+##### 180: None
+#### Earth GB: False
+#### Impact List: None
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/19456/-1)
+### WSA-ENLIL/19467/1
+#### Model Completion Time: 2022-03-16T20:35Z
+#### AU: 2.0
+#### CME Inputs:
+##### 2022-03-16T13:36:00-CME-001
+###### Start Time: 2022-03-16T13:36Z
+###### Latitude: 1.0
+###### Longitude: -25.0
+###### Speed: 511.0
+###### Half Angle: 50.0
+###### Time: 2022-03-16T20:38Z
 ###### Most Accurate: True
 ###### Level of Data: 0
-##### 2022-01-02T18:38:00-CME-001
-###### Start Time: 2022-01-02T18:38Z
-###### Latitude: 37.0
-###### Longitude: 118.0
-###### Speed: 389.0
-###### Half Angle: 13.0
-###### Time: 2022-01-03T02:10Z
+##### 2022-03-16T15:16:00-CME-001
+###### Start Time: 2022-03-16T15:16Z
+###### Latitude: 19.0
+###### Longitude: -78.0
+###### Speed: 320.0
+###### Half Angle: 27.0
+###### Time: 2022-03-17T02:23Z
 ###### Most Accurate: True
 ###### Level of Data: 0
-##### 2022-01-02T11:12:00-CME-001
-###### Start Time: 2022-01-02T11:12Z
-###### Latitude: -17.0
-###### Longitude: 119.0
-###### Speed: 459.0
-###### Half Angle: 29.0
-###### Time: 2022-01-03T04:07Z
+#### Estimated Shock Arrival Time: 2022-03-20T00:14Z
+#### Estimated Duration: 16.6
+#### RMIN RE: 6.0
+#### KP
+##### 18: None
+##### 90: 3
+##### 135: 5
+##### 180: 5
+#### Earth GB: False
+#### Impact List: [{'isGlancingBlow': False, 'location': 'Solar Orbiter', 'arrivalTime': '2022-03-17T19:53Z'}, {'isGlancingBlow': False, 'location': 'STEREO A', 'arrivalTime': '2022-03-19T12:14Z'}]
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/19467/-1)
+### WSA-ENLIL/19473/1
+#### Model Completion Time: 2022-03-18T14:37Z
+#### AU: 2.0
+#### CME Inputs:
+##### 2022-03-16T17:00:00-CME-001
+###### Start Time: 2022-03-16T17:00Z
+###### Latitude: -7.0
+###### Longitude: 124.0
+###### Speed: 482.0
+###### Half Angle: 28.0
+###### Time: 2022-03-17T00:34Z
 ###### Most Accurate: True
 ###### Level of Data: 0
 #### Estimated Shock Arrival Time: None
@@ -2495,19 +2507,19 @@
 ##### 135: None
 ##### 180: None
 #### Earth GB: False
-#### Impact List: [{'isGlancingBlow': False, 'location': 'Mars', 'arrivalTime': '2022-01-08T11:00Z'}, {'isGlancingBlow': False, 'location': 'OSIRIS-REx', 'arrivalTime': '2022-01-08T00:00Z'}]
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/18729/-1)
-### WSA-ENLIL/18747/1
-#### Model Completion Time: 2022-01-06T13:29Z
+#### Impact List: [{'isGlancingBlow': False, 'location': 'Parker Solar Probe', 'arrivalTime': '2022-03-18T14:54Z'}, {'isGlancingBlow': False, 'location': 'Mars', 'arrivalTime': '2022-03-22T16:00Z'}, {'isGlancingBlow': False, 'location': 'OSIRIS-REx', 'arrivalTime': '2022-03-21T22:00Z'}]
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/19473/-1)
+### WSA-ENLIL/19483/1
+#### Model Completion Time: 2022-03-19T13:22Z
 #### AU: 2.0
 #### CME Inputs:
-##### 2022-01-05T23:12:00-CME-001
-###### Start Time: 2022-01-05T23:12Z
-###### Latitude: -19.0
-###### Longitude: 105.0
-###### Speed: 465.0
+##### 2022-03-19T06:35:00-CME-001
+###### Start Time: 2022-03-19T06:35Z
+###### Latitude: -22.0
+###### Longitude: 100.0
+###### Speed: 297.0
 ###### Half Angle: 37.0
-###### Time: 2022-01-06T07:04Z
+###### Time: 2022-03-19T18:20Z
 ###### Most Accurate: True
 ###### Level of Data: 0
 #### Estimated Shock Arrival Time: None
@@ -2519,19 +2531,19 @@
 ##### 135: None
 ##### 180: None
 #### Earth GB: False
-#### Impact List: [{'isGlancingBlow': False, 'location': 'Mars', 'arrivalTime': '2022-01-11T13:34Z'}, {'isGlancingBlow': False, 'location': 'OSIRIS-REx', 'arrivalTime': '2022-01-10T23:50Z'}]
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/18747/-1)
-### WSA-ENLIL/18748/1
-#### Model Completion Time: 2022-01-06T14:26Z
+#### Impact List: [{'isGlancingBlow': False, 'location': 'Mars', 'arrivalTime': '2022-03-25T04:00Z'}, {'isGlancingBlow': True, 'location': 'Parker Solar Probe', 'arrivalTime': '2022-03-22T10:00Z'}]
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/19483/-1)
+### WSA-ENLIL/19486/1
+#### Model Completion Time: 2022-03-19T17:22Z
 #### AU: 2.0
 #### CME Inputs:
-##### 2022-01-06T06:48:00-CME-001
-###### Start Time: 2022-01-06T06:48Z
-###### Latitude: -5.0
-###### Longitude: -131.0
-###### Speed: 308.0
-###### Half Angle: 31.0
-###### Time: 2022-01-06T17:49Z
+##### 2022-03-19T14:36:00-CME-001
+###### Start Time: 2022-03-19T14:36Z
+###### Latitude: -23.0
+###### Longitude: -25.0
+###### Speed: 554.0
+###### Half Angle: 12.0
+###### Time: 2022-03-19T21:12Z
 ###### Most Accurate: True
 ###### Level of Data: 0
 #### Estimated Shock Arrival Time: None
@@ -2543,110 +2555,591 @@
 ##### 135: None
 ##### 180: None
 #### Earth GB: False
-#### Impact List: [{'isGlancingBlow': False, 'location': 'Parker Solar Probe', 'arrivalTime': '2022-01-09T05:00Z'}]
-#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/18748/-1)
+#### Impact List: [{'isGlancingBlow': True, 'location': 'STEREO A', 'arrivalTime': '2022-03-22T09:00Z'}]
+#### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/19486/-1)
 ## Notifications
-### 20220105-7D-001
+### 20220318-AL-001
+#### Message Type: CME
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19472/1)
+#### Issued: 2022-03-18T13:04Z
+### 20220317-AL-002
+#### Message Type: CME
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19468/1)
+#### Issued: 2022-03-17T12:41Z
+### 20220316-7D-001
 #### Message Type: Report
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18742/1)
-#### Issued: 2022-01-05T21:16Z
-### 20220105-AL-002
-#### Message Type: RBE
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18740/1)
-#### Issued: 2022-01-05T17:21Z
-### 20220105-AL-001
-#### Message Type: RBE
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18739/1)
-#### Issued: 2022-01-05T17:04Z
-### 20211229-7D-001
-#### Message Type: Report
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18684/1)
-#### Issued: 2021-12-29T20:58Z
-### 20211227-AL-001
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19466/1)
+#### Issued: 2022-03-16T21:17Z
+### 20220315-AL-001
+#### Message Type: CME
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19453/1)
+#### Issued: 2022-03-15T13:54Z
+### 20220313-AL-003
+#### Message Type: GST
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19429/1)
+#### Issued: 2022-03-13T15:36Z
+### 20220313-AL-002
+#### Message Type: GST
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19428/1)
+#### Issued: 2022-03-13T15:25Z
+### 20220313-AL-001
 #### Message Type: IPS
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18662/1)
-#### Issued: 2021-12-27T13:34Z
-### 20211226-AL-001
-#### Message Type: RBE
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18658/1)
-#### Issued: 2021-12-26T15:46Z
-### 20211224-AL-001
-#### Message Type: RBE
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18634/1)
-#### Issued: 2021-12-24T15:42Z
-### 20211222-7D-001
-#### Message Type: Report
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18628/1)
-#### Issued: 2021-12-22T22:32Z
-### 20211222-AL-003
-#### Message Type: RBE
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18621/1)
-#### Issued: 2021-12-22T15:39Z
-### 20211222-AL-002
-#### Message Type: RBE
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18620/1)
-#### Issued: 2021-12-22T15:18Z
-### 20211222-AL-001
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19425/1)
+#### Issued: 2022-03-13T12:36Z
+### 20220311-AL-003
 #### Message Type: CME
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18610/1)
-#### Issued: 2021-12-22T02:07Z
-### 20211221-AL-001
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19414/1)
+#### Issued: 2022-03-11T18:56Z
+### 20220311-AL-002
 #### Message Type: CME
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18600/1)
-#### Issued: 2021-12-21T13:23Z
-### 20211220-AL-001
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19411/1)
+#### Issued: 2022-03-11T13:48Z
+### 20220311-AL-001
 #### Message Type: CME
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18596/1)
-#### Issued: 2021-12-20T20:55Z
-### 20211219-AL-004
-#### Message Type: MPC
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18581/1)
-#### Issued: 2021-12-19T19:20Z
-### 20211219-AL-003
-#### Message Type: MPC
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18580/1)
-#### Issued: 2021-12-19T18:37Z
-### 20211219-AL-002
-#### Message Type: CME
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18578/1)
-#### Issued: 2021-12-19T16:02Z
-### 20211219-AL-001
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19405/1)
+#### Issued: 2022-03-11T12:17Z
+### 20220310-AL-003
 #### Message Type: IPS
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18573/1)
-#### Issued: 2021-12-19T13:37Z
-### 20211218-AL-001
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19403/1)
+#### Issued: 2022-03-10T20:01Z
+### 20220310-AL-002
 #### Message Type: CME
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18570/1)
-#### Issued: 2021-12-18T16:12Z
-### 20211216-AL-001
-#### Message Type: CME
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18548/1)
-#### Issued: 2021-12-16T12:39Z
-### 20211215-7D-001
-#### Message Type: Report
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18546/1)
-#### Issued: 2021-12-15T21:05Z
-### 20211215-AL-002
-#### Message Type: CME
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18538/1)
-#### Issued: 2021-12-15T20:23Z
-### 20211215-AL-001
-#### Message Type: IPS
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18532/1)
-#### Issued: 2021-12-15T14:03Z
-### 20211210-AL-001
-#### Message Type: CME
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18514/1)
-#### Issued: 2021-12-10T20:38Z
-### 20211209-AL-002
-#### Message Type: CME
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18502/1)
-#### Issued: 2021-12-09T20:09Z
-### 20211209-AL-001
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19400/1)
+#### Issued: 2022-03-10T16:09Z
+### 20220310-AL-001
 #### Message Type: RBE
-#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/18494/1)
-#### Issued: 2021-12-09T12:49Z
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19391/1)
+#### Issued: 2022-03-10T12:42Z
+### 20220309-7D-001
+#### Message Type: Report
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19390/1)
+#### Issued: 2022-03-09T21:46Z
+### 20220309-AL-001
+#### Message Type: CME
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19387/1)
+#### Issued: 2022-03-09T11:14Z
+### 20220308-AL-003
+#### Message Type: CME
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19380/1)
+#### Issued: 2022-03-08T18:15Z
+### 20220308-AL-002
+#### Message Type: CME
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19376/1)
+#### Issued: 2022-03-08T14:00Z
+### 20220308-AL-001
+#### Message Type: RBE
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19375/1)
+#### Issued: 2022-03-08T13:54Z
+### 20220307-AL-001
+#### Message Type: CME
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19371/1)
+#### Issued: 2022-03-07T20:25Z
+### 20220306-AL-002
+#### Message Type: RBE
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19350/1)
+#### Issued: 2022-03-06T13:37Z
+### 20220306-AL-001
+#### Message Type: RBE
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19349/1)
+#### Issued: 2022-03-06T12:58Z
+### 20220305-AL-001
+#### Message Type: IPS
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19342/1)
+#### Issued: 2022-03-05T14:30Z
+### 20220302-7D-001
+#### Message Type: Report
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19318/1)
+#### Issued: 2022-03-02T20:41Z
+### 20220227-AL-001
+#### Message Type: IPS
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19292/1)
+#### Issued: 2022-02-27T14:38Z
+### 20220226-AL-002
+#### Message Type: RBE
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19288/1)
+#### Issued: 2022-02-26T16:38Z
+### 20220226-AL-001
+#### Message Type: RBE
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19287/1)
+#### Issued: 2022-02-26T16:30Z
+### 20220223-7D-001
+#### Message Type: Report
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19276/1)
+#### Issued: 2022-02-23T22:21Z
+### 20220218-AL-001
+#### Message Type: CME
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19219/1)
+#### Issued: 2022-02-18T20:41Z
+### 20220217-AL-001
+#### Message Type: RBE
+#### [Message_URL](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/19209/1)
+#### Issued: 2022-02-17T16:44Z
 ## Natural Events
+### EONET_6031
+#### Title: Tropical Cyclone Billy
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6031)
+#### Categories
+##### ID: 10
+##### Title: Severe Storms
+#### Sources
+##### ID: GDACS
+##### [Link](https://www.gdacs.org/Cyclones/report.aspx?eventid=1000874&amp;eventtype=TC)
+##### ID: JTWC
+##### [Link](https://www.metoc.navy.mil/jtwc/products/sh2022.tcw)
+#### Geometries
+##### Date: 2022-03-13T18:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 103.3
+###### Longitude: -13.6
+##### Date: 2022-03-14T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 102.2
+###### Longitude: -14.3
+##### Date: 2022-03-14T06:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 100.6
+###### Longitude: -15.3
+##### Date: 2022-03-14T12:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 99.8
+###### Longitude: -16.3
+##### Date: 2022-03-14T18:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 98.9
+###### Longitude: -16.7
+##### Date: 2022-03-15T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 98.1
+###### Longitude: -16.9
+##### Date: 2022-03-15T06:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 97.2
+###### Longitude: -17
+##### Date: 2022-03-15T12:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 96.3
+###### Longitude: -17.3
+##### Date: 2022-03-15T18:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 95.3
+###### Longitude: -17.6
+##### Date: 2022-03-16T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 94.6
+###### Longitude: -17.9
+##### Date: 2022-03-16T06:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 93.6
+###### Longitude: -18.1
+##### Date: 2022-03-16T12:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 92.9
+###### Longitude: -19.1
+##### Date: 2022-03-16T18:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 92.6
+###### Longitude: -19.6
+##### Date: 2022-03-17T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 92.5
+###### Longitude: -20.3
+##### Date: 2022-03-17T06:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 93.2
+###### Longitude: -21.6
+### EONET_6032
+#### Title: Iceberg C37
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6032)
+#### Categories
+##### ID: 15
+##### Title: Sea and Lake Ice
+#### Sources
+##### ID: NATICE
+##### [Link](https://usicecenter.gov/pub/Iceberg_Tabular.csv)
+#### Geometries
+##### Date: 2022-03-11T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 103.21
+###### Longitude: -65.62
+##### Date: 2022-03-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 101.91
+###### Longitude: -65.38
+### EONET_6028
+#### Title: Iceberg A79
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6028)
+#### Categories
+##### ID: 15
+##### Title: Sea and Lake Ice
+#### Sources
+##### ID: NATICE
+##### [Link](https://usicecenter.gov/pub/Iceberg_Tabular.csv)
+#### Geometries
+##### Date: 2022-03-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -60.47
+###### Longitude: -71.14
+### EONET_6030
+#### Title: Telica Volcano, Nicaragua
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6030)
+#### Categories
+##### ID: 12
+##### Title: Volcanoes
+#### Sources
+##### ID: SIVolcano
+##### [Link](https://volcano.si.edu/volcano.cfm?vn=344040)
+#### Geometries
+##### Date: 2022-02-28T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -86.84
+###### Longitude: 12.606
+### EONET_6018
+#### Title: Wildfire - N of Merced, California - United States
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6018)
+#### Categories
+##### ID: 8
+##### Title: Wildfires
+#### Sources
+##### ID: PDC
+##### [Link](http://emops.pdc.org/emops/?hazard_id=137546)
+#### Geometries
+##### Date: 2022-02-16T20:44:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -120.533005422
+###### Longitude: 37.543469882
+### EONET_6014
+#### Title: Wildfire - E of Mesa, Arizona - United States
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6014)
+#### Categories
+##### ID: 8
+##### Title: Wildfires
+#### Sources
+##### ID: PDC
+##### [Link](http://emops.pdc.org/emops/?hazard_id=137427)
+#### Geometries
+##### Date: 2022-02-13T20:40:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -110.862229905
+###### Longitude: 33.417091555
+### EONET_6021
+#### Title: Dukono Volcano, Indonesia
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6021)
+#### Categories
+##### ID: 12
+##### Title: Volcanoes
+#### Sources
+##### ID: SIVolcano
+##### [Link](http://volcano.si.edu/volcano.cfm?vn=268010)
+#### Geometries
+##### Date: 2022-02-13T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 127.894
+###### Longitude: 1.693
+### EONET_6022
+#### Title: Nevado del Ruiz Volcano, Colombia
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6022)
+#### Categories
+##### ID: 12
+##### Title: Volcanoes
+#### Sources
+##### ID: SIVolcano
+##### [Link](http://volcano.si.edu/volcano.cfm?vn=351020)
+#### Geometries
+##### Date: 2022-02-11T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -75.324
+###### Longitude: 4.892
+### EONET_6020
+#### Title: Langila Volcano, Papua New Guinea
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6020)
+#### Categories
+##### ID: 12
+##### Title: Volcanoes
+#### Sources
+##### ID: SIVolcano
+##### [Link](https://volcano.si.edu/volcano.cfm?vn=252010)
+#### Geometries
+##### Date: 2022-02-09T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 148.42
+###### Longitude: -5.525
+### EONET_6017
+#### Title: Popocatepetl Volcano, Mexico
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6017)
+#### Categories
+##### ID: 12
+##### Title: Volcanoes
+#### Sources
+##### ID: SIVolcano
+##### [Link](https://volcano.si.edu/volcano.cfm?vn=341090)
+#### Geometries
+##### Date: 2022-02-08T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -98.622
+###### Longitude: 19.023
+### EONET_6011
+#### Title: Krakatau Volcano, Indonesia
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6011)
+#### Categories
+##### ID: 12
+##### Title: Volcanoes
+#### Sources
+##### ID: SIVolcano
+##### [Link](https://volcano.si.edu/volcano.cfm?vn=262000)
+#### Geometries
+##### Date: 2022-02-03T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 105.423
+###### Longitude: -6.102
+### EONET_6015
+#### Title: Chikurachki Volcano, Russia
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6015)
+#### Categories
+##### ID: 12
+##### Title: Volcanoes
+#### Sources
+##### ID: SIVolcano
+##### [Link](https://volcano.si.edu/volcano.cfm?vn=290360)
+#### Geometries
+##### Date: 2022-02-02T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 155.461
+###### Longitude: 50.324
+### EONET_6016
+#### Title: Villarica Volcano, Chile
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6016)
+#### Categories
+##### ID: 12
+##### Title: Volcanoes
+#### Sources
+##### ID: SIVolcano
+##### [Link](https://volcano.si.edu/volcano.cfm?vn=357120)
+#### Geometries
+##### Date: 2022-02-02T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -71.93
+###### Longitude: -39.42
+### EONET_6006
+#### Title: Wildfire - N of Viseu - Portugal
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6006)
+#### Categories
+##### ID: 8
+##### Title: Wildfires
+#### Sources
+##### ID: PDC
+##### [Link](http://emops.pdc.org/emops/?hazard_id=136764)
+#### Geometries
+##### Date: 2022-01-29T13:36:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -8.009577928
+###### Longitude: 41.002191345
+### EONET_6004
+#### Title: Wildfire - E of Braga - Portugal
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6004)
+#### Categories
+##### ID: 8
+##### Title: Wildfires
+#### Sources
+##### ID: PDC
+##### [Link](http://emops.pdc.org/emops/?hazard_id=136718)
+#### Geometries
+##### Date: 2022-01-28T13:35:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -8.091955323
+###### Longitude: 41.517611178
+### EONET_6005
+#### Title: Wildfire - N of Vila Real - Portugal
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6005)
+#### Categories
+##### ID: 8
+##### Title: Wildfires
+#### Sources
+##### ID: PDC
+##### [Link](http://emops.pdc.org/emops/?hazard_id=136717)
+#### Geometries
+##### Date: 2022-01-28T13:35:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -7.675316232
+###### Longitude: 41.808267161
+### EONET_6003
+#### Title: Wildfire - E of Mesa, Arizona - United States
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6003)
+#### Categories
+##### ID: 8
+##### Title: Wildfires
+#### Sources
+##### ID: PDC
+##### [Link](http://emops.pdc.org/emops/?hazard_id=136709)
+#### Geometries
+##### Date: 2022-01-28T08:38:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -110.860071422
+###### Longitude: 33.416654251
+### EONET_6007
+#### Title: Iceberg D31
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6007)
+#### Categories
+##### ID: 15
+##### Title: Sea and Lake Ice
+#### Sources
+##### ID: NATICE
+##### [Link](https://usicecenter.gov/pub/Iceberg_Tabular.csv)
+#### Geometries
+##### Date: 2022-01-28T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 2.34
+###### Longitude: -69.89
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 0.74
+###### Longitude: -69.66
+##### Date: 2022-02-11T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -2.0
+###### Longitude: -69.8
+##### Date: 2022-03-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -3.58
+###### Longitude: -69.98
+##### Date: 2022-03-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -4.85
+###### Longitude: -70.22
+### EONET_6001
+#### Title: Wildfire - SW of Tarbes, Midi-Pyrnes - France
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6001)
+#### Categories
+##### ID: 8
+##### Title: Wildfires
+#### Sources
+##### ID: PDC
+##### [Link](http://emops.pdc.org/emops/?hazard_id=136603)
+#### Geometries
+##### Date: 2022-01-25T13:35:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -0.564755574
+###### Longitude: 42.971017184
+### EONET_6009
+#### Title: Ambrym Volcano, Vanuatu
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6009)
+#### Categories
+##### ID: 12
+##### Title: Volcanoes
+#### Sources
+##### ID: SIVolcano
+##### [Link](https://volcano.si.edu/volcano.cfm?vn=257040)
+#### Geometries
+##### Date: 2022-01-25T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 168.12
+###### Longitude: -16.25
+### EONET_5998
+#### Title: Wildfire - Big Sur, California, USA
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5998)
+#### Categories
+##### ID: 8
+##### Title: Wildfires
+#### Sources
+##### ID: PDC
+##### [Link](http://emops.pdc.org/emops/?hazard_id=136556)
+#### Geometries
+##### Date: 2022-01-21T09:05:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -121.79929
+###### Longitude: 36.27203
+### EONET_6000
+#### Title: Turrialba Volcano, Costa Rica
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_6000)
+#### Categories
+##### ID: 12
+##### Title: Volcanoes
+#### Sources
+##### ID: SIVolcano
+##### [Link](https://volcano.si.edu/volcano.cfm?vn=345070)
+#### Geometries
+##### Date: 2022-01-17T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -83.767
+###### Longitude: 10.025
+### EONET_5996
+#### Title: Wolf Volcano, Galapagos (Ecuador)
+#### Description: 
+#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5996)
+#### Categories
+##### ID: 12
+##### Title: Volcanoes
+#### Sources
+##### ID: SIVolcano
+##### [Link](https://volcano.si.edu/volcano.cfm?vn=353020)
+#### Geometries
+##### Date: 2022-01-11T10:10:20Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -91.35
+###### Longitude: 0.02
 ### EONET_5991
 #### Title: Ambae Volcano, Vanuatu
 #### Description: 
@@ -2695,22 +3188,6 @@
 ##### Coordinates
 ###### Latitude: 130.657
 ###### Longitude: 31.593
-### EONET_5993
-#### Title: Sheveluch Volcano, Russia
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5993)
-#### Categories
-##### ID: 12
-##### Title: Volcanoes
-#### Sources
-##### ID: SIVolcano
-##### [Link](http://volcano.si.edu/volcano.cfm?vn=300270)
-#### Geometries
-##### Date: 2021-12-31T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: 161.36
-###### Longitude: 56.653
 ### EONET_5988
 #### Title: Wildfire - SE of Boulder, Colorado - United States
 #### Description: 
@@ -2727,54 +3204,6 @@
 ##### Coordinates
 ###### Latitude: -105.19282
 ###### Longitude: 39.95983
-### EONET_5986
-#### Title: Piton de la Fournaise Volcano, R√©union (France)
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5986)
-#### Categories
-##### ID: 12
-##### Title: Volcanoes
-#### Sources
-##### ID: SIVolcano
-##### [Link](https://volcano.si.edu/volcano.cfm?vn=233020)
-#### Geometries
-##### Date: 2021-12-22T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: 55.708
-###### Longitude: -21.244
-### EONET_5985
-#### Title: Hunga Tonga-Hunga Ha&#039;apai Volcano, Tonga
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5985)
-#### Categories
-##### ID: 12
-##### Title: Volcanoes
-#### Sources
-##### ID: SIVolcano
-##### [Link](https://volcano.si.edu/volcano.cfm?vn=243040)
-#### Geometries
-##### Date: 2021-12-21T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -175.382
-###### Longitude: -20.536
-### EONET_5987
-#### Title: San Crist√≥bal Volcano, Nicaragua
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5987)
-#### Categories
-##### ID: 12
-##### Title: Volcanoes
-#### Sources
-##### ID: SIVolcano
-##### [Link](https://volcano.si.edu/volcano.cfm?vn=344020)
-#### Geometries
-##### Date: 2021-12-15T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -87.004
-###### Longitude: 12.702
 ### EONET_5983
 #### Title: Wildfire - W of Victorville, California - United States
 #### Description: 
@@ -2791,22 +3220,6 @@
 ##### Coordinates
 ###### Latitude: -117.729843629
 ###### Longitude: 34.396954841
-### EONET_5980
-#### Title: Ulawun Volcano, Papua New Guinea
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5980)
-#### Categories
-##### ID: 12
-##### Title: Volcanoes
-#### Sources
-##### ID: SIVolcano
-##### [Link](http://volcano.si.edu/volcano.cfm?vn=252120)
-#### Geometries
-##### Date: 2021-11-30T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: 151.33
-###### Longitude: -5.05
 ### EONET_5976
 #### Title: Wildfire - E of Mesa, Arizona - United States
 #### Description: 
@@ -2919,6 +3332,11 @@
 ##### Coordinates
 ###### Latitude: -59.55
 ###### Longitude: -66.78
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -58.05
+###### Longitude: -66.57
 ### EONET_5966
 #### Title: Wildfire - S of Tillamook, Oregon - United States
 #### Description: 
@@ -3047,22 +3465,6 @@
 ##### Coordinates
 ###### Latitude: -121.667893746
 ###### Longitude: 39.092390021
-### EONET_5958
-#### Title: Bagana Volcano, Papua New Guinea
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5958)
-#### Categories
-##### ID: 12
-##### Title: Volcanoes
-#### Sources
-##### ID: SIVolcano
-##### [Link](https://volcano.si.edu/volcano.cfm?vn=255020)
-#### Geometries
-##### Date: 2021-10-14T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: 155.196
-###### Longitude: -6.137
 ### EONET_5951
 #### Title: Wildfire - W of Tulare, California - United States
 #### Description: 
@@ -3175,22 +3577,6 @@
 ##### Coordinates
 ###### Latitude: -122.300586725
 ###### Longitude: 40.707903489
-### EONET_5934
-#### Title: La Palma Volcano, Canary Islands, Spain
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5934)
-#### Categories
-##### ID: 12
-##### Title: Volcanoes
-#### Sources
-##### ID: SIVolcano
-##### [Link](https://volcano.si.edu/volcano.cfm?vn=383010)
-#### Geometries
-##### Date: 2021-09-19T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -17.83
-###### Longitude: 28.57
 ### EONET_5930
 #### Title: Wildfire - W of Lancaster, California - United States
 #### Description: 
@@ -3367,6 +3753,31 @@
 ##### Coordinates
 ###### Latitude: -4.03
 ###### Longitude: -70.35
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -18.09
+###### Longitude: -72.16
+##### Date: 2022-02-11T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -20.55
+###### Longitude: -72.54
+##### Date: 2022-02-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -21.63
+###### Longitude: -73.29
+##### Date: 2022-02-25T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -23.65
+###### Longitude: -73.47
+##### Date: 2022-03-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -26.19
+###### Longitude: -73.51
 ### EONET_5898
 #### Title: Wildfire - NW of San Bernardino, California - United States
 #### Description: 
@@ -3489,6 +3900,11 @@
 ##### Coordinates
 ###### Latitude: -27.05
 ###### Longitude: -74.28
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -27.79
+###### Longitude: -74.77
 ### EONET_5884
 #### Title: Wildfire - N of Santa Rosa, California - United States
 #### Description: 
@@ -3505,22 +3921,6 @@
 ##### Coordinates
 ###### Latitude: -122.604087947
 ###### Longitude: 38.924589754
-### EONET_5887
-#### Title: French Fire (CA)
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5887)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7813/)
-#### Geometries
-##### Date: 2021-08-18T16:30:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -118.55
-###### Longitude: 35.685
 ### EONET_5879
 #### Title: Wildfire - E of Reggio di Calabria, Calabria - Italy
 #### Description: 
@@ -3781,22 +4181,6 @@
 ##### Coordinates
 ###### Latitude: -111.592808877
 ###### Longitude: 42.685232232
-### EONET_5886
-#### Title: Walkers Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5886)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7807/)
-#### Geometries
-##### Date: 2021-08-15T11:30:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -118.55
-###### Longitude: 36.268
 ### EONET_5851
 #### Title: Wildfire - SE of Salamanca, Castilla y Len  - Spain
 #### Description: 
@@ -3813,22 +4197,6 @@
 ##### Coordinates
 ###### Latitude: -4.941953917
 ###### Longitude: 40.497498017
-### EONET_5881
-#### Title: Greenwood Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5881)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7805/)
-#### Geometries
-##### Date: 2021-08-15T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -91.648
-###### Longitude: 47.553
 ### EONET_5844
 #### Title: Wildfire - NW of Crotone, Calabria - Italy
 #### Description: 
@@ -4509,22 +4877,6 @@
 ##### Coordinates
 ###### Latitude: -119.034
 ###### Longitude: 48.778
-### EONET_5773
-#### Title: Black Butte Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5773)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7770/)
-#### Geometries
-##### Date: 2021-08-03T10:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -118.326
-###### Longitude: 44.093
 ### EONET_5796
 #### Title: Devil&#039;s Knob Complex Fire
 #### Description: 
@@ -4733,22 +5085,6 @@
 ##### Coordinates
 ###### Latitude: -101.4542
 ###### Longitude: 56.8306
-### EONET_5853
-#### Title: Bull Complex (formerly Janus Complex) Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5853)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7773/)
-#### Geometries
-##### Date: 2021-08-02T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -122.009
-###### Longitude: 44.879
 ### EONET_5904
 #### Title: Wildfire MB-NO134, Manitoba, Canada
 #### Description: 
@@ -4797,22 +5133,6 @@
 ##### Coordinates
 ###### Latitude: -123.111
 ###### Longitude: 42.901
-### EONET_5785
-#### Title: Antelope Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5785)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7764/)
-#### Geometries
-##### Date: 2021-08-01T10:30:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -121.919
-###### Longitude: 41.521
 ### EONET_5735
 #### Title: Wildfire -  Waimea, Hawaii County, Hawaii
 #### Description: 
@@ -4989,22 +5309,6 @@
 ##### Coordinates
 ###### Latitude: 8.67799
 ###### Longitude: 36.52297
-### EONET_5774
-#### Title: River Complex 2021 Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5774)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7760/)
-#### Geometries
-##### Date: 2021-07-30T07:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -123.018
-###### Longitude: 41.143
 ### EONET_5725
 #### Title: Wildfire - SW of Messina, Sicily - Italy
 #### Description: 
@@ -5533,22 +5837,6 @@
 ##### Coordinates
 ###### Latitude: 8.536184696
 ###### Longitude: 40.164541093
-### EONET_5713
-#### Title: Storm Theatre Complex Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5713)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7724/)
-#### Geometries
-##### Date: 2021-07-25T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -115.097
-###### Longitude: 46.555
 ### EONET_5685
 #### Title: Wildfire MB-EA177, Manitoba, Canada
 #### Description: 
@@ -5661,22 +5949,6 @@
 ##### Coordinates
 ###### Latitude: -95.6856
 ###### Longitude: 52.3678
-### EONET_5681
-#### Title: Hay Creek Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5681)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7712/)
-#### Geometries
-##### Date: 2021-07-21T17:45:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -114.431
-###### Longitude: 48.778
 ### EONET_5846
 #### Title: Crooks Fire
 #### Description: 
@@ -5933,22 +6205,6 @@
 ##### Coordinates
 ###### Latitude: -95.2328
 ###### Longitude: 50.0664
-### EONET_5795
-#### Title: Crater Ridge Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5795)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7685/)
-#### Geometries
-##### Date: 2021-07-17T15:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -107.771
-###### Longitude: 44.947
 ### EONET_5600
 #### Title: Wildfire - S of Carson City, Nevada - United States
 #### Description: 
@@ -5981,22 +6237,6 @@
 ##### Coordinates
 ###### Latitude: -94.5611
 ###### Longitude: 57.7175
-### EONET_5656
-#### Title: American Fork Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5656)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7681/)
-#### Geometries
-##### Date: 2021-07-17T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -110.248
-###### Longitude: 46.165
 ### EONET_5834
 #### Title: Wildfire MB-NO077, Manitoba, Canada
 #### Description: 
@@ -6419,24 +6659,6 @@
 ##### Coordinates
 ###### Latitude: -121.419
 ###### Longitude: 39.819
-### EONET_5687
-#### Title: South Yaak Fire, Lincoln County, Montana, United States
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5687)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7696/)
-##### ID: PDC
-##### [Link](http://emops.pdc.org/emops/?hazard_id=127248)
-#### Geometries
-##### Date: 2021-07-13T13:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -115.93
-###### Longitude: 48.551
 ### EONET_5540
 #### Title: Wildfire - NW of Spokane, Washington - United States
 #### Description: 
@@ -6709,24 +6931,6 @@
 ##### Coordinates
 ###### Latitude: -96.1697
 ###### Longitude: 56.3528
-### EONET_5558
-#### Title: Jefferson and Deshutes Counties (Grandview Fire), Oregon, United States
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5558)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7651/)
-##### ID: PDC
-##### [Link](http://emops.pdc.org/emops/?hazard_id=126465)
-#### Geometries
-##### Date: 2021-07-11T13:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -121.4
-###### Longitude: 44.466
 ### EONET_5587
 #### Title: Varden Fire
 #### Description: 
@@ -6887,38 +7091,6 @@
 ##### Coordinates
 ###### Latitude: -99.6403
 ###### Longitude: 54.6961
-### EONET_5720
-#### Title: Character Complex Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5720)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7654/)
-#### Geometries
-##### Date: 2021-07-10T16:30:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -116.019
-###### Longitude: 47.645
-### EONET_5688
-#### Title: Woods Creek Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5688)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7649/)
-#### Geometries
-##### Date: 2021-07-10T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -111.356
-###### Longitude: 46.553
 ### EONET_5847
 #### Title: Wildfire MB-NO020, Manitoba, Canada
 #### Description: 
@@ -6935,40 +7107,6 @@
 ##### Coordinates
 ###### Latitude: -95.175
 ###### Longitude: 53.0706
-### EONET_5743
-#### Title: Trestle Creek Complex Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5743)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7648/)
-#### Geometries
-##### Date: 2021-07-09T17:07:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -116.22
-###### Longitude: 48.341
-### EONET_5529
-#### Title: Morgan Creek Fire, Routt County , Colorado, United States
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5529)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7635/)
-##### ID: PDC
-##### [Link](http://emops.pdc.org/emops/?hazard_id=126315)
-#### Geometries
-##### Date: 2021-07-09T13:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -106.829
-###### Longitude: 40.718
 ### EONET_5532
 #### Title: Wildfire MB-NO015, Manitoba, Canada
 #### Description: 
@@ -7115,24 +7253,6 @@
 ##### Coordinates
 ###### Latitude: -99.9169
 ###### Longitude: 53.9006
-### EONET_5561
-#### Title: Balsinger Fire, Cascade County , Montana, United States
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5561)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7624/)
-##### ID: PDC
-##### [Link](http://emops.pdc.org/emops/?hazard_id=126128)
-#### Geometries
-##### Date: 2021-07-08T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -110.933
-###### Longitude: 46.993
 ### EONET_5562
 #### Title: Trail Creek Fire
 #### Description: 
@@ -7149,76 +7269,6 @@
 ##### Coordinates
 ###### Latitude: -113.857
 ###### Longitude: 45.669
-### EONET_5657
-#### Title: Divide Complex-Ellis Fire, Cascade County , Montana, United States
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5657)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7625/)
-##### ID: PDC
-##### [Link](http://emops.pdc.org/emops/?hazard_id=126319)
-#### Geometries
-##### Date: 2021-07-08T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -111.272
-###### Longitude: 46.838
-### EONET_5525
-#### Title: West Lolo Complex Fire Mineral/Missoula/Sanders Counties , Montana, United States
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5525)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7620/)
-##### ID: PDC
-##### [Link](http://emops.pdc.org/emops/?hazard_id=126475)
-#### Geometries
-##### Date: 2021-07-07T14:15:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -115.076
-###### Longitude: 47.397
-### EONET_5589
-#### Title: Lincoln County (Burnt Peak Fire), Montana, United States
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5589)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7619/)
-##### ID: PDC
-##### [Link](http://emops.pdc.org/emops/?hazard_id=126466)
-#### Geometries
-##### Date: 2021-07-07T11:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -115.968
-###### Longitude: 48.34
-### EONET_5611
-#### Title: St. Joe July Lightning Fires
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5611)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7627/)
-#### Geometries
-##### Date: 2021-07-07T08:42:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -115.442
-###### Longitude: 47.17
 ### EONET_5502
 #### Title: Lick Creek Fire
 #### Description: 
@@ -7335,40 +7385,6 @@
 ##### Coordinates
 ###### Latitude: -122.686
 ###### Longitude: 43.322
-### EONET_5495
-#### Title: Dixie Fire, W of Salmon , Idaho - United States
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5495)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7608/)
-##### ID: PDC
-##### [Link](http://emops.pdc.org/emops/?hazard_id=125903)
-#### Geometries
-##### Date: 2021-07-05T12:45:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -115.444
-###### Longitude: 45.586
-### EONET_5608
-#### Title: Tamarack Fire
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5608)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7674/)
-#### Geometries
-##### Date: 2021-07-04T16:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -119.857
-###### Longitude: 38.628
 ### EONET_5510
 #### Title: Wildfire MB-WE022, Manitoba, Canada
 #### Description: 
@@ -7663,24 +7679,6 @@
 ##### Coordinates
 ###### Latitude: -119.863
 ###### Longitude: 38.465
-### EONET_5435
-#### Title: Wildfire - Routt County (Muddy Slide Fire), Colorado, United States
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5435)
-#### Categories
-##### ID: 8
-##### Title: Wildfires
-#### Sources
-##### ID: InciWeb
-##### [Link](http://inciweb.nwcg.gov/incident/7566/)
-##### ID: PDC
-##### [Link](http://emops.pdc.org/emops/?hazard_id=125554)
-#### Geometries
-##### Date: 2021-06-24T00:06:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -106.798
-###### Longitude: 40.143
 ### EONET_5436
 #### Title: Wildfire - Rio Blanco County (Oil Spring Fire), Colorado, United States
 #### Description: 
@@ -7886,6 +7884,31 @@
 ##### Coordinates
 ###### Latitude: -20.54
 ###### Longitude: -72.82
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -25.53
+###### Longitude: -73.41
+##### Date: 2022-02-11T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -26.82
+###### Longitude: -72.71
+##### Date: 2022-02-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -28.16
+###### Longitude: -73.1
+##### Date: 2022-02-25T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -30.27
+###### Longitude: -73.54
+##### Date: 2022-03-11T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -31.58
+###### Longitude: -73.14
 ### EONET_5388
 #### Title: Iceberg D29B
 #### Description: 
@@ -7967,6 +7990,21 @@
 ##### Coordinates
 ###### Latitude: -8.44
 ###### Longitude: -70.36
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -17.07
+###### Longitude: -72.24
+##### Date: 2022-02-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -20.98
+###### Longitude: -73.16
+##### Date: 2022-03-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -24.42
+###### Longitude: -73.66
 ### EONET_5389
 #### Title: Iceberg D29C
 #### Description: 
@@ -8063,6 +8101,21 @@
 ##### Coordinates
 ###### Latitude: -17.7
 ###### Longitude: -72.4
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -26.01
+###### Longitude: -73.5
+##### Date: 2022-03-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -28.56
+###### Longitude: -73.7
+##### Date: 2022-03-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -30.9
+###### Longitude: -73.39
 ### EONET_5390
 #### Title: Iceberg D30A
 #### Description: 
@@ -8174,6 +8227,11 @@
 ##### Coordinates
 ###### Latitude: -26.38
 ###### Longitude: -73.69
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -31.04
+###### Longitude: -74.44
 ### EONET_5391
 #### Title: Iceberg D30B
 #### Description: 
@@ -8265,6 +8323,16 @@
 ##### Coordinates
 ###### Latitude: -14.95
 ###### Longitude: -71.55
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -26.75
+###### Longitude: -73.68
+##### Date: 2022-02-25T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -27.15
+###### Longitude: -74.12
 ### EONET_5374
 #### Title: Wildfire - Pinal and Gila Counties (Mescal Fire), Arizona, United States
 #### Description: 
@@ -8281,22 +8349,6 @@
 ##### Coordinates
 ###### Latitude: -108.50974
 ###### Longitude: 33.16433
-### EONET_5291
-#### Title: Karymsky Volcano, Russia
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_5291)
-#### Categories
-##### ID: 12
-##### Title: Volcanoes
-#### Sources
-##### ID: SIVolcano
-##### [Link](https://volcano.si.edu/volcano.cfm?vn=300130)
-#### Geometries
-##### Date: 2021-06-08T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: 159.443
-###### Longitude: 54.049
 ### EONET_5357
 #### Title: Iceberg A76A
 #### Description: 
@@ -8333,6 +8385,26 @@
 ##### Coordinates
 ###### Latitude: -59.4
 ###### Longitude: -73.02
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -56.85
+###### Longitude: -71.4
+##### Date: 2022-02-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -56.3
+###### Longitude: -70.92
+##### Date: 2022-02-25T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -56.22
+###### Longitude: -70.46
+##### Date: 2022-03-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -56.03
+###### Longitude: -69.8
 ### EONET_5358
 #### Title: Iceberg A76B
 #### Description: 
@@ -8359,6 +8431,16 @@
 ##### Coordinates
 ###### Latitude: -59.2
 ###### Longitude: -74.13
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -58.94
+###### Longitude: -72.89
+##### Date: 2022-03-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -58.88
+###### Longitude: -72.28
 ### EONET_5359
 #### Title: Iceberg A76C
 #### Description: 
@@ -8410,6 +8492,11 @@
 ##### Coordinates
 ###### Latitude: -59.88
 ###### Longitude: -70.66
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -60.06
+###### Longitude: -69.93
 ### EONET_5337
 #### Title: Wildfire MB-EA047, Manitoba, Canada
 #### Description: 
@@ -8478,6 +8565,16 @@
 ##### Coordinates
 ###### Latitude: -33.36
 ###### Longitude: -76.76
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -38.68
+###### Longitude: -77.66
+##### Date: 2022-03-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -41.13
+###### Longitude: -77.43
 ### EONET_5254
 #### Title: Semisopochnoi Volcano, Alaska
 #### Description: 
@@ -8550,6 +8647,16 @@
 ##### Coordinates
 ###### Latitude: -60.53
 ###### Longitude: -67.59
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -59.63
+###### Longitude: -66.83
+##### Date: 2022-02-25T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -59.68
+###### Longitude: -66.33
 ### EONET_5202
 #### Title: Merapi Volcano, Indonesia
 #### Description: 
@@ -8639,6 +8746,11 @@
 ##### Coordinates
 ###### Latitude: -59.75
 ###### Longitude: -66.99
+##### Date: 2022-02-25T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -59.8
+###### Longitude: -66.46
 ### EONET_4762
 #### Title: Iceberg A69B
 #### Description: 
@@ -8675,6 +8787,16 @@
 ##### Coordinates
 ###### Latitude: -59.44
 ###### Longitude: -66.77
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -59.42
+###### Longitude: -66.29
+##### Date: 2022-02-25T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -58.23
+###### Longitude: -66.24
 ### EONET_4641
 #### Title: Iceberg B50
 #### Description: 
@@ -8801,6 +8923,16 @@
 ##### Coordinates
 ###### Latitude: -166.43
 ###### Longitude: -69.77
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -167.67
+###### Longitude: -67.58
+##### Date: 2022-03-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -166.9
+###### Longitude: -67.03
 ### EONET_4624
 #### Title: Santa Maria Volcano, Guatemala
 #### Description: 
@@ -9096,6 +9228,16 @@
 ##### Coordinates
 ###### Latitude: -18.73
 ###### Longitude: -72.43
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -26.78
+###### Longitude: -74.1
+##### Date: 2022-02-25T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -28.16
+###### Longitude: -74.51
 ### EONET_4431
 #### Title: Iceberg B47
 #### Description: 
@@ -9541,6 +9683,11 @@
 ##### Coordinates
 ###### Latitude: -26.47
 ###### Longitude: -74.05
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -27.8
+###### Longitude: -75.17
 ### EONET_4131
 #### Title: Iceberg B40
 #### Description: 
@@ -9557,6 +9704,16 @@
 ##### Coordinates
 ###### Latitude: 132.26
 ###### Longitude: -65.64
+##### Date: 2022-02-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 130.84
+###### Longitude: -65.6
+##### Date: 2022-03-11T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 129.56
+###### Longitude: -65.45
 ### EONET_4132
 #### Title: Iceberg B45
 #### Description: 
@@ -10013,6 +10170,21 @@
 ##### Coordinates
 ###### Latitude: 31.89
 ###### Longitude: -68.55
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 23.14
+###### Longitude: -69.22
+##### Date: 2022-03-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 24.17
+###### Longitude: -69.73
+##### Date: 2022-03-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 19.89
+###### Longitude: -69.84
 ### EONET_4122
 #### Title: Iceberg B09G
 #### Description: 
@@ -10430,6 +10602,26 @@
 ##### Coordinates
 ###### Latitude: -33.38
 ###### Longitude: -60.0
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -29.41
+###### Longitude: -56.82
+##### Date: 2022-02-11T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -30.35
+###### Longitude: -56.29
+##### Date: 2022-02-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -29.61
+###### Longitude: -55.88
+##### Date: 2022-02-25T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -29.71
+###### Longitude: -55.02
 ### EONET_4125
 #### Title: Iceberg B15AB
 #### Description: 
@@ -10494,24 +10686,6 @@
 ##### Coordinates
 ###### Latitude: 147.83
 ###### Longitude: -68.13
-### EONET_4049
-#### Title: Popocatepetl Volcano, Mexico
-#### Description: 
-#### [Link](https://eonet.gsfc.nasa.gov/api/v2.1/events/EONET_4049)
-#### Categories
-##### ID: 12
-##### Title: Volcanoes
-#### Sources
-##### ID: EO
-##### [Link](https://earthobservatory.nasa.gov/images/event/46710/volcanic-activity-at-popocatepetl)
-##### ID: SIVolcano
-##### [Link](http://volcano.si.edu/volcano.cfm?vn=341090)
-#### Geometries
-##### Date: 2018-12-02T00:00:00Z
-##### Type: Point)
-##### Coordinates
-###### Latitude: -98.622
-###### Longitude: 19.023
 ### EONET_4031
 #### Title: Iceberg B46
 #### Description: 
@@ -10620,6 +10794,11 @@
 ##### Coordinates
 ###### Latitude: -133.44
 ###### Longitude: -72.12
+##### Date: 2022-03-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -133.6
+###### Longitude: -71.64
 ### EONET_3867
 #### Title: Etna Volcano, Italy
 #### Description: 
@@ -10790,6 +10969,21 @@
 ##### Coordinates
 ###### Latitude: -149.82
 ###### Longitude: -72.14
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -147.87
+###### Longitude: -71.41
+##### Date: 2022-02-25T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -149.6
+###### Longitude: -70.95
+##### Date: 2022-03-11T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -150.63
+###### Longitude: -70.62
 ### EONET_2654
 #### Title: Sabancaya Volcano, Peru
 #### Description: 
@@ -10920,6 +11114,11 @@
 ##### Coordinates
 ###### Latitude: -39.74
 ###### Longitude: -75.7
+##### Date: 2022-03-11T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -37.63
+###### Longitude: -75.55
 ### EONET_2736
 #### Title: Iceberg B22A
 #### Description: 
@@ -10938,6 +11137,11 @@
 ##### Coordinates
 ###### Latitude: -108.5265
 ###### Longitude: -74.2006
+##### Date: 2022-02-18T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: -109.44
+###### Longitude: -73.82
 ### EONET_2876
 #### Title: Iceberg C15
 #### Description: 
@@ -11057,6 +11261,11 @@
 ##### Coordinates
 ###### Latitude: 28.28
 ###### Longitude: -69.26
+##### Date: 2022-02-04T00:00:00Z
+##### Type: Point)
+##### Coordinates
+###### Latitude: 23.55
+###### Longitude: -69.6
 ### EONET_2997
 #### Title: Iceberg C21B
 #### Description: 
@@ -11104,198 +11313,318 @@
 ###### Latitude: -90.88
 ###### Longitude: 14.473
 ## Earth Polychromatic Imaging Camera
-### 20220106000830
-#### Image: epic_1b_20220106000830
-#### Caption: epic_1b_20220106000830
+### 20220318002712
+#### Image: epic_1b_20220318002712
+#### Caption: epic_1b_20220318002712
 #### Version: 03
 #### Centroid Coordinates
-##### Latitude: -28.520508
-##### Longitude: 168.354492
+##### Latitude: 5.141602
+##### Longitude: -177.51709
 #### Discovery J2000 Position
-##### X: 128116.762731
-##### Y: -1305059.865621
-##### Z: -714447.645833
+##### X: 1431209.625
+##### Y: 110222.755155
+##### Z: 126372.455209
 #### Lunar J2000 Position
-##### X: 319604.632514
-##### Y: -158743.754602
-##### Z: -105213.782123
+##### X: -378406.108468
+##### Y: 27787.120557
+##### Z: 44060.426583
 #### Sun J2000 Position
-##### X: 38896234.526054
-##### Y: -130166099.99995
-##### Z: -56427021.302884
+##### X: 148670013.158403
+##### Y: -6952177.635957
+##### Z: -3014252.00598
 #### Attitude Quaternions
-##### Q0: -0.46677
-##### Q1: -0.70217
-##### Q2: 0.22326
-##### Q3: 0.48913
-### 20220106015633
-#### Image: epic_1b_20220106015633
-#### Caption: epic_1b_20220106015633
+##### Q0: 0.05588
+##### Q1: -0.412238
+##### Q2: -0.909206
+##### Q3: 0.01675
+### 20220318021514
+#### Image: epic_1b_20220318021514
+#### Caption: epic_1b_20220318021514
 #### Version: 03
 #### Centroid Coordinates
-##### Latitude: -28.476562
-##### Longitude: 141.350098
+##### Latitude: 5.20752
+##### Longitude: 155.390625
 #### Discovery J2000 Position
-##### X: 130009.462046
-##### Y: -1304535.2125
-##### Z: -714501.35
+##### X: 1431214.75
+##### Y: 112072.007437
+##### Z: 127636.217562
 #### Lunar J2000 Position
-##### X: 323395.079054
-##### Y: -153497.225148
-##### Z: -102987.083365
+##### X: -378825.267613
+##### Y: 21780.760883
+##### Z: 41105.78258
 #### Sun J2000 Position
-##### X: 39085604.799928
-##### Y: -130118407.098359
-##### Z: -56406351.200008
+##### X: 148682847.738819
+##### Y: -6774637.316745
+##### Z: -2937293.754127
 #### Attitude Quaternions
-##### Q0: -0.466472
-##### Q1: -0.702709
-##### Q2: 0.223021
-##### Q3: 0.488739
-### 20220106034435
-#### Image: epic_1b_20220106034435
-#### Caption: epic_1b_20220106034435
+##### Q0: 0.0565
+##### Q1: -0.41164
+##### Q2: -0.90943
+##### Q3: 0.01719
+### 20220318040316
+#### Image: epic_1b_20220318040316
+#### Caption: epic_1b_20220318040316
 #### Version: 03
 #### Centroid Coordinates
-##### Latitude: -28.476562
-##### Longitude: 114.345703
+##### Latitude: 5.251465
+##### Longitude: 128.408203
 #### Discovery J2000 Position
-##### X: 131902.079168
-##### Y: -1304007.933849
-##### Z: -714552.693172
+##### X: 1431218.125
+##### Y: 113920.020468
+##### Z: 128898.740886
 #### Lunar J2000 Position
-##### X: 327079.220409
-##### Y: -148201.304651
-##### Z: -100726.943905
+##### X: -379130.18865
+##### Y: 15767.811966
+##### Z: 38138.57452
 #### Sun J2000 Position
-##### X: 39274903.11658
-##### Y: -130070487.979758
-##### Z: -56385580.799983
+##### X: 148695445.257798
+##### Y: -6597085.533333
+##### Z: -2860330.766595
 #### Attitude Quaternions
-##### Q0: -0.46628
-##### Q1: -0.70319
-##### Q2: 0.22295
-##### Q3: 0.48826
-### 20220106053237
-#### Image: epic_1b_20220106053237
-#### Caption: epic_1b_20220106053237
+##### Q0: 0.057146
+##### Q1: -0.411026
+##### Q2: -0.909658
+##### Q3: 0.017632
+### 20220318055118
+#### Image: epic_1b_20220318055118
+#### Caption: epic_1b_20220318055118
 #### Version: 03
 #### Centroid Coordinates
-##### Latitude: -28.54248
-##### Longitude: 87.363281
+##### Latitude: 5.324707
+##### Longitude: 101.38916
 #### Discovery J2000 Position
-##### X: 133794.89141
-##### Y: -1303477.702246
-##### Z: -714601.717708
+##### X: 1431219.625
+##### Y: 115766.801109
+##### Z: 130160.033267
 #### Lunar J2000 Position
-##### X: 330656.274969
-##### Y: -142857.896381
-##### Z: -98434.234994
+##### X: -379320.536763
+##### Y: 9750.101945
+##### Z: 35159.682138
 #### Sun J2000 Position
-##### X: 39464167.044827
-##### Y: -130022338.133333
-##### Z: -56364707.387693
+##### X: 148707784.000001
+##### Y: -6419522.999983
+##### Z: -2783362.999993
 #### Attitude Quaternions
-##### Q0: -0.46612
-##### Q1: -0.703688
-##### Q2: 0.222872
-##### Q3: 0.487728
-### 20220106072039
-#### Image: epic_1b_20220106072039
-#### Caption: epic_1b_20220106072039
+##### Q0: 0.057832
+##### Q1: -0.410424
+##### Q2: -0.909878
+##### Q3: 0.018046
+### 20220318073920
+#### Image: epic_1b_20220318073920
+#### Caption: epic_1b_20220318073920
 #### Version: 03
 #### Centroid Coordinates
-##### Latitude: -28.527832
-##### Longitude: 60.432129
+##### Latitude: 5.361328
+##### Longitude: 74.377441
 #### Discovery J2000 Position
-##### X: 135687.320052
-##### Y: -1302945.035665
-##### Z: -714648.418868
+##### X: 1431219.25
+##### Y: 117612.382812
+##### Z: 131420.092774
 #### Lunar J2000 Position
-##### X: 334125.405317
-##### Y: -137468.873087
-##### Z: -96109.803582
+##### X: -379395.924207
+##### Y: 3729.471452
+##### Z: 32169.994917
 #### Sun J2000 Position
-##### X: 39653325.161645
-##### Y: -129973963.200016
-##### Z: -56343737.438651
+##### X: 148719867.733341
+##### Y: -6241949.470706
+##### Z: -2706390.766543
 #### Attitude Quaternions
-##### Q0: -0.465875
-##### Q1: -0.704192
-##### Q2: 0.222686
-##### Q3: 0.487324
-### 20220106090842
-#### Image: epic_1b_20220106090842
-#### Caption: epic_1b_20220106090842
+##### Q0: 0.058458
+##### Q1: -0.409824
+##### Q2: -0.910097
+##### Q3: 0.018508
+### 20220318092723
+#### Image: epic_1b_20220318092723
+#### Caption: epic_1b_20220318092723
 #### Version: 03
 #### Centroid Coordinates
-##### Latitude: -28.54248
-##### Longitude: 33.354492
+##### Latitude: 5.354004
+##### Longitude: 47.380371
 #### Discovery J2000 Position
-##### X: 137579.622656
-##### Y: -1302409.736758
-##### Z: -714692.812379
+##### X: 1431217.178156
+##### Y: 119457.060645
+##### Z: 132679.135657
 #### Lunar J2000 Position
-##### X: 337486.433838
-##### Y: -132035.333382
-##### Z: -93754.163758
+##### X: -379356.113568
+##### Y: -2293.158286
+##### Z: 29169.946283
 #### Sun J2000 Position
-##### X: 39842415.758428
-##### Y: -129925356.881107
-##### Z: -56322670.556364
+##### X: 148731703.70086
+##### Y: -6064337.964452
+##### Z: -2629401.97406
 #### Attitude Quaternions
-##### Q0: -0.46568
-##### Q1: -0.70468
-##### Q2: 0.222595
-##### Q3: 0.486845
-### 20220106105644
-#### Image: epic_1b_20220106105644
-#### Caption: epic_1b_20220106105644
+##### Q0: 0.05907
+##### Q1: -0.40922
+##### Q2: -0.91033
+##### Q3: 0.01896
+### 20220318111525
+#### Image: epic_1b_20220318111525
+#### Caption: epic_1b_20220318111525
 #### Version: 03
 #### Centroid Coordinates
-##### Latitude: -28.513184
-##### Longitude: 6.379395
+##### Latitude: 5.471191
+##### Longitude: 20.390625
 #### Discovery J2000 Position
-##### X: 139471.80026
-##### Y: -1301871.708334
-##### Z: -714734.83125
+##### X: 1431213.29702
+##### Y: 121300.281408
+##### Z: 133936.775847
 #### Lunar J2000 Position
-##### X: 340738.103136
-##### Y: -126560.007964
-##### Z: -91368.53451
+##### X: -379200.782852
+##### Y: -8314.071287
+##### Z: 26161.367136
 #### Sun J2000 Position
-##### X: 40031434.127378
-##### Y: -129876525.71745
-##### Z: -56301500.32074
+##### X: 148743290.792678
+##### Y: -5886743.700104
+##### Z: -2552420.881939
 #### Attitude Quaternions
-##### Q0: -0.465422
-##### Q1: -0.705196
-##### Q2: 0.222444
-##### Q3: 0.486416
-### 20220106124446
-#### Image: epic_1b_20220106124446
-#### Caption: epic_1b_20220106124446
+##### Q0: 0.05976
+##### Q1: -0.40865
+##### Q2: -0.91053
+##### Q3: 0.01938
+### 20220318130328
+#### Image: epic_1b_20220318130328
+#### Caption: epic_1b_20220318130328
 #### Version: 03
 #### Centroid Coordinates
-##### Latitude: -28.513184
-##### Longitude: -20.603027
+##### Latitude: 5.500488
+##### Longitude: -6.643066
 #### Discovery J2000 Position
-##### X: 141364.129167
-##### Y: -1301331.083333
-##### Z: -714774.60198
+##### X: 1431207.666022
+##### Y: 123142.347824
+##### Z: 135193.2
 #### Lunar J2000 Position
-##### X: 343879.271642
-##### Y: -121045.656194
-##### Z: -88954.16698
+##### X: -378929.770348
+##### Y: -14332.328861
+##### Z: 23144.707783
 #### Sun J2000 Position
-##### X: 40220409.735503
-##### Y: -129827463.199994
-##### Z: -56280230.605908
+##### X: 148754633.388003
+##### Y: -5709139.399956
+##### Z: -2475435.453948
 #### Attitude Quaternions
-##### Q0: -0.465168
-##### Q1: -0.705694
-##### Q2: 0.222268
-##### Q3: 0.486012
+##### Q0: 0.060353
+##### Q1: -0.408056
+##### Q2: -0.910742
+##### Q3: 0.019846
+### 20220318145130
+#### Image: epic_1b_20220318145130
+#### Caption: epic_1b_20220318145130
+#### Version: 03
+#### Centroid Coordinates
+##### Latitude: 5.529785
+##### Longitude: -33.669434
+#### Discovery J2000 Position
+##### X: 1431200.303703
+##### Y: 124983.286596
+##### Z: 136448.421094
+#### Lunar J2000 Position
+##### X: -378542.769699
+##### Y: -20346.983312
+##### Z: 20120.416617
+#### Sun J2000 Position
+##### X: 148765725.216904
+##### Y: -5531525.599943
+##### Z: -2398446.134891
+#### Attitude Quaternions
+##### Q0: 0.061012
+##### Q1: -0.40745
+##### Q2: -0.91096
+##### Q3: 0.020269
+### 20220318163932
+#### Image: epic_1b_20220318163932
+#### Caption: epic_1b_20220318163932
+#### Version: 03
+#### Centroid Coordinates
+##### Latitude: 5.603027
+##### Longitude: -60.688477
+#### Discovery J2000 Position
+##### X: 1431191.125
+##### Y: 126823.390952
+##### Z: 137702.642843
+#### Lunar J2000 Position
+##### X: -378039.814794
+##### Y: -26354.300594
+##### Z: 17090.355635
+#### Sun J2000 Position
+##### X: 148776566.78509
+##### Y: -5353874.935914
+##### Z: -2321440.816696
+#### Attitude Quaternions
+##### Q0: 0.061685
+##### Q1: -0.40686
+##### Q2: -0.91117
+##### Q3: 0.020693
+### 20220318182734
+#### Image: epic_1b_20220318182734
+#### Caption: epic_1b_20220318182734
+#### Version: 03
+#### Centroid Coordinates
+##### Latitude: 5.625
+##### Longitude: -87.648926
+#### Discovery J2000 Position
+##### X: 1431180.140407
+##### Y: 128662.110939
+##### Z: 138955.470427
+#### Lunar J2000 Position
+##### X: -377420.692446
+##### Y: -32353.319346
+##### Z: 14054.987339
+#### Sun J2000 Position
+##### X: 148787145.600008
+##### Y: -5176242.192669
+##### Z: -2244443.558272
+#### Attitude Quaternions
+##### Q0: 0.062274
+##### Q1: -0.406261
+##### Q2: -0.911388
+##### Q3: 0.021143
+### 20220318201537
+#### Image: epic_1b_20220318201537
+#### Caption: epic_1b_20220318201537
+#### Version: 03
+#### Centroid Coordinates
+##### Latitude: 5.668945
+##### Longitude: -114.65332
+#### Discovery J2000 Position
+##### X: 1431167.529167
+##### Y: 130499.75171
+##### Z: 140207.126562
+#### Lunar J2000 Position
+##### X: -376685.369778
+##### Y: -38342.148289
+##### Z: 11015.249998
+#### Sun J2000 Position
+##### X: 148797484.799993
+##### Y: -4998600.908125
+##### Z: -2167442.550054
+#### Attitude Quaternions
+##### Q0: 0.062926
+##### Q1: -0.405691
+##### Q2: -0.911583
+##### Q3: 0.021591
+### 20220318220340
+#### Image: epic_1b_20220318220340
+#### Caption: epic_1b_20220318220340
+#### Version: 03
+#### Centroid Coordinates
+##### Latitude: 5.756836
+##### Longitude: -141.70166
+#### Discovery J2000 Position
+##### X: 1431153.15
+##### Y: 132336.334126
+##### Z: 141457.607001
+#### Lunar J2000 Position
+##### X: -375833.514299
+##### Y: -44320.727301
+##### Z: 7971.146467
+#### Sun J2000 Position
+##### X: 148807585.010106
+##### Y: -4820951.089033
+##### Z: -2090438.048861
+#### Attitude Quaternions
+##### Q0: 0.06354
+##### Q1: -0.40511
+##### Q2: -0.91179
+##### Q3: 0.022037
 ## Known Celestial Body Count
 ### planet
 #### Known Count: 8
@@ -11310,7 +11639,7 @@
 #### Known Count: 3743
 #### Last Updated: 08/08/2021
 ### moonsPlanet
-#### Known Count: 205
+#### Known Count: 206
 #### Last Updated: 08/10/2019
 ### moonsDwarfPlanet
 #### Known Count: 9
@@ -11319,7 +11648,7 @@
 #### Known Count: 558
 #### Last Updated: 21/11/2021
 ## Planets
-### uranus
+### Uranus
 #### Names
 ##### Uranus
 ##### English: Uranus
@@ -11351,7 +11680,7 @@
 ##### By: William Herschel
 ##### Date: 13/03/1781
 #### Axial Tilt: 97.77
-#### Average Temperature: 0
+#### Average Temperature: 76
 #### Main Anomaly: 142.2386
 #### Periapsis: 98.862
 #### Long Asc Node: 73.967
@@ -11362,19 +11691,19 @@
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/umbriel)
 ##### Titania
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/titania)
-##### Ob√©ron
+##### ObÈron
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/oberon)
 ##### Miranda
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/miranda)
-##### Cord√©lia
+##### CordÈlia
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/cordelia)
-##### Oph√©lie
+##### OphÈlie
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/ophelia)
 ##### Bianca
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/bianca)
 ##### Cressida
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/cressida)
-##### Desd√©mone
+##### DesdÈmone
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/desdemona)
 ##### Juliette
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/juliet)
@@ -11410,7 +11739,7 @@
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/mab)
 ##### Cupid
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/cupid)
-### neptune
+### Neptune
 #### Names
 ##### Neptune
 ##### English: Neptune
@@ -11442,40 +11771,40 @@
 ##### By: Urbain Le Verrier, John Couch Adams, Johann Galle
 ##### Date: 23/09/1846
 #### Axial Tilt: 28.3
-#### Average Temperature: 0
+#### Average Temperature: 55
 #### Main Anomaly: 256.228
 #### Periapsis: 256.932
 #### Long Asc Node: 131.823
 #### Moons
 ##### Triton
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/triton)
-##### N√©re√Øde
+##### NÈreÔde
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/nereide)
-##### Na√Øade
+##### NaÔade
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/naiade)
 ##### Thalassa
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/thalassa)
 ##### Despina
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/despina)
-##### Galat√©e
+##### GalatÈe
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/galatee)
 ##### Larissa
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/larissa)
-##### Prot√©e
+##### ProtÈe
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/protee)
-##### Halim√®de
+##### HalimËde
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/halimede)
-##### Psamath√©e
+##### PsamathÈe
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/psamathee)
 ##### Sao
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/sao)
-##### Laom√©die
+##### LaomÈdie
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/laomedie)
-##### N√©so
+##### NÈso
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/neso)
 ##### Hippocampe
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/hippocampe)
-### jupiter
+### Jupiter
 #### Names
 ##### Jupiter
 ##### English: Jupiter
@@ -11507,7 +11836,7 @@
 ##### By: 
 ##### Date: 
 #### Axial Tilt: 3.12
-#### Average Temperature: 0
+#### Average Temperature: 165
 #### Main Anomaly: 20.02
 #### Periapsis: 273.442
 #### Long Asc Node: 100.398
@@ -11516,109 +11845,109 @@
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/io)
 ##### Europe
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/europe)
-##### Ganym√®de
+##### GanymËde
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/ganymede)
 ##### Callisto
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/callisto)
-##### Amalth√©e
+##### AmalthÈe
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/amalthee)
 ##### Himalia
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/himalia)
-##### √âlara
+##### …lara
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/elara)
-##### Pasipha√©
+##### PasiphaÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/pasiphae)
-##### Sinop√©
+##### SinopÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/sinope)
-##### Lysith√©a
+##### LysithÈa
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/lysithea)
-##### Carm√©
+##### CarmÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/carme)
-##### Anank√©
+##### AnankÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/ananke)
-##### L√©da
+##### LÈda
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/leda)
-##### Th√©b√©
+##### ThÈbÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/thebe)
-##### Adrast√©e
+##### AdrastÈe
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/adrastee)
-##### M√©tis
+##### MÈtis
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/metis)
-##### Callirrho√©
+##### CallirrhoÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/callirrhoe)
-##### Th√©misto
+##### ThÈmisto
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/themisto)
-##### M√©gaclit√©
+##### MÈgaclitÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/megaclite)
-##### Tayg√©t√©
+##### TaygÈtÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/taygete)
-##### Chald√©n√©
+##### ChaldÈnÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/chaldene)
-##### Harpalyk√©
+##### HarpalykÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/harpalyke)
-##### Kalyk√©
+##### KalykÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/kalyke)
-##### Iocast√©
+##### IocastÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/iocaste)
-##### Erinom√©
+##### ErinomÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/erinome)
-##### Isono√©
+##### IsonoÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/isonoe)
-##### Praxidyk√©
+##### PraxidykÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/praxidike)
-##### Autono√©
+##### AutonoÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/autonoe)
-##### Thyon√©
+##### ThyonÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/thyone)
-##### Hermipp√©
+##### HermippÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/hermippe)
-##### Aitn√©
+##### AitnÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/aitne)
-##### Eurydom√©
+##### EurydomÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/eurydome)
-##### Euanth√©
+##### EuanthÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/euanthe)
 ##### Euporie
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/euporie)
 ##### Orthosie
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/orthosie)
-##### Spond√©
+##### SpondÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/sponde)
-##### Cal√©
+##### CalÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/cale)
-##### Pasith√©e
+##### PasithÈe
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/pasithee)
-##### H√©g√©mone
+##### HÈgÈmone
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/hegemone)
-##### Mn√©m√©
+##### MnÈmÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/mneme)
-##### Aoed√©
+##### AoedÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/aoede)
-##### Thelxino√©
+##### ThelxinoÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/thelxinoe)
-##### Arch√©
+##### ArchÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/arche)
 ##### Callichore
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/callichore)
-##### H√©lic√©
+##### HÈlicÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/helice)
 ##### Carpo
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/carpo)
-##### Euk√©lad√©
+##### EukÈladÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/eukelade)
-##### Cyll√®ne
+##### CyllËne
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/cyllene)
-##### Cor√©
+##### CorÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/core)
-##### Hers√©
+##### HersÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/herse)
 ##### S/2003 J 2
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2003j2)
-##### Euph√©m√©
+##### EuphÈmÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/eupheme)
 ##### S/2003 J 4
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2003j4)
-##### Eir√©n√©
+##### EirÈnÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/eirene)
 ##### S/2003 J 9
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2003j9)
@@ -11650,7 +11979,7 @@
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2017j1)
 ##### S/2016 J 1
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2016j1)
-##### Val√©tudo
+##### ValÈtudo
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/valetudo)
 ##### S/2017 J 2
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2017j2)
@@ -11670,12 +11999,14 @@
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2017j9)
 ##### Ersa
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/ersa)
-### mars
+##### S/2003 J 24
+###### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2003j24)
+### Mars
 #### Names
 ##### Mars
 ##### English: Mars
 ##### Alternative: 
-#### Semi Major Axis: 227943824
+#### Semi Major Axis: 227939200
 #### Perihelion: 206700000
 #### Aphelion: 249200000
 #### Eccentricity: 0.0935
@@ -11702,21 +12033,21 @@
 ##### By: 
 ##### Date: 
 #### Axial Tilt: 25.19
-#### Average Temperature: 0
+#### Average Temperature: 210
 #### Main Anomaly: 19.412
 #### Periapsis: 286.231
 #### Long Asc Node: 49.667
 #### Moons
 ##### Phobos
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/phobos)
-##### De√Ømos
+##### DeÔmos
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/deimos)
-### mercure
+### Mercure
 #### Names
 ##### Mercure
 ##### English: Mercury
 ##### Alternative: 
-#### Semi Major Axis: 57909227
+#### Semi Major Axis: 57909050
 #### Perihelion: 46001200
 #### Aphelion: 69816900
 #### Eccentricity: 0.2056
@@ -11743,11 +12074,11 @@
 ##### By: 
 ##### Date: 
 #### Axial Tilt: 0.0352
-#### Average Temperature: 0
+#### Average Temperature: 440
 #### Main Anomaly: 174.796
 #### Periapsis: 29.022
 #### Long Asc Node: 48.378
-### saturne
+### Saturne
 #### Names
 ##### Saturne
 ##### English: Saturn
@@ -11779,7 +12110,7 @@
 ##### By: 
 ##### Date: 
 #### Axial Tilt: 26.73
-#### Average Temperature: 0
+#### Average Temperature: 134
 #### Main Anomaly: 317.02
 #### Periapsis: 336.178
 #### Long Asc Node: 113.759
@@ -11788,33 +12119,33 @@
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/mimas)
 ##### Encelade
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/encelade)
-##### T√©thys
+##### TÈthys
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/tethys)
-##### Dion√©
+##### DionÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/dione)
-##### Rh√©a
+##### RhÈa
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/rhea)
 ##### Titan
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/titan)
-##### Hyp√©rion
+##### HypÈrion
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/hyperion)
 ##### Japet
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/japet)
-##### Ph≈ìb√©
+##### PhúbÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/phoebe)
 ##### Janus
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/janus)
-##### Epim√©th√©e
+##### EpimÈthÈe
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/epimethee)
-##### H√©l√®ne
+##### HÈlËne
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/helene)
-##### T√©lesto
+##### TÈlesto
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/telesto)
 ##### Calypso
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/calypso)
 ##### Atlas
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/atlas)
-##### Prom√©th√©e
+##### PromÈthÈe
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/promethee)
 ##### Pandore
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/pandore)
@@ -11846,9 +12177,9 @@
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/thrymr)
 ##### Narvi
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/narvi)
-##### M√©thone
+##### MÈthone
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/methone)
-##### Pall√®ne
+##### PallËne
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/pallene)
 ##### Pollux
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/pollux)
@@ -11880,7 +12211,7 @@
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/skoll)
 ##### Surtur
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/surtur)
-##### Anth√©
+##### AnthÈ
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/anthe)
 ##### Jarnsaxa
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/jarnsaxa)
@@ -11888,7 +12219,7 @@
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/greip)
 ##### Tarqeq
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/tarqeq)
-##### √âg√©on
+##### …gÈon
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/egeon)
 ##### S/2004 S 7
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2004s7)
@@ -11948,12 +12279,12 @@
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2004s38)
 ##### S/2004 S 39
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2004s39)
-### terre
+### La Terre
 #### Names
 ##### La Terre
 ##### English: Earth
 ##### Alternative: 
-#### Semi Major Axis: 149598262
+#### Semi Major Axis: 149598023
 #### Perihelion: 147095000
 #### Aphelion: 152100000
 #### Eccentricity: 0.0167
@@ -11980,16 +12311,16 @@
 ##### By: 
 ##### Date: 
 #### Axial Tilt: 23.4393
-#### Average Temperature: 0
+#### Average Temperature: 288
 #### Main Anomaly: 358.617
 #### Periapsis: 85.901
 #### Long Asc Node: 18.272
 #### Moons
 ##### La Lune
 ###### [Details](https://api.le-systeme-solaire.net/rest/bodies/lune)
-### venus
+### VÈnus
 #### Names
-##### V√©nus
+##### VÈnus
 ##### English: Venus
 ##### Alternative: 
 #### Semi Major Axis: 108208475
@@ -12019,7 +12350,7 @@
 ##### By: 
 ##### Date: 
 #### Axial Tilt: 177.36
-#### Average Temperature: 0
+#### Average Temperature: 737
 #### Main Anomaly: 50.115
 #### Periapsis: 54.78
 #### Long Asc Node: 76.785

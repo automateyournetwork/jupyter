@@ -1,5 +1,5 @@
 # Planets
-## uranus
+## Uranus
 ### Names
 #### Uranus
 #### English: Uranus
@@ -31,7 +31,7 @@
 #### By: William Herschel
 #### Date: 13/03/1781
 ### Axial Tilt: 97.77
-### Average Temperature: 0
+### Average Temperature: 76
 ### Main Anomaly: 142.2386
 ### Periapsis: 98.862
 ### Long Asc Node: 73.967
@@ -42,19 +42,19 @@
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/umbriel)
 #### Titania
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/titania)
-#### Ob√©ron
+#### ObÈron
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/oberon)
 #### Miranda
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/miranda)
-#### Cord√©lia
+#### CordÈlia
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/cordelia)
-#### Oph√©lie
+#### OphÈlie
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/ophelia)
 #### Bianca
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/bianca)
 #### Cressida
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/cressida)
-#### Desd√©mone
+#### DesdÈmone
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/desdemona)
 #### Juliette
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/juliet)
@@ -90,7 +90,7 @@
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/mab)
 #### Cupid
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/cupid)
-## neptune
+## Neptune
 ### Names
 #### Neptune
 #### English: Neptune
@@ -122,40 +122,40 @@
 #### By: Urbain Le Verrier, John Couch Adams, Johann Galle
 #### Date: 23/09/1846
 ### Axial Tilt: 28.3
-### Average Temperature: 0
+### Average Temperature: 55
 ### Main Anomaly: 256.228
 ### Periapsis: 256.932
 ### Long Asc Node: 131.823
 ### Moons
 #### Triton
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/triton)
-#### N√©re√Øde
+#### NÈreÔde
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/nereide)
-#### Na√Øade
+#### NaÔade
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/naiade)
 #### Thalassa
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/thalassa)
 #### Despina
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/despina)
-#### Galat√©e
+#### GalatÈe
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/galatee)
 #### Larissa
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/larissa)
-#### Prot√©e
+#### ProtÈe
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/protee)
-#### Halim√®de
+#### HalimËde
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/halimede)
-#### Psamath√©e
+#### PsamathÈe
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/psamathee)
 #### Sao
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/sao)
-#### Laom√©die
+#### LaomÈdie
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/laomedie)
-#### N√©so
+#### NÈso
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/neso)
 #### Hippocampe
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/hippocampe)
-## jupiter
+## Jupiter
 ### Names
 #### Jupiter
 #### English: Jupiter
@@ -187,7 +187,7 @@
 #### By: 
 #### Date: 
 ### Axial Tilt: 3.12
-### Average Temperature: 0
+### Average Temperature: 165
 ### Main Anomaly: 20.02
 ### Periapsis: 273.442
 ### Long Asc Node: 100.398
@@ -196,109 +196,109 @@
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/io)
 #### Europe
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/europe)
-#### Ganym√®de
+#### GanymËde
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/ganymede)
 #### Callisto
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/callisto)
-#### Amalth√©e
+#### AmalthÈe
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/amalthee)
 #### Himalia
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/himalia)
-#### √âlara
+#### …lara
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/elara)
-#### Pasipha√©
+#### PasiphaÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/pasiphae)
-#### Sinop√©
+#### SinopÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/sinope)
-#### Lysith√©a
+#### LysithÈa
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/lysithea)
-#### Carm√©
+#### CarmÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/carme)
-#### Anank√©
+#### AnankÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/ananke)
-#### L√©da
+#### LÈda
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/leda)
-#### Th√©b√©
+#### ThÈbÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/thebe)
-#### Adrast√©e
+#### AdrastÈe
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/adrastee)
-#### M√©tis
+#### MÈtis
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/metis)
-#### Callirrho√©
+#### CallirrhoÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/callirrhoe)
-#### Th√©misto
+#### ThÈmisto
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/themisto)
-#### M√©gaclit√©
+#### MÈgaclitÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/megaclite)
-#### Tayg√©t√©
+#### TaygÈtÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/taygete)
-#### Chald√©n√©
+#### ChaldÈnÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/chaldene)
-#### Harpalyk√©
+#### HarpalykÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/harpalyke)
-#### Kalyk√©
+#### KalykÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/kalyke)
-#### Iocast√©
+#### IocastÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/iocaste)
-#### Erinom√©
+#### ErinomÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/erinome)
-#### Isono√©
+#### IsonoÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/isonoe)
-#### Praxidyk√©
+#### PraxidykÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/praxidike)
-#### Autono√©
+#### AutonoÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/autonoe)
-#### Thyon√©
+#### ThyonÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/thyone)
-#### Hermipp√©
+#### HermippÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/hermippe)
-#### Aitn√©
+#### AitnÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/aitne)
-#### Eurydom√©
+#### EurydomÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/eurydome)
-#### Euanth√©
+#### EuanthÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/euanthe)
 #### Euporie
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/euporie)
 #### Orthosie
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/orthosie)
-#### Spond√©
+#### SpondÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/sponde)
-#### Cal√©
+#### CalÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/cale)
-#### Pasith√©e
+#### PasithÈe
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/pasithee)
-#### H√©g√©mone
+#### HÈgÈmone
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/hegemone)
-#### Mn√©m√©
+#### MnÈmÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/mneme)
-#### Aoed√©
+#### AoedÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/aoede)
-#### Thelxino√©
+#### ThelxinoÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/thelxinoe)
-#### Arch√©
+#### ArchÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/arche)
 #### Callichore
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/callichore)
-#### H√©lic√©
+#### HÈlicÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/helice)
 #### Carpo
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/carpo)
-#### Euk√©lad√©
+#### EukÈladÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/eukelade)
-#### Cyll√®ne
+#### CyllËne
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/cyllene)
-#### Cor√©
+#### CorÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/core)
-#### Hers√©
+#### HersÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/herse)
 #### S/2003 J 2
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2003j2)
-#### Euph√©m√©
+#### EuphÈmÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/eupheme)
 #### S/2003 J 4
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2003j4)
-#### Eir√©n√©
+#### EirÈnÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/eirene)
 #### S/2003 J 9
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2003j9)
@@ -330,7 +330,7 @@
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2017j1)
 #### S/2016 J 1
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2016j1)
-#### Val√©tudo
+#### ValÈtudo
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/valetudo)
 #### S/2017 J 2
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2017j2)
@@ -350,12 +350,14 @@
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2017j9)
 #### Ersa
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/ersa)
-## mars
+#### S/2003 J 24
+##### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2003j24)
+## Mars
 ### Names
 #### Mars
 #### English: Mars
 #### Alternative: 
-### Semi Major Axis: 227943824
+### Semi Major Axis: 227939200
 ### Perihelion: 206700000
 ### Aphelion: 249200000
 ### Eccentricity: 0.0935
@@ -382,21 +384,21 @@
 #### By: 
 #### Date: 
 ### Axial Tilt: 25.19
-### Average Temperature: 0
+### Average Temperature: 210
 ### Main Anomaly: 19.412
 ### Periapsis: 286.231
 ### Long Asc Node: 49.667
 ### Moons
 #### Phobos
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/phobos)
-#### De√Ømos
+#### DeÔmos
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/deimos)
-## mercure
+## Mercure
 ### Names
 #### Mercure
 #### English: Mercury
 #### Alternative: 
-### Semi Major Axis: 57909227
+### Semi Major Axis: 57909050
 ### Perihelion: 46001200
 ### Aphelion: 69816900
 ### Eccentricity: 0.2056
@@ -423,11 +425,11 @@
 #### By: 
 #### Date: 
 ### Axial Tilt: 0.0352
-### Average Temperature: 0
+### Average Temperature: 440
 ### Main Anomaly: 174.796
 ### Periapsis: 29.022
 ### Long Asc Node: 48.378
-## saturne
+## Saturne
 ### Names
 #### Saturne
 #### English: Saturn
@@ -459,7 +461,7 @@
 #### By: 
 #### Date: 
 ### Axial Tilt: 26.73
-### Average Temperature: 0
+### Average Temperature: 134
 ### Main Anomaly: 317.02
 ### Periapsis: 336.178
 ### Long Asc Node: 113.759
@@ -468,33 +470,33 @@
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/mimas)
 #### Encelade
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/encelade)
-#### T√©thys
+#### TÈthys
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/tethys)
-#### Dion√©
+#### DionÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/dione)
-#### Rh√©a
+#### RhÈa
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/rhea)
 #### Titan
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/titan)
-#### Hyp√©rion
+#### HypÈrion
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/hyperion)
 #### Japet
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/japet)
-#### Ph≈ìb√©
+#### PhúbÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/phoebe)
 #### Janus
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/janus)
-#### Epim√©th√©e
+#### EpimÈthÈe
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/epimethee)
-#### H√©l√®ne
+#### HÈlËne
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/helene)
-#### T√©lesto
+#### TÈlesto
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/telesto)
 #### Calypso
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/calypso)
 #### Atlas
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/atlas)
-#### Prom√©th√©e
+#### PromÈthÈe
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/promethee)
 #### Pandore
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/pandore)
@@ -526,9 +528,9 @@
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/thrymr)
 #### Narvi
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/narvi)
-#### M√©thone
+#### MÈthone
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/methone)
-#### Pall√®ne
+#### PallËne
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/pallene)
 #### Pollux
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/pollux)
@@ -560,7 +562,7 @@
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/skoll)
 #### Surtur
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/surtur)
-#### Anth√©
+#### AnthÈ
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/anthe)
 #### Jarnsaxa
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/jarnsaxa)
@@ -568,7 +570,7 @@
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/greip)
 #### Tarqeq
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/tarqeq)
-#### √âg√©on
+#### …gÈon
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/egeon)
 #### S/2004 S 7
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2004s7)
@@ -628,12 +630,12 @@
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2004s38)
 #### S/2004 S 39
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/s2004s39)
-## terre
+## La Terre
 ### Names
 #### La Terre
 #### English: Earth
 #### Alternative: 
-### Semi Major Axis: 149598262
+### Semi Major Axis: 149598023
 ### Perihelion: 147095000
 ### Aphelion: 152100000
 ### Eccentricity: 0.0167
@@ -660,16 +662,16 @@
 #### By: 
 #### Date: 
 ### Axial Tilt: 23.4393
-### Average Temperature: 0
+### Average Temperature: 288
 ### Main Anomaly: 358.617
 ### Periapsis: 85.901
 ### Long Asc Node: 18.272
 ### Moons
 #### La Lune
 ##### [Details](https://api.le-systeme-solaire.net/rest/bodies/lune)
-## venus
+## VÈnus
 ### Names
-#### V√©nus
+#### VÈnus
 #### English: Venus
 #### Alternative: 
 ### Semi Major Axis: 108208475
@@ -699,7 +701,7 @@
 #### By: 
 #### Date: 
 ### Axial Tilt: 177.36
-### Average Temperature: 0
+### Average Temperature: 737
 ### Main Anomaly: 50.115
 ### Periapsis: 54.78
 ### Long Asc Node: 76.785

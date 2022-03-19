@@ -90,3 +90,31 @@
 #### 2021-11-01T21:36:00-CME-001
 #### 2021-11-02T02:48:00-CME-001
 ### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/18191/-1)
+## 2022-01-20T07:20:00-SEP-001
+### Event Time: 2022-01-20T07:20Z
+### Instruments:
+#### GOES-P: SEISS >100 MeV
+#### 2022-01-20T05:41:00-FLR-001
+#### 2022-01-20T06:12:00-CME-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/18899/-1)
+## 2022-01-20T08:00:00-SEP-001
+### Event Time: 2022-01-20T08:00Z
+### Instruments:
+#### GOES-P: SEISS >10 MeV
+#### 2022-01-20T05:41:00-FLR-001
+#### 2022-01-20T06:12:00-CME-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/18901/-1)
+## 2022-01-20T08:07:00-SEP-001
+### Event Time: 2022-01-20T08:07Z
+### Instruments:
+#### SOHO: COSTEP 15.8-39.8 MeV
+#### 2022-01-20T05:41:00-FLR-001
+#### 2022-01-20T06:12:00-CME-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/18905/-1)
+## 2022-01-20T08:10:00-SEP-001
+### Event Time: 2022-01-20T08:10Z
+### Instruments:
+#### SOHO: COSTEP 28.2-50.1 MeV
+#### 2022-01-20T05:41:00-FLR-001
+#### 2022-01-20T06:12:00-CME-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/SEP/18906/-1)

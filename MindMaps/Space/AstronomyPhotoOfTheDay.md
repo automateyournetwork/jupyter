@@ -1,8 +1,8 @@
 # Astronomy Photo of the Day
-## Title: Ecstatic Solar Eclipse
-### Date: 2022-01-07
-### Explaination: A male Adelie penguin performed this Ecstatic Vocalization in silhouette during the December 4 solar eclipse, the final eclipse of 2021. Of course his Ecstatic Vocalization is a special display that male penguins use to claim their territory and advertise their condition. This penguin's territory, at Cape Crozier Antarctica, is located in one of the largest Adelie penguin colonies. The colony has been studied by researchers for over 25 years. From there, last December's eclipse was about 80 percent total when seen at its maximum phase as the Moon's shadow crossed planet Earth's southernmost continent.   Status Updates: Deploying the James Webb Space Telescope
+## Title: 2MASS J17554042+6551277
+### Date: 2022-03-19
+### Explaination: 2MASS J17554042+6551277 doesn't exactly roll off the tongue but that's the name, a coordinate-based catalog designation, of the star centered in this sharp field of view. Fans of the distant universe should get used to its spiky appearance though. The diffraction pattern is created by the 18 hexagonal mirror segments of the James Webb Space Telescope. After unfolding, the segments have now been adjusted to achieve a diffraction limited alignment at infrared wavelengths while operating in concert as a single 6.5 meter diameter primary mirror. The resulting image taken by Webb's NIRcam demonstrates their precise alignment is the best physics will allow. 2MASS J17554042+6551277 is about 2,000 light-years away and well within our own galaxy. But the galaxies scattered across the background of the Webb telescope alignment evaluation image are likely billions of light-years distant, far beyond the Milky Way.
 ### URLs 
-#### [Hi Definition](https://apod.nasa.gov/apod/image/2201/eclipse_EV.jpg)
-#### [Regular Definiton ](https://apod.nasa.gov/apod/image/2201/eclipse_EV.jpg)
-### Copyright Point Blue Conservation Science
+#### [Hi Definition](https://apod.nasa.gov/apod/image/2203/telescope_alignment_evaluation_image_labeled.jpg)
+#### [Regular Definiton ](https://apod.nasa.gov/apod/image/2203/telescope_alignment_evaluation_image_labeled.jpg)
+### Copyright 

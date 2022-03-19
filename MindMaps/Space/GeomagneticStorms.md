@@ -64,3 +64,39 @@
 #### 2021-11-03T19:23:00-IPS-001
 #### 2021-11-03T21:29:00-MPC-001
 ### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/GST/18198/-1)
+## 2022-01-14T21:00:00-GST-001
+### Start Time: 2022-01-14T21:00Z
+### Observed Time: 2022-01-15T00:00Z
+### KP Index: 6
+### Source: NOAA
+### Linked Events
+#### 2022-01-14T21:39:00-HSS-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/GST/18841/-1)
+## 2022-01-19T00:00:00-GST-001
+### Start Time: 2022-01-19T00:00Z
+### Observed Time: 2022-01-19T03:00Z
+### KP Index: 6
+### Source: NOAA
+### Linked Events
+#### 2022-01-15T16:12:00-CME-001
+#### 2022-01-16T20:48:00-CME-001
+#### 2022-01-18T23:04:00-IPS-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/GST/18884/-1)
+## 2022-03-13T12:00:00-GST-001
+### Start Time: 2022-03-13T12:00Z
+### Observed Time: 2022-03-13T15:00Z
+### KP Index: 6
+### Source: NOAA
+### Observed Time: 2022-03-13T21:00Z
+### KP Index: 6
+### Source: NOAA
+### Observed Time: 2022-03-14T00:00Z
+### KP Index: 6
+### Source: NOAA
+### Observed Time: 2022-03-14T03:00Z
+### KP Index: 6
+### Source: NOAA
+### Linked Events
+#### 2022-03-10T19:23:00-CME-001
+#### 2022-03-13T10:11:00-IPS-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/GST/19427/-1)

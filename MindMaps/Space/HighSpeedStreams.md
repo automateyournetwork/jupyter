@@ -1,61 +1,38 @@
 # High Speed Streams
-## 2021-12-15T04:30:00-HSS-001
-### Event Time: 2021-12-15T04:30Z
-### Instruments:
-#### DSCOVR: PLASMAG
-#### ACE: SWEPAM
-#### ACE: MAG
-#### 2021-12-15T03:20:00-IPS-001
-### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18530/-1)
-## 2021-12-10T11:00:00-HSS-001
-### Event Time: 2021-12-10T11:00Z
+## 2022-02-17T12:07:00-HSS-001
+### Event Time: 2022-02-17T12:07Z
 ### Instruments:
 #### STEREO A: IMPACT
 #### STEREO A: PLASTIC
-#### 2021-12-10T11:00:00-IPS-001
-### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18540/-1)
-## 2021-12-15T16:00:00-HSS-001
-### Event Time: 2021-12-15T16:00Z
-### Instruments:
-#### STEREO A: IMPACT
-#### STEREO A: PLASTIC
-### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18561/-1)
-## 2021-12-19T18:00:00-HSS-001
-### Event Time: 2021-12-19T18:00Z
+#### 2022-02-17T12:01:00-IPS-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/19211/-1)
+## 2022-02-27T06:28:00-HSS-001
+### Event Time: 2022-02-27T06:28Z
 ### Instruments:
 #### DSCOVR: PLASMAG
 #### ACE: SWEPAM
 #### ACE: MAG
-#### 2021-12-19T12:08:00-IPS-001
-#### 2021-12-22T15:10:00-RBE-001
-### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18591/-1)
-## 2021-12-27T14:40:00-HSS-001
-### Event Time: 2021-12-27T14:40Z
+#### 2022-02-27T03:30:00-IPS-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/19291/-1)
+## 2022-02-19T08:40:00-HSS-001
+### Event Time: 2022-02-19T08:40Z
 ### Instruments:
 #### DSCOVR: PLASMAG
+#### 2022-02-19T02:17:00-IPS-001
+#### 2022-02-26T16:20:00-RBE-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/19250/-1)
+## 2022-03-03T14:00:00-HSS-001
+### Event Time: 2022-03-03T14:00Z
+### Instruments:
 #### ACE: SWEPAM
 #### ACE: MAG
-#### 2021-12-27T08:38:00-IPS-001
-### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18683/-1)
-## 2021-12-30T00:32:00-HSS-001
-### Event Time: 2021-12-30T00:32Z
+#### 2022-03-05T05:44:00-IPS-001
+#### 2022-03-06T12:50:00-RBE-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/19336/-1)
+## 2022-03-05T05:44:00-HSS-001
+### Event Time: 2022-03-05T05:44Z
 ### Instruments:
 #### DSCOVR: PLASMAG
-#### ACE: SWEPAM
-#### ACE: MAG
-#### 2021-12-29T19:31:00-IPS-001
-### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18692/-1)
-## 2022-01-01T01:43:00-HSS-001
-### Event Time: 2022-01-01T01:43Z
-### Instruments:
-#### DSCOVR: PLASMAG
-#### ACE: SWEPAM
-#### ACE: MAG
-#### 2022-01-05T16:55:00-RBE-001
-### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18708/-1)
-## 2022-01-07T05:47:00-HSS-001
-### Event Time: 2022-01-07T05:47Z
-### Instruments:
-#### STEREO A: PLASTIC
-#### 2022-01-07T02:24:00-IPS-001
-### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/18750/-1)
+#### 2022-03-05T05:44:00-IPS-001
+#### 2022-03-06T12:50:00-RBE-001
+### [Link](https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/HSS/19341/-1)

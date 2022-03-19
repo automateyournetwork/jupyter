@@ -12,7 +12,7 @@
 ### Known Count: 3743
 ### Last Updated: 08/08/2021
 ## moonsPlanet
-### Known Count: 205
+### Known Count: 206
 ### Last Updated: 08/10/2019
 ## moonsDwarfPlanet
 ### Known Count: 9

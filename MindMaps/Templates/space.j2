@@ -55,51 +55,16 @@
 {%-     endfor %}
 {%- endfor %}
 ## Weather On Mars
-### Sol {{ sol }}
-#### Atmosphere
-##### Atmospheric Temperature
-###### AV: {{ solDetails.AT.av }}
-###### CT: {{ solDetails.AT.ct }}
-###### MN: {{ solDetails.AT.mn }}
-###### MX: {{ solDetails.AT.mx }}
-##### Atmospheric Pressure
-###### AV: {{ solDetails.PRE.av }}
-###### CT: {{ solDetails.PRE.ct }}
-###### MN: {{ solDetails.PRE.mn }}
-###### MX: {{ solDetails.PRE.mx }}
-#### Wind
-##### Horizontal Wind Speed
-###### AV: {{ solDetails.HWS.av }}
-###### CT: {{ solDetails.HWS.ct }}
-###### MN: {{ solDetails.HWS.mn }}
-###### MX: {{ solDetails.HWS.mx }}
-{%- for compass in solDetails.WD %}
-##### Wind Direction Sensor {{ compass }}
-###### Compass Degrees: {{ solDetails.WD[compass].compass_degrees }}
-###### Compass Point: {{ solDetails.WD[compass].compass_point }}
-###### Compass Right: {{ solDetails.WD[compass].compass_right }}
-###### Compass Up: {{ solDetails.WD[compass].compass_up }}
-###### CT: {{ solDetails.WD[compass].ct }}
-{%- endfor %}
-#### UTC
-##### First UTC: {{ solDetails.First_UTC }}
-##### First UTC: {{ solDetails.Last_UTC }}
-#### Month Ordinal: {{ solDetails.Month_ordinal }}
-#### Seasons
-##### Season {{ solDetails.Season }}
-##### Northern Season {{ solDetails.Northern_season }}
-##### Southern Season {{ solDetails.Southern_season }}
-#### Validity Checks
+### Validity Checks
 {%- for sol in solChecks.sols_checked %}
-##### Sol: {{ sol }}
-###### AT Hours With Data: {{ solChecks[sol].AT.sol_hours_with_data | replace("[","") | replace("]","") }}
-###### AT Valid: {{ solChecks[sol].AT.valid }}
-###### HWS Hours With Data: {{ solChecks[sol].HWS.sol_hours_with_data | replace("[","") | replace("]","") }}
-###### HWS Valid: {{ solChecks[sol].HWS.valid }}
-###### PRE Hours With Data: {{ solChecks[sol].PRE.sol_hours_with_data | replace("[","") | replace("]","") }}
-###### PRE Valid: {{ solChecks[sol].PRE.valid }}
-###### WD Hours With Data: {{ solChecks[sol].WD.sol_hours_with_data | replace("[","") | replace("]","") }}
-###### WD Valid: {{ solChecks[sol].WD.valid }}
+### AT Hours With Data: {{ solChecks[sol].AT.sol_hours_with_data | replace("[","") | replace("]","") }}
+#### AT Valid: {{ solChecks[sol].AT.valid }}
+#### HWS Hours With Data: {{ solChecks[sol].HWS.sol_hours_with_data | replace("[","") | replace("]","") }}
+#### HWS Valid: {{ solChecks[sol].HWS.valid }}
+#### PRE Hours With Data: {{ solChecks[sol].PRE.sol_hours_with_data | replace("[","") | replace("]","") }}
+#### PRE Valid: {{ solChecks[sol].PRE.valid }}
+#### WD Hours With Data: {{ solChecks[sol].WD.sol_hours_with_data | replace("[","") | replace("]","") }}
+#### WD Valid: {{ solChecks[sol].WD.valid }}
 {%- endfor %}
 ###### Sol Hours Required: {{ solChecks.sol_hours_required }}
 ## Coronal Mass Ejections

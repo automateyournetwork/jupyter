@@ -23,7 +23,7 @@ headers = {
 # Put this key below before running the code
 # -------------------------
 
-nasa_key = '{{ your key here }}'
+nasa_key = "xvwjBYEmGaCA4hAbZYFF7V09MyOe8lXeiCnLqj0C"
 
 # -------------------------
 # Location
@@ -76,19 +76,13 @@ with open("Space/People.md", "w") as fh:
 weatherOnMars_template = env.get_template('weatherOnMars.j2')
 weatherOnMars = requests.request("GET", f"https://api.nasa.gov/insight_weather/?api_key={ nasa_key }&feedtype=json&ver=1.0", headers=headers)
 weatherOnMarsJSON = weatherOnMars.json()
-sol = weatherOnMarsJSON['sol_keys'][0]
-solDetails = weatherOnMarsJSON[sol]
 solChecks = weatherOnMarsJSON['validity_checks']
 
 # -------------------------
 # Template
 # -------------------------
 
-parsed_all_output = weatherOnMars_template.render(
-  sol = sol,
-  solDetails = solDetails,
-  solChecks = solChecks,
-  )
+parsed_all_output = weatherOnMars_template.render(solChecks = solChecks)
 
 # -------------------------
 # Save File
@@ -258,22 +252,24 @@ with open("Space/SolarEnergeticParticles.md", "w") as fh:
 
 mpc_template = env.get_template('mpc.j2')
 mpc = requests.request("GET", f"https://api.nasa.gov/DONKI/MPC?api_key={ nasa_key }")
-mpcJSON = mpc.json()
+if mpc.text:
+    mpcJSON = mpc.json()
 
 # -------------------------
 # Template
 # -------------------------
 
-parsed_all_output = mpc_template.render(mpc = mpcJSON)
+    parsed_all_output = mpc_template.render(mpc = mpcJSON)
 
 # -------------------------
 # Save File
 # -------------------------
 
-with open("Space/MagnetopauseCrossings.md", "w") as fh:
-    fh.write(parsed_all_output)               
-    fh.close()
-
+    with open("Space/MagnetopauseCrossings.md", "w") as fh:
+        fh.write(parsed_all_output)               
+        fh.close()
+else:
+    mpcJSON = {}
 # -------------------------
 # Radiation Belt Enhancement
 # -------------------------
@@ -458,8 +454,6 @@ with open("Space/Planets.md", "w") as fh:
 parsed_all_output = space_template.render(
   location = locationJSON,
   people = peopleJSON,
-  sol = sol,
-  solDetails = solDetails,
   solChecks = solChecks,
   apod = apodJSON,
   neo = neoJSON,
