@@ -15,17 +15,17 @@ Using various APIs Jupyter collects JSON data and then uses Jinja2 templates to 
 
 Please visit [NASA](api.nasa.gov)
 
-And register for an API key. Once you have your key please replace line 26 in the Jupyter.py file 
+And register for an API key. Once you have your key please add it to the .env file
 
-```python
 # -------------------------
 # ! Important ! 
 # You need to get a key from https://api.nasa.gov/
-# Put this key below before running the code
+# Put this key in the .env file
 # -------------------------
 
-nasa_key = '{{ your key here }}'
-```
+.env
+
+NASA_KEY = "your key here"
 
 ## Setup
 
