@@ -1,0 +1,346 @@
+# Space
+## International Space Station
+### Timestamp: {{ location.timestamp }}
+### Location
+#### Latitude: {{ location.iss_position.latitude }}
+#### Longitude: {{ location.iss_position.longitude }}
+## People In Space
+### Craft
+#### International Space Station
+{%- for craft in people.people if craft.craft == "ISS"%}
+##### {{ craft.name }}
+{%- endfor %}
+#### Shenzhou 13
+{%- for craft in people.people if craft.craft == "Shenzhou 13" %}
+##### {{ craft.name }}
+{%- endfor %}
+### Total Number: {{ people.number }}
+## Astronomy Photo of the Day
+### Title: {{ apod.title }}
+#### Date: {{ apod.date }}
+#### Explaination: {{ apod.explanation }}
+#### URLs 
+##### [Hi Definition]({{ apod.hdurl }})
+##### [Regular Definiton ]({{ apod.hdurl }})
+#### Copyright {{ apod.copyright }}
+## Near Earth Objects
+### Total Number: {{ neo.element_count }}
+{%- for date in neo.near_earth_objects %}
+#### Date: {{ date }}
+##### Name: {{ neo.near_earth_objects[date][0].name }}
+###### ID: {{ neo.near_earth_objects[date][0].id }}
+###### [NASA JPL URL]({{ neo.near_earth_objects[date][0].nasa_jpl_url }})
+###### Sentry Object: {{ neo.near_earth_objects[date][0].is_sentry_object }}
+##### Size
+###### Absolute Magnitude(h): {{ neo.near_earth_objects[date][0].absolute_magnitude_h }}
+###### Estimated Maximum Diameter(kilometers): {{ neo.near_earth_objects[date][0].estimated_diameter.kilometers.estimated_diameter_max }}
+###### Estimated Minumum Diameter(kilometers): {{ neo.near_earth_objects[date][0].estimated_diameter.kilometers.estimated_diameter_min }}
+###### Estimated Maximum Diameter(meters): {{ neo.near_earth_objects[date][0].estimated_diameter.meters.estimated_diameter_max }}
+###### Estimated Minumum Diameter(meters): {{ neo.near_earth_objects[date][0].estimated_diameter.meters.estimated_diameter_min }}
+###### Estimated Maximum Diameter(miles): {{ neo.near_earth_objects[date][0].estimated_diameter.miles.estimated_diameter_max }}
+###### Estimated Minumum Diameter(miles): {{ neo.near_earth_objects[date][0].estimated_diameter.miles.estimated_diameter_min }}
+###### Estimated Maximum Diameter(feet): {{ neo.near_earth_objects[date][0].estimated_diameter.feet.estimated_diameter_max }}
+###### Estimated Minumum Diameter(feet): {{ neo.near_earth_objects[date][0].estimated_diameter.feet.estimated_diameter_min }}
+##### Potentially Hazardous: {{ neo.near_earth_objects[date][0].is_potentially_hazardous_asteroid }}
+{%-     for approach in neo.near_earth_objects[date][0].close_approach_data %}
+##### Close Date Approach {{ approach.close_approach_date_full }}
+###### Relative Velocity Kilometers Per Second: {{ approach.relative_velocity.kilometers_per_second }}
+###### Relative Velocity Kilometers Per Hour: {{ approach.relative_velocity.kilometers_per_hour }}
+###### Relative Velocity Miles Per Hour: {{ approach.relative_velocity.miles_per_hour }}
+###### Miss Distance Astronomical : {{ approach.miss_distance.astronomical }}
+###### Miss Distance Lunar: {{ approach.miss_distance.lunar }}
+###### Miss Distance Kilometers: {{ approach.miss_distance.kilometers }}
+###### Miss Distance Miles: {{ approach.miss_distance.miles }}
+##### Orbiting Body: {{ approach.orbiting_body }}
+{%-     endfor %}
+{%- endfor %}
+## Weather On Mars
+### Validity Checks
+{%- for sol in solChecks.sols_checked %}
+### AT Hours With Data: {{ solChecks[sol].AT.sol_hours_with_data | replace("[","") | replace("]","") }}
+#### AT Valid: {{ solChecks[sol].AT.valid }}
+#### HWS Hours With Data: {{ solChecks[sol].HWS.sol_hours_with_data | replace("[","") | replace("]","") }}
+#### HWS Valid: {{ solChecks[sol].HWS.valid }}
+#### PRE Hours With Data: {{ solChecks[sol].PRE.sol_hours_with_data | replace("[","") | replace("]","") }}
+#### PRE Valid: {{ solChecks[sol].PRE.valid }}
+#### WD Hours With Data: {{ solChecks[sol].WD.sol_hours_with_data | replace("[","") | replace("]","") }}
+#### WD Valid: {{ solChecks[sol].WD.valid }}
+{%- endfor %}
+###### Sol Hours Required: {{ solChecks.sol_hours_required }}
+## Coronal Mass Ejections
+{%- for ejection in cme %}
+### Activity ID: {{ ejection.activityID }}
+#### Catalog: {{ ejection.catalog }}
+#### Start Time: {{ ejection.startTime }}
+#### Source Location: {{ ejection.sourceLocation }}
+#### Active Region Number: {{ ejection.activeRegionNum }}
+#### [Link]({{ ejection.link }})
+#### Note: {{ ejection.note }}
+#### Instruments
+{%-     for instrument in ejection.instruments %}
+##### {{ instrument.displayName }}
+{%-     endfor %}
+#### Analysis
+{%-     for item in ejection.cmeAnalyses %}
+##### Time: {{ item.time21_5 }}
+##### Latitude: {{ item.latitude }}
+##### Longitude: {{ item.longitude }}
+##### Half Angle: {{ item.halfAngle }}
+##### Speed: {{ item.speed }}
+##### Type: {{ item.type }}
+##### Most Accurate: {{ item.isMostAccurate }}
+##### Level of Data: {{ item.levelOfData }}
+##### [Link]({{ item.link }})
+##### Note: {{ item.note }}
+{%-     endfor %}
+{%- endfor %}
+## Geomagnetic Storms
+{%- for storm in gst %}
+### {{ storm.gstID }}
+#### Start Time: {{ storm.startTime }}
+{%-     for index in storm.allKpIndex %}
+#### Observed Time: {{ index.observedTime }}
+#### KP Index: {{ index.kpIndex }}
+#### Source: {{ index.source }}
+{%-     endfor %}
+#### Linked Events
+{%-     for event in storm.linkedEvents %}
+##### {{ event.activityID }}
+{%-     endfor %}
+#### [Link]({{ storm.link }})
+{%- endfor %}
+## Interplanetary Shock
+{%- for ips in ips %}
+### {{ ips.activityID }}
+#### Catalog: {{ ips.catalog }}
+#### Location: {{ ips.location }}
+#### Event Time: {{ ips.eventTime }}
+#### Instruments
+{%-     for instrument in ips.instruments %}
+##### {{ instrument.displayName }}
+{%-     endfor %}
+#### [Link]({{ ips.link }})
+#### Event Time: {{ ips.eventTime }}
+{%- endfor %}
+## Solar Flares
+{%- for flare in flr %}
+### {{ flare.flrID }}
+#### Times
+##### Begin Time {{ flare.beginTime }}
+##### Peak Time {{ flare.peakTime }}
+##### End Time {{ flare.endTime }}
+#### Class Type: {{ flare.classType }}
+#### Source Location: {{ flare.sourceLocation }}
+#### Active Region Number: {{ flare.activeRegionNum }}
+#### Instruments
+{%-     for instrument in flare.instruments %}
+##### {{ instrument.displayName }}
+{%-     endfor %}
+#### Linked Events
+{%-     if flare.linkedEvents %}
+{%-         for event in flare.linkedEvents %}
+##### {{ event.activityID }}
+{%-         endfor %}
+{%-     endif %}
+#### [Link]({{ flare.link }})
+{%- endfor %}
+## Solar Energetic Particles
+{%- for sep in sep %}
+### {{ sep.sepID }}
+#### Event Time: {{ sep.eventTime }}
+#### Instruments:
+{%-     for instrument in sep.instruments %}
+##### {{ instrument.displayName }}
+{%-     endfor %}
+{%-     if sep.linkedEvents %}
+{%-         for event in sep.linkedEvents %}
+##### {{ event.activityID }}
+{%-         endfor %}
+{%-     endif %}
+#### [Link]({{ sep.link }})
+{%- endfor %}
+## Magnetopause Crossings
+{%- for crossing in mpc %}
+### {{ crossing.mpcID }}
+#### Event Time: {{ crossing.eventTime }}
+#### Instruments:
+{%-     for instrument in crossing.instruments %}
+##### {{ instrument.displayName }}
+{%-     endfor %}
+{%-     if crossing.linkedEvents %}
+{%-         for event in crossing.linkedEvents %}
+##### {{ event.activityID }}
+{%-         endfor %}
+{%-     endif %}
+#### [Link]({{ crossing.link }})
+{%- endfor %}
+## Radiation Belt Enhancements
+{%- for enhancement in rbe %}
+### {{ enhancement.rbeID }}
+#### Event Time: {{ enhancement.eventTime }}
+#### Instruments:
+{%-     for instrument in enhancement.instruments %}
+##### {{ instrument.displayName }}
+{%-     endfor %}
+{%-     if enhancement.linkedEvents %}
+{%-         for event in enhancement.linkedEvents %}
+##### {{ event.activityID }}
+{%-         endfor %}
+{%-     endif %}
+#### [Link]({{ enhancement.link }})
+{%- endfor %}
+## High Speed Streams
+{%- for stream in hss %}
+### {{ stream.hssID }}
+#### Event Time: {{ stream.eventTime }}
+#### Instruments:
+{%-     for instrument in stream.instruments %}
+##### {{ instrument.displayName }}
+{%-     endfor %}
+{%-     if stream.linkedEvents %}
+{%-         for event in stream.linkedEvents %}
+##### {{ event.activityID }}
+{%-         endfor %}
+{%-     endif %}
+#### [Link]({{ stream.link }})
+{%- endfor %}
+## WSA Enlil Simulations
+{%- for simulation in wsa %}
+### {{ simulation.simulationID }}
+#### Model Completion Time: {{ simulation.modelCompletionTime }}
+#### AU: {{ simulation.au }}
+#### CME Inputs:
+{%-     for input in simulation.cmeInputs %}
+##### {{ input.cmeid }}
+###### Start Time: {{ input.cmeStartTime }}
+###### Latitude: {{ input.latitude }}
+###### Longitude: {{ input.longitude }}
+###### Speed: {{ input.speed }}
+###### Half Angle: {{ input.halfAngle }}
+###### Time: {{ input.time21_5 }}
+###### Most Accurate: {{ input.isMostAccurate }}
+###### Level of Data: {{ input.levelOfData }}
+{%-     endfor %}
+#### Estimated Shock Arrival Time: {{ simulation.estimatedShockArrivalTime }}
+#### Estimated Duration: {{ simulation.estimatedDuration }}
+#### RMIN RE: {{ simulation.rmin_re }}
+#### KP
+##### 18: {{ simulation.kp_18 }}
+##### 90: {{ simulation.kp_90 }}
+##### 135: {{ simulation.kp_135 }}
+##### 180: {{ simulation.kp_180 }}
+#### Earth GB: {{ simulation.isEarthGB }}
+#### Impact List: {{ simulation.impactList }}
+#### [Link]({{ simulation.link }})
+{%- endfor %}
+## Notifications
+{%- for notification in notifications %}
+### {{ notification.messageID }}
+#### Message Type: {{ notification.messageType }}
+#### [Message_URL]({{ notification.messageURL }})
+#### Issued: {{ notification.messageIssueTime }}
+{%- endfor %}
+## Natural Events
+{%- for event in events.events %}
+### {{ event.id }}
+#### Title: {{ event.title }}
+#### Description: {{ event.description }}
+#### [Link]({{ event.link }})
+#### Categories
+{%-     for category in event.categories %}
+##### ID: {{ category.id }}
+##### Title: {{ category.title }}
+{%-     endfor %}
+#### Sources
+{%-     for source in event.sources %}
+##### ID: {{ source.id }}
+##### [Link]({{ source.url }})
+{%-     endfor %}
+#### Geometries
+{%-     for geo in event.geometries %}
+##### Date: {{ geo.date }}
+##### Type: {{ geo.type }})
+##### Coordinates
+###### Latitude: {{ geo.coordinates[0] }}
+###### Longitude: {{ geo.coordinates[1] }}
+{%-     endfor %}
+{%- endfor %}
+## Earth Polychromatic Imaging Camera
+{%- for image in epicNatural %}
+### {{ image.identifier }}
+#### Image: {{ image.image }}
+#### Caption: {{ image.image }}
+#### Version: {{ image.version }}
+#### Centroid Coordinates
+##### Latitude: {{ image.centroid_coordinates.lat }}
+##### Longitude: {{ image.centroid_coordinates.lon }}
+#### Discovery J2000 Position
+##### X: {{ image.dscovr_j2000_position.x }}
+##### Y: {{ image.dscovr_j2000_position.y }}
+##### Z: {{ image.dscovr_j2000_position.z }}
+#### Lunar J2000 Position
+##### X: {{ image.lunar_j2000_position.x }}
+##### Y: {{ image.lunar_j2000_position.y }}
+##### Z: {{ image.lunar_j2000_position.z }}
+#### Sun J2000 Position
+##### X: {{ image.sun_j2000_position.x }}
+##### Y: {{ image.sun_j2000_position.y }}
+##### Z: {{ image.sun_j2000_position.z }}
+#### Attitude Quaternions
+##### Q0: {{ image.attitude_quaternions.q0 }}
+##### Q1: {{ image.attitude_quaternions.q1 }}
+##### Q2: {{ image.attitude_quaternions.q2 }}
+##### Q3: {{ image.attitude_quaternions.q3 }}
+{%- endfor %}
+## Known Celestial Body Count
+{%- for count in knownCount %}
+### {{ count.id }}
+#### Known Count: {{ count.knownCount }}
+#### Last Updated: {{ count.updateDate }}
+{%- endfor %}
+## Planets
+{%- for planet in planets %}
+### {{ planet.name }}
+#### Names
+##### {{ planet.name }}
+##### English: {{ planet.englishName }}
+##### Alternative: {{ planet.alternativeName }}
+#### Semi Major Axis: {{ planet.semimajorAxis }}
+#### Perihelion: {{ planet.perihelion }}
+#### Aphelion: {{ planet.aphelion }}
+#### Eccentricity: {{ planet.eccentricity }}
+#### Inclination: {{ planet.inclination }}
+#### Mass
+##### Value: {{ planet.mass.massValue }}
+##### Exponent: {{ planet.mass.massExponent }}
+#### Volume
+##### Value: {{ planet.vol.volValue }}
+##### Exponent: {{ planet.vol.volExponent }}
+#### Density: {{ planet.density }}
+#### Gravity: {{ planet.escape }}
+#### Radius
+##### Mean: {{ planet.meanRadius }}
+##### Equater: {{ planet.equaRadius }}
+##### Polar: {{ planet.polarRadius }}
+#### Flattening: {{ planet.flattening }}
+#### Dimension: {{ planet.dimension }}
+#### Sideral
+##### Orbit: {{ planet.sideralOrbit }}
+##### Rotation: {{ planet.sideralRotation }}
+#### Around Planet: {{ planet.aroundPlanet }}
+#### Discovered
+##### By: {{ planet.discoveredBy }}
+##### Date: {{ planet.discoveryDate }}
+#### Axial Tilt: {{ planet.axialTilt }}
+#### Average Temperature: {{ planet.avgTemp }}
+#### Main Anomaly: {{ planet.mainAnomaly }}
+#### Periapsis: {{ planet.argPeriapsis }}
+#### Long Asc Node: {{ planet.longAscNode }}
+{%-     if planet.moons %}
+#### Moons
+{%-         for moon in planet.moons %}
+##### {{ moon.moon }}
+###### [Details]({{ moon.rel }})
+{%-         endfor %}
+{%-     endif %}
+{%- endfor %}

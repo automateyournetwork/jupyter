@@ -1,0 +1,13 @@
+# Interplanetary Shock
+{%- for ips in ips %}
+## {{ ips.activityID }}
+### Catalog: {{ ips.catalog }}
+### Location: {{ ips.location }}
+### Event Time: {{ ips.eventTime }}
+### Instruments
+{%-     for instrument in ips.instruments %}
+#### {{ instrument.displayName }}
+{%-     endfor %}
+### [Link]({{ ips.link }})
+### Event Time: {{ ips.eventTime }}
+{%- endfor %}

@@ -1,0 +1,18 @@
+# Weather On Mars
+## Validity Checks
+{%- for sol in solChecks.sols_checked %}
+### Sol: {{ sol }}
+#### AT
+##### Hours With Data: {{ solChecks[sol].AT.sol_hours_with_data | replace("[","") | replace("]","") }}
+##### Valid: {{ solChecks[sol].AT.valid }}
+#### HWS
+##### Hours With Data: {{ solChecks[sol].HWS.sol_hours_with_data | replace("[","") | replace("]","") }}
+##### Valid: {{ solChecks[sol].HWS.valid }}
+#### PRE
+##### Hours With Data: {{ solChecks[sol].PRE.sol_hours_with_data | replace("[","") | replace("]","") }}
+##### Valid: {{ solChecks[sol].PRE.valid }}
+#### WD
+##### Hours With Data: {{ solChecks[sol].WD.sol_hours_with_data | replace("[","") | replace("]","") }}
+##### Valid: {{ solChecks[sol].WD.valid }}
+{%- endfor %}
+#### Sol Hours Required: {{ solChecks.sol_hours_required }}

@@ -1,0 +1,15 @@
+# Geomagnetic Storms
+{%- for storm in gst %}
+## {{ storm.gstID }}
+### Start Time: {{ storm.startTime }}
+{%-     for index in storm.allKpIndex %}
+### Observed Time: {{ index.observedTime }}
+### KP Index: {{ index.kpIndex }}
+### Source: {{ index.source }}
+{%-     endfor %}
+### Linked Events
+{%-     for event in storm.linkedEvents %}
+#### {{ event.activityID }}
+{%-     endfor %}
+### [Link]({{ storm.link }})
+{%- endfor %}

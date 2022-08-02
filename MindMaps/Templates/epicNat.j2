@@ -1,0 +1,27 @@
+# Earth Polychromatic Imaging Camera
+{%- for image in epicNatural %}
+## {{ image.identifier }}
+### Image: {{ image.image }}
+### Caption: {{ image.image }}
+### Version: {{ image.version }}
+### Centroid Coordinates
+#### Latitude: {{ image.centroid_coordinates.lat }}
+#### Longitude: {{ image.centroid_coordinates.lon }}
+### Discovery J2000 Position
+#### X: {{ image.dscovr_j2000_position.x }}
+#### Y: {{ image.dscovr_j2000_position.y }}
+#### Z: {{ image.dscovr_j2000_position.z }}
+### Lunar J2000 Position
+#### X: {{ image.lunar_j2000_position.x }}
+#### Y: {{ image.lunar_j2000_position.y }}
+#### Z: {{ image.lunar_j2000_position.z }}
+### Sun J2000 Position
+#### X: {{ image.sun_j2000_position.x }}
+#### Y: {{ image.sun_j2000_position.y }}
+#### Z: {{ image.sun_j2000_position.z }}
+### Attitude Quaternions
+#### Q0: {{ image.attitude_quaternions.q0 }}
+#### Q1: {{ image.attitude_quaternions.q1 }}
+#### Q2: {{ image.attitude_quaternions.q2 }}
+#### Q3: {{ image.attitude_quaternions.q3 }}
+{%- endfor %}

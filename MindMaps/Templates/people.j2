@@ -1,0 +1,11 @@
+# People In Space
+## Craft
+### International Space Station
+{%- for craft in people.people if craft.craft == "ISS"%}
+#### {{ craft.name }}
+{%- endfor %}
+### Shenzhou 13
+{%- for craft in people.people if craft.craft == "Shenzhou 13" %}
+#### {{ craft.name }}
+{%- endfor %}
+## Total Number: {{ people.number }}

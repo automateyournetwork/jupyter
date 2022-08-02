@@ -1,0 +1,22 @@
+# Solar Flares
+{%- for flare in flr %}
+## {{ flare.flrID }}
+### Times
+#### Begin Time {{ flare.beginTime }}
+#### Peak Time {{ flare.peakTime }}
+#### End Time {{ flare.endTime }}
+### Class Type: {{ flare.classType }}
+### Source Location: {{ flare.sourceLocation }}
+### Active Region Number: {{ flare.activeRegionNum }}
+### Instruments
+{%-     for instrument in flare.instruments %}
+#### {{ instrument.displayName }}
+{%-     endfor %}
+### Linked Events
+{%-     if flare.linkedEvents %}
+{%-         for event in flare.linkedEvents %}
+#### {{ event.activityID }}
+{%-         endfor %}
+{%-     endif %}
+### [Link]({{ flare.link }})
+{%- endfor %}

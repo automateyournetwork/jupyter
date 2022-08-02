@@ -1,0 +1,35 @@
+# Near Earth Objects
+## Total Number: {{ neo.element_count }}
+{%- for date in neo.near_earth_objects %}
+### Date: {{ date }}
+#### Name: {{ neo.near_earth_objects[date][0].name }}
+##### ID: {{ neo.near_earth_objects[date][0].id }}
+##### [NASA JPL URL]({{ neo.near_earth_objects[date][0].nasa_jpl_url }})
+##### Sentry Object: {{ neo.near_earth_objects[date][0].is_sentry_object }}
+#### Size
+##### Absolute Magnitude(h): {{ neo.near_earth_objects[date][0].absolute_magnitude_h }}
+##### Estimated Maximum Diameter
+###### Kilometers: {{ neo.near_earth_objects[date][0].estimated_diameter.kilometers.estimated_diameter_max }}
+###### Meters: {{ neo.near_earth_objects[date][0].estimated_diameter.meters.estimated_diameter_max }}
+###### Miles: {{ neo.near_earth_objects[date][0].estimated_diameter.miles.estimated_diameter_max }}
+###### Feet): {{ neo.near_earth_objects[date][0].estimated_diameter.feet.estimated_diameter_max }}
+##### Estimated Minumum Diameter
+###### Kilometers: {{ neo.near_earth_objects[date][0].estimated_diameter.kilometers.estimated_diameter_min }}
+###### Meters: {{ neo.near_earth_objects[date][0].estimated_diameter.meters.estimated_diameter_min }}
+###### Miles: {{ neo.near_earth_objects[date][0].estimated_diameter.miles.estimated_diameter_min }}
+###### Feet: {{ neo.near_earth_objects[date][0].estimated_diameter.feet.estimated_diameter_min }}
+#### Potentially Hazardous: {{ neo.near_earth_objects[date][0].is_potentially_hazardous_asteroid }}
+{%-     for approach in neo.near_earth_objects[date][0].close_approach_data %}
+#### Close Date Approach {{ approach.close_approach_date_full }}
+##### Relative Velocity
+###### Kilometers Per Second: {{ approach.relative_velocity.kilometers_per_second }}
+###### Kilometers Per Hour: {{ approach.relative_velocity.kilometers_per_hour }}
+###### Miles Per Hour: {{ approach.relative_velocity.miles_per_hour }}
+##### Miss Distance
+###### Astronomical : {{ approach.miss_distance.astronomical }}
+###### Lunar: {{ approach.miss_distance.lunar }}
+###### Kilometers: {{ approach.miss_distance.kilometers }}
+###### Miles: {{ approach.miss_distance.miles }}
+#### Orbiting Body: {{ approach.orbiting_body }}
+{%-     endfor %}
+{%- endfor %}

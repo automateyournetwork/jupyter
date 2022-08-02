@@ -1,0 +1,15 @@
+# Magnetopause Crossings
+{%- for crossing in mpc %}
+## {{ crossing.mpcID }}
+### Event Time: {{ crossing.eventTime }}
+### Instruments:
+{%-     for instrument in crossing.instruments %}
+#### {{ instrument.displayName }}
+{%-     endfor %}
+{%-     if crossing.linkedEvents %}
+{%-         for event in crossing.linkedEvents %}
+#### {{ event.activityID }}
+{%-         endfor %}
+{%-     endif %}
+### [Link]({{ crossing.link }})
+{%- endfor %}

@@ -1,0 +1,15 @@
+# Radiation Belt Enhancements
+{%- for enhancement in rbe %}
+## {{ enhancement.rbeID }}
+### Event Time: {{ enhancement.eventTime }}
+### Instruments:
+{%-     for instrument in enhancement.instruments %}
+#### {{ instrument.displayName }}
+{%-     endfor %}
+{%-     if enhancement.linkedEvents %}
+{%-         for event in enhancement.linkedEvents %}
+#### {{ event.activityID }}
+{%-         endfor %}
+{%-     endif %}
+### [Link]({{ enhancement.link }})
+{%- endfor %}

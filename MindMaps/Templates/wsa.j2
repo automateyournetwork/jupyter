@@ -1,0 +1,29 @@
+# WSA Enlil Simulations
+{%- for simulation in wsa %}
+## {{ simulation.simulationID }}
+### Model Completion Time: {{ simulation.modelCompletionTime }}
+### AU: {{ simulation.au }}
+### CME Inputs:
+{%-     for input in simulation.cmeInputs %}
+#### {{ input.cmeid }}
+##### Start Time: {{ input.cmeStartTime }}
+##### Latitude: {{ input.latitude }}
+##### Longitude: {{ input.longitude }}
+##### Speed: {{ input.speed }}
+##### Half Angle: {{ input.halfAngle }}
+##### Time: {{ input.time21_5 }}
+##### Most Accurate: {{ input.isMostAccurate }}
+##### Level of Data: {{ input.levelOfData }}
+{%-     endfor %}
+### Estimated Shock Arrival Time: {{ simulation.estimatedShockArrivalTime }}
+### Estimated Duration: {{ simulation.estimatedDuration }}
+### RMIN RE: {{ simulation.rmin_re }}
+### KP
+#### 18: {{ simulation.kp_18 }}
+#### 90: {{ simulation.kp_90 }}
+#### 135: {{ simulation.kp_135 }}
+#### 180: {{ simulation.kp_180 }}
+### Earth GB: {{ simulation.isEarthGB }}
+### Impact List: {{ simulation.impactList }}
+### [Link]({{ simulation.link }})
+{%- endfor %}
