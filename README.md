@@ -17,16 +17,6 @@ Please visit [NASA](api.nasa.gov)
 
 And register for an API key. Once you have your key please add it to the .env file
 
-# -------------------------
-# ! Important ! 
-# You need to get a key from https://api.nasa.gov/
-# Put this key in the .env file
-# -------------------------
-
-.env
-
-NASA_KEY = "your key here"
-
 ## Setup
 
 I recommend running Jupyter in a Python virtual environment. This will help keep your host system clean and allow you to have multiple environments to try new things. If you are not using a virtual environment, start at the download/clone step below.
@@ -41,21 +31,47 @@ Activate (use) your new virtual environment (Linux):
 ``` console
 source env/bin/activate
 ```
-Download or clone the mind_nmap repository:
+Pip Install the package using pip install jupyter_mindmaps:
 
 ``` console
-git clone https://github.com/automateyournetwork/jupyter.git
+(env)pip install jupyter_mindmaps
 ```
 
-## Run the code! 
+Make a directory to hold your output
+``` console
+(env)mkdir Space Mindmaps
+(env)cd Space Mindmaps
+```
+
+## Run the code help
 
 ```console
-cd Jupyter
-cd MindMaps
-python3 Jupyter.py
+(env)jupyter_mindmaps --help
+```
+![Help](images/help.png)
+
+## Run the code passing the key
+
+```console
+(env)jupyter_mindmaps --token { your NASA token }
+```
+## Run the code interactively
+
+```console
+(env)jupyter_mindmaps
+NASA Token: { your NASA token }
 ```
 
+## Run the code using an environment variable
+
+```console
+(end) export TOKEN={ your NASA token }
+(env)jupyter_mindmaps
+
+```
 ## View the Mindmaps 
+
+Type code . to launch VS Code in the folder 
 
 Install the markmap VS Code Extension
 
