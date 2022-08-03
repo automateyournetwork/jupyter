@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "jupyter_mindmaps"
+version = "1.1.0"
+description = "Mindamps of Space"
+authors = ["John Capobianco <ptcapo@gmail.com>"]
+packages = [{ include = "jupyter_mindmaps", from = "src"}]
+readme = "README.md"
+include = ['src/Templates/*.j2']
+
+[tool.poetry.scripts]
+jupyter_mindmaps = 'jupyter_mindmaps.script:run'
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Jinja2 = "^3.1.2"
+requests = "^2.28.1"
+rich-click = "^1.5.2"
+
+[tool.poetry.dev-dependencies]
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
